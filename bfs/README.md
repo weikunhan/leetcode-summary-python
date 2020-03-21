@@ -3,6 +3,8 @@
 The following question, I prefer to solve by using BFS. It may have the optimal method, please check the discussion in LeetCode.  
 
 * [2D-Array](##2D-Array)
+* [Tree](##Tree)
+* [Graph](##Graph)
 
 ## 2D-Array:
 
@@ -15,4 +17,13 @@ The following question, I prefer to solve by using BFS. It may have the optimal 
 
 1102. https://leetcode.com/problems/path-with-maximum-minimum-value/
 
+### Others
+
+542. https://leetcode.com/problems/01-matrix/
+
 ## Tree
+
+## Graph
+
+### Classical + Heap 
+787. https://leetcode.com/problems/cheapest-flights-within-k-stops/
