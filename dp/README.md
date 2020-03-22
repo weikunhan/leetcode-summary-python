@@ -20,7 +20,7 @@ The following question, I prefer to solve by using DP. It may have the optimal m
 | *#* | *Link* |
 | ---- | --------------------------------------------------------------------- |
 | 304 | https://leetcode.com/problems/range-sum-query-2d-immutable/ |
-| 221 |  |
+| 221 | https://leetcode.com/problems/maximal-square/ |
 
 ## Interval-DP
 
