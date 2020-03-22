@@ -1,4 +1,5 @@
 # leetcode-summary
 The summary for LeetCode questions. Please check [Leetcode](https://leetcode.com/)
 
-* Breadth-first search - [this link](./bfs/README.md)
+* Breadth-First Search - [this link](./bfs/README.md)
+* Dynamic Programming - [this link](./dp/README.md)

@@ -1,4 +1,4 @@
-# Breadth-first search
+# Breadth-First Search
 
 The following question, I prefer to solve by using BFS. It may have the optimal method, please check the discussion in LeetCode.  
 
@@ -8,15 +8,15 @@ The following question, I prefer to solve by using BFS. It may have the optimal 
 
 ## 2D-Array:
 
-### Classical
+### Deque solver
 
 | *#* | *Link* |
 | ---- | --------------------------------------------------------------------- |
-| 94 | https://leetcode.com/problems/rotting-oranges/ |
+| 994 | https://leetcode.com/problems/rotting-oranges/ |
 | 1091 | https://leetcode.com/problems/shortest-path-in-binary-matrix/ |
-| 929 | https://leetcode.com/problems/snakes-and-ladders/ |
+| 909 | https://leetcode.com/problems/snakes-and-ladders/ |
 
-### Classical + Heap 
+### Heap solver
 
 | *#* | *Link* |
 | ---- | --------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ The following question, I prefer to solve by using BFS. It may have the optimal 
 
 ## Graph
 
-### Classical + Heap 
+### Heap solver
 
 | *#* | *Link* |
 | ---- | --------------------------------------------------------------------- |
