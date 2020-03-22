@@ -6,7 +6,7 @@ The following question, I prefer to solve by using BFS. It may have the optimal 
 * [Tree](##Tree)
 * [Graph](##Graph)
 
-## 2D-Array:
+## 2D-Array
 
 ### Deque solver
 
