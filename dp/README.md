@@ -12,9 +12,13 @@ The following question, I prefer to solve by using DP. It may have the optimal m
 * [Longest-sequence-DP](##Longest-sequence-DP)
 
 ## Coordinate-DP
+### The checkerboard problem
+
+| *#* | *Link* |
+| ---- | --------------------------------------------------------------------- |
+| 688 | https://leetcode.com/problems/knight-probability-in-chessboard/
 
 ## Divided-DP
-
 ### Find the sum problem
 
 | *#* | *Link* |
@@ -23,7 +27,6 @@ The following question, I prefer to solve by using DP. It may have the optimal m
 | 221 | https://leetcode.com/problems/maximal-square/ |
 
 ## Interval-DP
-
 ### Find the subset problem
 
 | *#* | *Link* |
