@@ -35,6 +35,7 @@ The following question, I prefer to solve by using BFS. It may have the optimal 
 | ---- | --------------------------------------------------------------------- |
 | 314 | https://leetcode.com/problems/binary-tree-vertical-order-traversal/ |
 | 987 | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/ |
+| 662 | https://leetcode.com/problems/maximum-width-of-binary-tree/ |
 
 ## Graph
 ### Heap solver
