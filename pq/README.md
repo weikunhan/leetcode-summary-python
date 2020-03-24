@@ -1,13 +1,18 @@
-# Priority Queue
+# Heap Sort
 
-The following question, I prefer to solve by using PQ. It may have the optimal method, please check the discussion in LeetCode.  
+The following question, I prefer to solve by using Heap Sort. It may have the optimal method, please check the discussion in LeetCode.  
 
-* [Integer](##Integer)
-* [String](##String)
+* [Min-Heap](##Min-Heap)
+* [Max-Heap](##Max-Heap)
 
-## Integer
-### Find the kth smallest problem
+## Min-Heap
+
+This type of problem includes: find the kth smallest problem, find the kth rare problem
 
 | *#* | *Link* |
 | ---- | --------------------------------------------------------------------- |
 | 373 | https://leetcode.com/problems/find-k-pairs-with-smallest-sums/ |
+
+## Max-Heap
+
+This type of problem includes: find the kth largest problem, find the kth frequently problem

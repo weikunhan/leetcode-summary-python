@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-The following question, I prefer to solve by using DP. It may have the optimal method, please check the discussion in LeetCode.  
+The following question, I prefer to solve by using DP. It may have the optimal method, please check the discussion in LeetCode. When you try to come up a DP solution, you need to know 4 things: 1)state, 2)function, 3)initialization.
 
 * [Coordinate-DP](##Coordinate-DP)
 * [Sequential-DP](##Sequential-DP)
@@ -12,14 +12,16 @@ The following question, I prefer to solve by using DP. It may have the optimal m
 * [Longest-sequence-DP](##Longest-sequence-DP)
 
 ## Coordinate-DP
-### The checkerboard problem
+
+This type of problem includes: the checkerboard problem
 
 | *#* | *Link* |
 | ---- | --------------------------------------------------------------------- |
 | 688 | https://leetcode.com/problems/knight-probability-in-chessboard/
 
 ## Divided-DP
-### Find the sum problem
+
+This type of problem includes: find the area sum problem
 
 | *#* | *Link* |
 | ---- | --------------------------------------------------------------------- |
@@ -27,7 +29,8 @@ The following question, I prefer to solve by using DP. It may have the optimal m
 | 221 | https://leetcode.com/problems/maximal-square/ |
 
 ## Interval-DP
-### Find the subset problem
+
+This type of problem includes: find the subset problem
 
 | *#* | *Link* |
 | ---- | --------------------------------------------------------------------- |
