@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-The following question, I prefer to solve by using DP. It may have the optimal method, please check the discussion in LeetCode. When you try to come up a DP solution, you need to know 4 things: 1)state, 2)function, 3)initialization.
+The following questions, I prefer to solve by using DP. It may have the optimal method, please check the discussion in LeetCode. When you try to come up a DP solution, you need to know 4 things: 1)state, 2)function, 3)initialization.
 
 * [Coordinate-DP](##Coordinate-DP)
 * [Sequential-DP](##Sequential-DP)

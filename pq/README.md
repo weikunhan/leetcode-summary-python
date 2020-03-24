@@ -1,6 +1,6 @@
 # Heap Sort
 
-The following question, I prefer to solve by using Heap Sort. It may have the optimal method, please check the discussion in LeetCode.  
+The following questions, I prefer to solve by using Heap Sort. It may have the optimal method, please check the discussion in LeetCode.  
 
 * [Min-Heap](##Min-Heap)
 * [Max-Heap](##Max-Heap)
