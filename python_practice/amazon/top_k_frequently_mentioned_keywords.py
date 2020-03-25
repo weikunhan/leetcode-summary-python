@@ -9,6 +9,9 @@ Author: Weikun Han <weikunhan@g.ucla.edu>
 
 Reference: https://leetcode.com/discuss/interview-question/542597/
 
+Time complexity: O(n+k*log(n))
+Space complexity: O(n)
+
 Example 1:
 Input:
 k = 2
