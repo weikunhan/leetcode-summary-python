@@ -9,9 +9,10 @@ The following questions, I prefer to solve by using Heap Sort. It may have the o
 
 This type of problem includes: find the kth smallest problem, find the kth rare problem
 
-| *#* | *Link* |
-| ---- | --------------------------------------------------------------------- |
-| 373 | https://leetcode.com/problems/find-k-pairs-with-smallest-sums/ |
+| *#* | *Link* | *Solution* |
+| ---- | -------------------------------- | ---------------------------------- |
+| 373 | https://leetcode.com/problems/find-k-pairs-with-smallest-sums/ | |
+| | https://leetcode.com/discuss/interview-question/542597/ | [this link](../python_practice/amazon/top_k_frequently_mentioned_keywords.py)
 
 ## Max-Heap
 
