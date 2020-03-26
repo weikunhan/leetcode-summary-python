@@ -14,6 +14,9 @@ To solve this kind of problem, you need two steps: 1)initial trie, 2)query trie.
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 208 | https://leetcode.com/problems/implement-trie-prefix-tree/ | |
+| 1268 | https://leetcode.com/problems/search-suggestions-system/ | | 
+| 425 | https://leetcode.com/problems/word-squares/ | |
 
 ## Topological-Sort
 
