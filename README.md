@@ -2,7 +2,8 @@
 The summary for LeetCode questions. Please check [Leetcode](https://leetcode.com/)
 
 * Breadth-First Search - [this link](./bfs/README.md)
-* Dynamic Programming - [this link](./dp/README.md)
-* Heap Sort - [this link](./heap_sort/README.md)
+* Depth-First search - [this link](./dfs/README.md)
 * First-In-First-Out - [this link](./fifo/README.md)
+* Heap Sort - [this link](./heap_sort/README.md)
+* Dynamic Programming - [this link](./dp/README.md)
 * Special Case - [this link](./special_case/README.md)
