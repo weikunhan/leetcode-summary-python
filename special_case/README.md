@@ -2,9 +2,21 @@
 
 The following questions, I prefer to solve by some not commonly used methods. If you interest more about those methods, please find more material about this method.
 
+* [String Processing](##String-Processing)
 * [Topological Sort](##Topological-Sort)
 * [Binary Indexed Tree](##Binary-Indexed-Tree)
 * [Prefix Tree](##Prefix-Tree)
+
+## String-Processing
+
+In computer programming, a string is traditionally a sequence of characters, either as a literal constant or as some kind of variable. [Wikipedia](https://en.wikipedia.org/wiki/String_(computer_science))
+
+To solve this kind of problem, you need to familiar with: 1)sorting method/syntax, 2)split and join syntax, 3)encoding and decoding method/syntax, 4)regular expression 5)Unix utilities(optional)
+
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | |
+
 
 ## Prefix-Tree
 
