@@ -16,7 +16,8 @@ Two sum problem is a variation of the subset sum problem which is interval-DP. O
 | ---- | --------------------------------- | --------------------------------- |
 | 1 | https://leetcode.com/problems/two-sum/ | |
 | 167 | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | |
-| | https://leetcode.com/discuss/interview-question/356960 | |
+| 1* | https://leetcode.com/discuss/interview-question/356960 | [this link](../python_practice/amazon/find_pair_with_given_sum.py) |
+| 1* | https://leetcode.com/discuss/interview-question/372434 | [this link](../python_practice/amazon/two_sum_unique_pairs.py) |
 
 ## String-Processing
 

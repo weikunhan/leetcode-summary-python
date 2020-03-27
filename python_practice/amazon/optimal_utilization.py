@@ -11,8 +11,8 @@ Author: Weikun Han <weikunhan@g.ucla.edu>
 
 Reference: https://leetcode.com/discuss/interview-question/373202
 
-Time complexity: O(nlog(n))
-Space complexity: O(1)
+Time complexity: 
+Space complexity: 
 
 Example 1:
 Input:

@@ -1,5 +1,7 @@
 """ Min Cost to Connect Ropes
 
+https://leetcode.com/problems/minimum-cost-to-connect-sticks (premium)
+
 Given n ropes of different lengths, we need to connect these ropes into one rope. 
 We can connect only 2 ropes at a time. The cost required to connect 2 ropes is 
 equal to sum of their lengths. The length of this connected rope is also equal 

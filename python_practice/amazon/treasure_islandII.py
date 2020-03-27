@@ -17,7 +17,7 @@ Author: Weikun Han <weikunhan@g.ucla.edu>
 
 Reference: https://leetcode.com/discuss/interview-question/356150
 
-Time complexity: O(mn)
+Time complexity: O(mn*mn)
 Space complexity: O(mn)
 
 Example1:
@@ -65,8 +65,7 @@ class Solution(object):
 
     def helper(self, row, col, grid):
         value_list = collections.deque([(row, col, 0)])
-        visit_value_list = [[False] * len(grid[0]) for _ in range(len(grid))]
-        visit_value_list[row][col] = True
+        visit_dict = set([(row, col)])
 
         while value_list:
             temp_value = len(value_list)
@@ -79,15 +78,15 @@ class Solution(object):
                     return cost
 
                 for a, b in [(i + 1, j), (i - 1, j), (i, j + 1), (i, j - 1)]:
-                    if a >= 0 and a < len(grid) and b >= 0 and b < len(grid[0]) and grid[a][b] != 'D' and not visit_value_list[a][b]:
-                        visit_value_list[a][b] = True
+                    if a >= 0 and a < len(grid) and b >= 0 and b < len(grid[0]) and grid[a][b] != 'D' and not (a, b) in visit_dict:
+                        visit_dict.add((a, b))
                         value_list.append((a, b, cost + 1))
 
         return 0
 
 def main():
     gird = [['S', 'O', 'O', 'S', 'S'],
-            ['D', 'O', 'D', 'O', 'O'],
+            ['D', 'O', 'D', 'O', 'D'],
             ['O', 'O', 'O', 'O', 'X'],
             ['X', 'D', 'D', 'O', 'O'],
             ['X', 'D', 'D', 'D', 'O']]

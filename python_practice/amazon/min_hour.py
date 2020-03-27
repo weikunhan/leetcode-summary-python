@@ -8,8 +8,8 @@ Author: Weikun Han <weikunhan@g.ucla.edu>
 
 Reference: https://leetcode.com/discuss/interview-question/411357/
 
-Time complexity: O(n^2)
-Space complexity: O(n^2)
+Time complexity: O(mn)
+Space complexity: O(mn)
 
 Example 1:
 Input:
@@ -63,7 +63,7 @@ class Solution(object):
                 i, j = value_list.popleft()
 
                 for a, b in [(i - 1, j), (i + 1, j), (i, j - 1), (i, j + 1)]:
-                    if a >= 0 and a < rows and b >= 0 and b < colums and grid[a][b] != 1:
+                    if a >= 0 and a < rows and b >= 0 and b < colums and not grid[a][b]:
                         grid[a][b] = 1
                         value_list.append((a, b))
 

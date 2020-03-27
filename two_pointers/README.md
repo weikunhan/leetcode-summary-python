@@ -11,5 +11,5 @@ This type of problem includes: find the k sum problem, remove duplicates element
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| | https://leetcode.com/discuss/interview-question/373202 | [this link](../python_practice/amazon/optimal_utilization.py) |
+| 1099* | https://leetcode.com/discuss/interview-question/373202 | [this link](../python_practice/amazon/optimal_utilization.py) |
 | 1099 | https://leetcode.com/problems/two-sum-less-than-k/ | |
