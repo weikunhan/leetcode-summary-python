@@ -14,7 +14,9 @@ blocks. You cannot leave the map area. Other areas O are safe to sail in.
 The top-left corner is always safe. Output the minimum number of steps to 
 get to the treasure.
 
-Reference: https://leetcode.com/discuss/interview-question/542597/
+Author: Weikun Han <weikunhan@g.ucla.edu>
+
+Reference: https://leetcode.com/discuss/interview-question/347457
 
 Time complexity: O(mn)
 Space complexity: O(mn)

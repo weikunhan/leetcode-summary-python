@@ -13,7 +13,9 @@ as D. You must not enter dangerous blocks. You cannot leave the map area.
 Other areas O are safe to sail in. Output the minimum number of steps to get 
 to any of the treasure islands.
 
-Reference: https://leetcode.com/discuss/interview-question/542597/
+Author: Weikun Han <weikunhan@g.ucla.edu>
+
+Reference: https://leetcode.com/discuss/interview-question/356150
 
 Time complexity: O(mn)
 Space complexity: O(mn)

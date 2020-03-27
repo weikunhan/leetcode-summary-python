@@ -2,20 +2,32 @@
 
 The following questions, I prefer to solve by some not commonly used methods. If you interest more about those methods, please find more material about this method.
 
+* [Two Sum](##Two-Sum)
 * [String Processing](##String-Processing)
+* [Prefix Tree](##Prefix-Tree)
 * [Topological Sort](##Topological-Sort)
 * [Binary Indexed Tree](##Binary-Indexed-Tree)
-* [Prefix Tree](##Prefix-Tree)
+
+## Two-Sum
+
+Two sum problem is a variation of the subset sum problem which is interval-DP. Or, even simply it can solve using two pointers in some situations. I would like to make two sum problems as a special case because there is a faster algorithm that will find pairs that sum to S in linear time. The algorithm below makes use of hash tables which have a constant lookup time.
+
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 1 | https://leetcode.com/problems/two-sum/ | |
+| 167 | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | |
+| | https://leetcode.com/discuss/interview-question/356960 | |
 
 ## String-Processing
 
 In computer programming, a string is traditionally a sequence of characters, either as a literal constant or as some kind of variable. [Wikipedia](https://en.wikipedia.org/wiki/String_(computer_science))
 
-To solve this kind of problem, you need to familiar with: 1)sorting method/syntax, 2)split and join syntax, 3)encoding and decoding method/syntax, 4)regular expression 5)Unix utilities(optional)
+To solve this kind of problem, you need to familiar with: 1)sorting method/syntax, 2)split and join syntax, 3)encoding and decoding method/syntax, 4)regular expression, 5)hash mapping, 6)Unix utilities(optional)
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | |
+| | https://leetcode.com/discuss/interview-question/373006| [this link](../python_practice/amazon/favorite_genres.py) |
 
 
 ## Prefix-Tree

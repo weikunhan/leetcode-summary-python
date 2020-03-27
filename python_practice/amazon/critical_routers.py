@@ -13,7 +13,9 @@ The input to the function/method consists of three arguments:
 Output:
 - Return a list of integers representing the critical nodes.
 
-Reference: https://leetcode.com/discuss/interview-question/542597/
+Author: Weikun Han <weikunhan@g.ucla.edu>
+
+Reference: https://leetcode.com/discuss/interview-question/436073/
 
 Time complexity: O(n)
 Space complexity: O(n)
