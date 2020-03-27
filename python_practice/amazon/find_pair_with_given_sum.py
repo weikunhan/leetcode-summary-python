@@ -33,6 +33,13 @@ Explanation:
 nums[0] + nums[2] = 20 + 40 = 60 = 90 - 30
 nums[1] + nums[5] = 50 + 10 = 60 = 90 - 30
 You should return the pair with the largest number.
+
+Example 3:
+Input: 
+nums = [0, 0]
+target = 30
+Output: 
+[0, 1]
 """
 
 class Solution(object):
@@ -43,7 +50,9 @@ class Solution(object):
         :rtype: List[int]
         """
         
+        target -= 30
         value_dict = {}
+        max_length = -1
         res = [-1, -1]
         
         for i in range(len(nums)):
@@ -52,12 +61,22 @@ class Solution(object):
             if not nums[i] in value_dict:
                 value_dict[temp_value] = i
             else:
-                res.append(value_dict[nums[i]])
-                res.append(i)
-                
-                return res
+                if nums[i] > max_length or temp_value > max_length:
+                    res[0] = value_dict[nums[i]]
+                    res[1] = i
+                    max_length = max(nums[i],target - nums[i])
 
         if res == [-1, -1]:
             res = []
         
         return res
+
+def main(): 
+    nums = [0, 0]
+    target = 30
+    solution = Solution()
+    res = solution.find_pair_with_given_sum(nums, target)
+    print(res)
+
+if __name__ == "__main__": 
+    main()
