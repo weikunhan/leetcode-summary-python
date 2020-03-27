@@ -57,6 +57,12 @@ import collections
 
 class Solution(object):
     def favorite_genres(self, userSongs, songGenres):
+        """
+        :type userSongs: Dict[List[str]]
+        :type songGenres: Dict[List[str]]
+        :rtype: Dict[List[str]]
+        """
+
         res = {}
 
         for user in userSongs:
