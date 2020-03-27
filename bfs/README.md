@@ -16,6 +16,8 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 909 | https://leetcode.com/problems/snakes-and-ladders/ | |
 | 1197 | https://leetcode.com/problems/minimum-knight-moves/ | |
 | | https://leetcode.com/discuss/interview-question/411357/ | [this link](../python_practice/amazon/min_hour.py) |
+| | https://leetcode.com/discuss/interview-question/347457 | [this link](../python_practice/amazon/treasure_island.py) |
+| | https://leetcode.com/discuss/interview-question/356150 | [this link](../python_practice/amazon/treasure_islandII.py) |
 
 ### Heap solver
 

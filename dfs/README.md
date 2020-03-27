@@ -21,3 +21,4 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | | https://leetcode.com/discuss/interview-question/436073/ | [this link](../python_practice/amazon/critical_routers.py) |
+| 1192 | https://leetcode.com/problems/critical-connections-in-a-network/ | |

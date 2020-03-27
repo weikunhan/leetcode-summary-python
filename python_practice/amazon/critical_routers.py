@@ -39,7 +39,7 @@ class Solution(object):
         """
 
         self.value_graph = collections.defaultdict(list)
-        value_list = [-1] * numNodes
+        self.value_list = [-1] * numNodes
         self.res = []
 
         for i in range(numEdges):
@@ -47,26 +47,27 @@ class Solution(object):
             self.value_graph[a].append(b)
             self.value_graph[b].append(a) 
 
-        self.dfs(-1, 0, 0, value_list)
+        self.dfs(-1, 0, 0)
+        self.res = sorted(self.res)
 
         return self.res
 
-    def dfs(self, a, b, count, value_list):
-        value_list[b] = count + 1
+    def dfs(self, a, b, count):
+        self.value_list[b] = count + 1
         
         for node in self.value_graph[b]:
             if node == a:
                 continue
-            elif value_list[node] == -1:
-                temp_value = self.dfs(b, node, count + 1, value_list)
-                value_list[b] = min(value_list[b], temp_value)
+            elif self.value_list[node] == -1:
+                temp_value = self.dfs(b, node, count + 1)
+                self.value_list[b] = min(self.value_list[b], temp_value)
             else:
-                value_list[b] = min(value_list[b], value_list[node])
+                self.value_list[b] = min(self.value_list[b], self.value_list[node])
                 
-        if value_list[b] == count + 1 and b != 0:
+        if self.value_list[b] == count + 1 and b != 0:
             self.res.append(a)
                 
-        return value_list[b]
+        return self.value_list[b]
 
 
 def main():
