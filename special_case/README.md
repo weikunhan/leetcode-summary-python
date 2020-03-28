@@ -4,6 +4,7 @@ The following questions, I prefer to solve by some not commonly used methods. If
 
 * [Two Sum](##Two-Sum)
 * [String Processing](##String-Processing)
+* [Array Converting](##Array-Converting)
 * [Prefix Tree](##Prefix-Tree)
 * [Topological Sort](##Topological-Sort)
 * [Binary Indexed Tree](##Binary-Indexed-Tree)
@@ -21,15 +22,22 @@ Two sum problem is a variation of the subset sum problem which is interval-DP. O
 
 ## String-Processing
 
-In computer programming, a string is traditionally a sequence of characters, either as a literal constant or as some kind of variable. [Wikipedia](https://en.wikipedia.org/wiki/String_(computer_science))
-
-To solve this kind of problem, you need to familiar with: 1)sorting method/syntax, 2)split and join syntax, 3)encoding and decoding method/syntax, 4)regular expression, 5)hash mapping, 6)Unix utilities(optional)
+String processing is extremely important as a data processing related job. You should consider using a standard library for your daily word. However, for programming practice, you need to solve this kind of problem and familiar with: 1)sorting method/syntax, 2)split and join syntax, 3)encoding and decoding method/syntax, 4)regular expression, 5)hash mapping, 6)Unix utilities(optional)
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | |
 | | https://leetcode.com/discuss/interview-question/373006| [this link](../python_practice/amazon/favorite_genres.py) |
 
+## Array-Converting
+
+There are many arrays converting standard libraries such as NumPy. The purpose of array converting is to let numerical data can feed into the mathematical or statistical equation. However, for programming practice, you need to know how to: 1)iterate through an array, 2)play tricks using different programming languages, 3)understand bit manipulation
+
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 54 | https://leetcode.com/problems/spiral-matrix/ | |
+| 59 | https://leetcode.com/problems/spiral-matrix-ii/ | |
+| 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | |
 
 ## Prefix-Tree
 

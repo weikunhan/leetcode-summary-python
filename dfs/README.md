@@ -11,6 +11,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 22 | https://leetcode.com/problems/generate-parentheses/ | |
 | 200 | https://leetcode.com/problems/number-of-islands/ | |
 | 286 | https://leetcode.com/problems/walls-and-gates/ | |
 | | 

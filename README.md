@@ -7,6 +7,7 @@ For the question number with *, it means this question change from original ques
 * Depth-First search - [this link](./dfs/README.md)
 * Two Pointers - [this link](./two_pointers/README.md)
 * First-In-First-Out - [this link](./fifo/README.md)
+* Binary Search - [this link](./binary_search/README.md)
 * Heap Sort - [this link](./heap_sort/README.md)
 * Dynamic Programming - [this link](./dp/README.md)
 * Special Case - [this link](./special_case/README.md)

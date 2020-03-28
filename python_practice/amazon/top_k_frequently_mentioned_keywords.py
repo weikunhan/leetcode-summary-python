@@ -63,10 +63,10 @@ class Solution(object):
         res = []
 
         for review in reviews:
-            temp_list = review.lower().split(' ')
+            temp_list = re.split(r'[;,\s]\s*', review.lower())
 
             for value in temp_list:
-                value = re.sub('[^a-z]', '', value)
+                value = re.sub(r'[^a-z0-9]', '', value)
 
                 if value in key_value_dict:
                     data_value_dict[value] += 1
@@ -79,11 +79,12 @@ def main():
     k = 2
     keywords = ["anacell", "betacellular", "cetracular", "deltacellular", "eurocell"]
     reviews = [
-        "I love anacell Best services; Best services provided by anacell",
-        "betacellular has great services",
-        "deltacellular provides much better services than betacellular",
-        "cetracular is worse than anacell",
-        "Betacellular is better than deltacellular."]
+    "I love anacell Best services; Best services provided by anacell",
+    "betacellular has great services",
+    "deltacellular provides much better services than betacellular",
+    "cetracular is worse than anacell",
+    "Betacellular is better than deltacellular.",
+    ]
     solution = Solution()
     res = solution.topKFrequentMentionedKeywords(keywords, reviews, k)
     print(res)
