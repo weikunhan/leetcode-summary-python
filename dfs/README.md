@@ -19,7 +19,16 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 ## Tree
 ### Backtracking
 
-Unlike linear data structures (Array, Linked List, Queues, Stacks, etc) which have only one logical way to traverse them, trees can be traversed in different ways. Following are the generally used ways for traversing trees: 1)inorder, 2)preorder, 3)postorder 
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 101 | https://leetcode.com/problems/symmetric-tree/ | |
+| 572 | https://leetcode.com/problems/subtree-of-another-tree/ | |
+
+### Preorder
+
+### Inorder
+
+### Postorder
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |

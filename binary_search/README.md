@@ -11,7 +11,7 @@ This type of problem includes: search target value in sorted array, search targe
 
 ## 2D-Array
 
-This type of problem includes: search target value in sorted 2D-array, search target value in special sorted array
+This type of problem includes: search target value in sorted 2D-array, search target value in special sorted 2D-array
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
