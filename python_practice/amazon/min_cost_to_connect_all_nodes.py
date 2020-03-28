@@ -49,7 +49,7 @@ class Solution(object):
 
         self.parent_list = map(self.find, self.parent_list)
 
-        for a, b, cost in sorted(newEdges, key=lambda x:x[2]):
+        for a, b, cost in sorted(newEdges, key=lambda x: x[2]):
             self.union(a - 1, b - 1, cost) 
 
         return self.res
