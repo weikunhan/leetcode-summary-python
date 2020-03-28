@@ -13,7 +13,7 @@ The following questions, I prefer to solve by using DP. It may have the optimal 
 
 ## Coordinate-DP
 
-This type of problem includes: the checkerboard problem
+This type of problem includes: find status in the checkerboard problem
 
 | *#* | *Link* |
 | ---- | --------------------------------------------------------------------- |
