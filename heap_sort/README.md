@@ -27,3 +27,4 @@ Since Python's heapq implementation does not have built in support for max heap,
 | 692 | https://leetcode.com/problems/top-k-frequent-words/ | |
 | 692* | https://leetcode.com/discuss/interview-question/542597/ | [this link](../python_practice/amazon/top_k_frequently_mentioned_keywords.py) |
 | 819 | https://leetcode.com/problems/most-common-word/ | |
+| 973 | https://leetcode.com/problems/k-closest-points-to-origin/ | | 

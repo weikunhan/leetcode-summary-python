@@ -17,5 +17,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 237 | https://leetcode.com/problems/delete-node-in-a-linked-list/ | |
 | 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | |
 | 21 | https://leetcode.com/problems/merge-two-sorted-lists/ | |
+| 86 | https://leetcode.com/problems/partition-list/ | |
