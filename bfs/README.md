@@ -24,6 +24,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 1102 | https://leetcode.com/problems/path-with-maximum-minimum-value/ | |
+| 1102* | https://leetcode.com/discuss/interview-question/383669/ | [this link](../python_practice/amazon/max_of_min_altitudes.py) | 
 
 ### Others
 
