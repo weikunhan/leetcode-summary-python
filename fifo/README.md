@@ -3,7 +3,7 @@
 The following questions, I prefer to solve by using FIFO. It may have the optimal method, please check the discussion in LeetCode.  
 
 * [Queue&Deque](##Queue-Deque)
-* [Linked-List&Doubly-Linked-List](##Linked-List&Doubly-Linked-List)
+* [Linked List&Doubly Linked List](##Linked-List&Doubly-Linked-List)
 
 ## Queue&Deque
 
@@ -11,7 +11,7 @@ The following questions, I prefer to solve by using FIFO. It may have the optima
 | ---- | --------------------------------- | --------------------------------- |
 | 353 | https://leetcode.com/problems/design-snake-game/ | |
 
-## Linked-List&Doubly-Linked-List
+## Linked List&Doubly Linked List
 
 This type of problem includes: 1)delete elements in the linked list, 2)insert elements in the linked list. 3)merge elements from two linked lists 4)rotate elements in a linked list, 5)Copy special linked list
 

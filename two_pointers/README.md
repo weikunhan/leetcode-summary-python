@@ -4,7 +4,7 @@ The following questions, I prefer to solve by using Two Pointers. It may have th
 
 * [Array](##Array)
 * [String](##String)
-* [Link-List](##Link-List)
+* [Link List](##Link-List)
 
 ## Array
 

@@ -2,11 +2,11 @@
 
 The following questions, I prefer to solve by using BFS. It may have the optimal method, please check the discussion in LeetCode.  
 
-* [2D-Array](##2D-Array)
+* [2D Array](##2D-Array)
 * [Tree](##Tree)
 * [Graph](##Graph)
 
-## 2D-Array
+## 2D Array
 ### Deque solver
 
 | *#* | *Link* | *Solution* |
