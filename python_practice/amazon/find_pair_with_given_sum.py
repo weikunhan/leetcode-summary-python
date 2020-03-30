@@ -64,16 +64,13 @@ class Solution(object):
                 if nums[i] > max_length or temp_value > max_length:
                     res[0] = value_dict[nums[i]]
                     res[1] = i
-                    max_length = max(nums[i],target - nums[i])
-
-        if res == [-1, -1]:
-            res = []
+                    max_length = temp_value
         
         return res
 
 def main(): 
-    nums = [0, 0]
-    target = 30
+    nums = [1, 10, 25, 35, 60]
+    target = 90
     solution = Solution()
     res = solution.find_pair_with_given_sum(nums, target)
     print(res)

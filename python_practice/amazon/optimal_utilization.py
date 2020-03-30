@@ -11,8 +11,8 @@ Author: Weikun Han <weikunhan@g.ucla.edu>
 
 Reference: https://leetcode.com/discuss/interview-question/373202
 
-Time complexity: 
-Space complexity: 
+Time complexity: O(mlog(m) + nlog(n) + max(m + n))
+Space complexity: O(1)
 
 Example 1:
 Input:
@@ -96,6 +96,9 @@ class Solution(object):
                         count -= 1
 
                 left += 1
+
+        if not res:
+            res = [[]]
 
         return res
 
