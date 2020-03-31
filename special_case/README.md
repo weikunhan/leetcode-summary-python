@@ -28,6 +28,7 @@ String processing is extremely important as a data processing related job. You s
 | ---- | --------------------------------- | --------------------------------- |
 | 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | |
 | | https://leetcode.com/discuss/interview-question/373006| [this link](../python_practice/amazon/favorite_genres.py) |
+| 468 | https://leetcode.com/problems/validate-ip-address/ | |
 
 ## Array Converting
 
