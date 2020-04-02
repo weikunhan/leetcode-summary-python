@@ -9,7 +9,6 @@ The following questions, I prefer to solve by using FIFO. It may have the optima
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 353 | https://leetcode.com/problems/design-snake-game/ | |
 
 ## Linked List&Doubly Linked List
 

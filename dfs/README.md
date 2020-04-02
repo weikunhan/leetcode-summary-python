@@ -23,6 +23,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 101 | https://leetcode.com/problems/symmetric-tree/ | |
 | 572 | https://leetcode.com/problems/subtree-of-another-tree/ | |
+| 617 | https://leetcode.com/problems/merge-two-binary-trees/ | |
 
 ### Preorder
 

@@ -11,5 +11,7 @@ For the question number with *, it means this question change from original ques
 * First-In-First-Out - [this link](./fifo/README.md)
 * Binary Search - [this link](./binary_search/README.md)
 * Heap Sort - [this link](./heap_sort/README.md)
+* Hash Map - [this link](./hash_map/README.md)
 * Dynamic Programming - [this link](./dp/README.md)
 * Special Case - [this link](./special_case/README.md)
+* Design Problem - [this link](./design_problem/README.md)
