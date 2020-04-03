@@ -46,6 +46,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 288 | https://leetcode.com/problems/unique-word-abbreviation/ | |
 | 244 | https://leetcode.com/problems/shortest-word-distance-ii/ | |
 | 170 | https://leetcode.com/problems/two-sum-iii-data-structure-design/ | |
+| 1146 | https://leetcode.com/problems/snapshot-array/ | |
 
 ## First-In-First-Out
 
@@ -68,7 +69,6 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 284 | https://leetcode.com/problems/peeking-iterator/ | |
 | 155 | https://leetcode.com/problems/min-stack/ | |
 | 232 | https://leetcode.com/problems/implement-queue-using-stacks/ | |
-
 
 ## Heap Sort
 
