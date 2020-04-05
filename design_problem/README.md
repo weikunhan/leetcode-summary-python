@@ -47,6 +47,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 244 | https://leetcode.com/problems/shortest-word-distance-ii/ | |
 | 170 | https://leetcode.com/problems/two-sum-iii-data-structure-design/ | |
 | 1146 | https://leetcode.com/problems/snapshot-array/ | |
+| 731 | https://leetcode.com/problems/my-calendar-ii/ | |
 
 ## First-In-First-Out
 
@@ -57,6 +58,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 362 | https://leetcode.com/problems/design-hit-counter/ | |
 | 281 | https://leetcode.com/problems/zigzag-iterator/ | |
 | 225 | https://leetcode.com/problems/implement-stack-using-queues/ | |
+| 604 | https://leetcode.com/problems/design-compressed-string-iterator/ | |
 
 ## First-In-Last-Out
 

@@ -44,11 +44,12 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 
 In computer science, a trie, also called digital tree or prefix tree, is a kind of search tree—an ordered tree data structure used to store a dynamic set or associative array where the keys are usually strings. [Wikipedia](https://en.wikipedia.org/wiki/Trie)
 
-To solve this kind of problem, you need two steps: 1)initial trie, 2)query trie.
+To solve this kind of problem, you need to build a trie. the core content to build trie: 1) insert function, 2) search function. Please prepare the template for this kind of problem. 
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 1268 | https://leetcode.com/problems/search-suggestions-system/ | | 
+| 720 | https://leetcode.com/problems/longest-word-in-dictionary/ | |
 | 425 | https://leetcode.com/problems/word-squares/ | |
 
 ## Topological Sort
