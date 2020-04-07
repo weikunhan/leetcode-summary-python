@@ -11,7 +11,7 @@ The following questions, I prefer to solve by some not commonly used methods. If
 
 ## Two Sum
 
-Two Sum problem is a variation of the subset sum problem which is Interval-DP. Also, it can  even simply solve using Two Pointers in some situations. I would like to make Two Sum problems as a special case because there is a faster algorithm that will find pairs that sum to S in linear time. The algorithm below makes use of hash tables which have a constant lookup time.
+Two Sum related problems can simply solve using Two Pointers. I would like to make Two Sum problems as a special case because there is a faster algorithm that will find pairs that sum to target value in linear time. The algorithm is using a hash map to mapping target value with index which have a constant lookup time.
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |

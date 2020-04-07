@@ -10,13 +10,3 @@ The following questions, I prefer to solve by using FIFO. It may have the optima
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 
-## Linked List&Doubly Linked List
-
-This type of problem includes: 1)delete elements in the linked list, 2)insert elements in the linked list. 3)merge elements from two linked lists 4)rotate elements in a linked list, 5)Copy special linked list
-
-| *#* | *Link* |*Solution* |
-| ---- | --------------------------------- | --------------------------------- |
-| 237 | https://leetcode.com/problems/delete-node-in-a-linked-list/ | |
-| 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | |
-| 21 | https://leetcode.com/problems/merge-two-sorted-lists/ | |
-| 86 | https://leetcode.com/problems/partition-list/ | |

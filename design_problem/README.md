@@ -18,7 +18,7 @@ Algorithm you should know before system design. The related resources should:
 For more informaiton, you need to check related courses and books. Here, I split the system design problem from LeetCode into following topic.
 
 * [Prefix Tree](##Prefix-Tree)
-* [Hash Map](##Hash-Map)
+* [Hash Map&Set](##Hash-Map&Set)
 * [First-In-First-Out](##First-In-First-Out)
 * [First-In-Last-Out](##First-In-Last-Out)
 * [Heap Sort](#Heap-Sort)
@@ -34,7 +34,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 642 | https://leetcode.com/problems/design-search-autocomplete-system/ | |
 | 211 | https://leetcode.com/problems/add-and-search-word-data-structure-design/ | |
 
-## Hash Map
+## Hash Map&Set
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -42,12 +42,12 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 705 | https://leetcode.com/problems/design-hashset/ | |
 | 706 | https://leetcode.com/problems/design-hashmap/ | |
 | 146 | https://leetcode.com/problems/lru-cache/ | | 
+| 460 | https://leetcode.com/problems/lfu-cache/ | |
 | 380 | https://leetcode.com/problems/insert-delete-getrandom-o1/ | | 
 | 288 | https://leetcode.com/problems/unique-word-abbreviation/ | |
 | 244 | https://leetcode.com/problems/shortest-word-distance-ii/ | |
 | 170 | https://leetcode.com/problems/two-sum-iii-data-structure-design/ | |
 | 1146 | https://leetcode.com/problems/snapshot-array/ | |
-| 731 | https://leetcode.com/problems/my-calendar-ii/ | |
 
 ## First-In-First-Out
 
@@ -71,6 +71,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 284 | https://leetcode.com/problems/peeking-iterator/ | |
 | 155 | https://leetcode.com/problems/min-stack/ | |
 | 232 | https://leetcode.com/problems/implement-queue-using-stacks/ | |
+| 716 | https://leetcode.com/problems/max-stack/ | |
 
 ## Heap Sort
 
@@ -90,3 +91,5 @@ For more informaiton, you need to check related courses and books. Here, I split
 | ---- | --------------------------------- | --------------------------------- |
 | 1279 | https://leetcode.com/problems/traffic-light-controlled-intersection/ | |
 | 348 | https://leetcode.com/problems/design-tic-tac-toe/ | |
+| 731 | https://leetcode.com/problems/my-calendar-ii/ | |
+| 729 | https://leetcode.com/problems/my-calendar-i/ | |

@@ -19,6 +19,8 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 994* | https://leetcode.com/discuss/interview-question/411357/ | [this link](../python_practice/amazon/min_hour.py) |
 | 1091* | https://leetcode.com/discuss/interview-question/347457 | [this link](../python_practice/amazon/treasure_island.py) |
 | 1091* | https://leetcode.com/discuss/interview-question/356150 | [this link](../python_practice/amazon/treasure_islandII.py) |
+| 934 | https://leetcode.com/problems/shortest-bridge/ | | 
+| 1162 | https://leetcode.com/problems/as-far-from-land-as-possible/ | |
 
 ### Heap solver
 
