@@ -3,11 +3,11 @@
 The following questions, I prefer to solve by some not commonly used methods. If you interest more about those methods, please find more material about this method.
 
 * [Two Sum](##Two-Sum)
-* [String Processing](##String-Processing)
-* [Array Converting](##Array-Converting)
 * [Prefix Tree](##Prefix-Tree)
+* [Greedy](##Greedy)
 * [Topological Sort](##Topological-Sort)
 * [Binary Indexed Tree](##Binary-Indexed-Tree)
+* [Math](##Math)
 
 ## Two Sum
 
@@ -20,25 +20,8 @@ Two Sum related problems can simply solve using Two Pointers. I would like to ma
 | 1* | https://leetcode.com/discuss/interview-question/356960 | [this link](../python_practice/amazon/find_pair_with_given_sum.py) |
 | 1* | https://leetcode.com/discuss/interview-question/372434 | [this link](../python_practice/amazon/two_sum_unique_pairs.py) |
 
-## String Processing
 
-String processing is extremely important as a data processing related job. You should consider using a standard library for your daily word. However, for programming practice, you need to solve this kind of problem and familiar with: 1)sorting method/syntax, 2)split and join syntax, 3)encoding and decoding method/syntax, 4)regular expression, 5)hash mapping, 6)Unix utilities(optional)
 
-| *#* | *Link* | *Solution* |
-| ---- | --------------------------------- | --------------------------------- |
-| 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | |
-| | https://leetcode.com/discuss/interview-question/373006| [this link](../python_practice/amazon/favorite_genres.py) |
-| 468 | https://leetcode.com/problems/validate-ip-address/ | |
-
-## Array Converting
-
-There are many arrays converting standard libraries such as NumPy. The purpose of array converting is to let numerical data can feed into the mathematical or statistical equation. However, for programming practice, you need to know how to: 1)iterate through an array, 2)play tricks using different programming languages, 3)understand bit manipulation
-
-| *#* | *Link* | *Solution* |
-| ---- | --------------------------------- | --------------------------------- |
-| 54 | https://leetcode.com/problems/spiral-matrix/ | |
-| 59 | https://leetcode.com/problems/spiral-matrix-ii/ | |
-| 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | |
 
 ## Prefix Tree
 
@@ -51,6 +34,15 @@ To solve this kind of problem, you need to build a trie. the core content to bui
 | 1268 | https://leetcode.com/problems/search-suggestions-system/ | | 
 | 720 | https://leetcode.com/problems/longest-word-in-dictionary/ | |
 | 425 | https://leetcode.com/problems/word-squares/ | |
+| 212 | https://leetcode.com/problems/word-search-ii/ | |
+
+## Greedy
+
+A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage with the intent of finding a global optimum. In many problems, a greedy strategy does not usually produce an optimal solution, but nonetheless a greedy heuristic may yield locally optimal solutions that approximate a globally optimal solution in a reasonable amount of time. [Wikipedia](https://en.wikipedia.org/wiki/Greedy_algorithm)
+
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 253 | https://leetcode.com/problems/meeting-rooms-ii/ | |
 
 ## Topological Sort
 
@@ -73,3 +65,11 @@ For my understanding, the binary indexed tree is another evolution from divided 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 307 | https://leetcode.com/problems/range-sum-query-mutable/ | |
+
+## Math
+
+There are few problems are related to mathematical. You should familiar with common methods to play mathematical in computer science. For example, to identify whether a natural number is a prime number, just look at whether it is from 2 to the root N (forgive me for expressing this) whether it can be divided by N.
+
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 866 | https://leetcode.com/problems/prime-palindrome/ | |

@@ -2,19 +2,27 @@
 
 The following questions, I prefer to solve by using DFS. It may have the optimal method, please check the discussion in LeetCode.  
 
+* [Array](##Array)
 * [2D Array](##2D-Array)
 * [Tree](##Tree)
 * [Graph](##Graph)
+
+## Array
+### Backtracking
+
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 22 | https://leetcode.com/problems/generate-parentheses/ | |
+| 472 | https://leetcode.com/problems/concatenated-words/ | |
 
 ## 2D Array
 ### Backtracking
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 22 | https://leetcode.com/problems/generate-parentheses/ | |
 | 200 | https://leetcode.com/problems/number-of-islands/ | |
 | 286 | https://leetcode.com/problems/walls-and-gates/ | |
-| | 
+| 694 | https://leetcode.com/problems/number-of-distinct-islands/ | | 
 
 ## Tree
 ### Backtracking
@@ -24,10 +32,15 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 101 | https://leetcode.com/problems/symmetric-tree/ | |
 | 572 | https://leetcode.com/problems/subtree-of-another-tree/ | |
 | 617 | https://leetcode.com/problems/merge-two-binary-trees/ | |
+| 545 | https://leetcode.com/problems/boundary-of-binary-tree/ | |
 
 ### Preorder
 
 ### Inorder
+
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 99 | https://leetcode.com/problems/recover-binary-search-tree/ | |
 
 ### Postorder
 

@@ -2,11 +2,10 @@
 
 The following questions, I prefer to solve by using FIFO. It may have the optimal method, please check the discussion in LeetCode.  
 
-* [Queue&Deque](##Queue-Deque)
-* [Linked List&Doubly Linked List](##Linked-List&Doubly-Linked-List)
+* [Queue](##Queue)
 
-## Queue&Deque
+## Queue
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-
+| 239 | https://leetcode.com/problems/sliding-window-maximum/ | |

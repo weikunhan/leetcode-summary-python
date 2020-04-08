@@ -41,13 +41,15 @@ For this kind of question, you need to use 2D DP array to transfer state when de
 
 ## Interval DP
 
-This type of problem includes: find the subset problem
+This type of problem includes: find the subset problem， find word break problem
 
 For this kind of question, you need to enumerate the left and right subranges and record the sata into into 1D or 2D DP array.
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 368 | https://leetcode.com/problems/largest-divisible-subset/ |
+| 368 | https://leetcode.com/problems/largest-divisible-subset/ | |
+| 139 | https://leetcode.com/problems/word-break/ | |
+| 140 | https://leetcode.com/problems/word-break-ii/ | |
 
 ## Divided DP
 

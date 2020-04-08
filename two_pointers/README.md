@@ -4,7 +4,7 @@ The following questions, I prefer to solve by using Two Pointers. It may have th
 
 * [Array](##Array)
 * [String](##String)
-* [Link List](##Link-List)
+* [Linked List](##Link-List)
 
 ## Array
 
@@ -24,3 +24,8 @@ This type of problem includes: find partition in target string
 | 763 | https://leetcode.com/problems/partition-labels/ | |
 | 3* | https://leetcode.com/discuss/interview-question/370112 | [this link](../python_practice/amazon/substrings_of_size_k_with_k_distinct_chars.py) |
 | 3 | https://leetcode.com/problems/longest-substring-without-repeating-characters/ | |
+
+## Link List
+
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
