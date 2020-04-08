@@ -7,7 +7,6 @@ For the question number with *, it means this question change from original ques
 * Breadth-First Search - [this link](./bfs/README.md)
 * Depth-First search - [this link](./dfs/README.md)
 * Two Pointers - [this link](./two_pointers/README.md)
-* Sliding Window - [this link](./sliding_window/README.md)
 * Union-Find - [this link](./uf/README.md)
 * First-In-First-Out - [this link](./fifo/README.md)
 * First-In-Last-Out - [this link](./filo/README.md)

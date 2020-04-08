@@ -3,11 +3,12 @@
 The following questions, I prefer to solve by some not commonly used methods. If you interest more about those methods, please find more material about this method.
 
 * [Two Sum](##Two-Sum)
+* [Sliding Window](##Sliding-Window)
+* [Math](##Math)
 * [Prefix Tree](##Prefix-Tree)
 * [Greedy](##Greedy)
 * [Topological Sort](##Topological-Sort)
 * [Binary Indexed Tree](##Binary-Indexed-Tree)
-* [Math](##Math)
 
 ## Two Sum
 
@@ -20,8 +21,23 @@ Two Sum related problems can simply solve using Two Pointers. I would like to ma
 | 1* | https://leetcode.com/discuss/interview-question/356960 | [this link](../python_practice/amazon/find_pair_with_given_sum.py) |
 | 1* | https://leetcode.com/discuss/interview-question/372434 | [this link](../python_practice/amazon/two_sum_unique_pairs.py) |
 
+## Sliding Window
 
+Sliding Window problem is a variation of Two Pointers. The main difference between with Two Pointers is that Sliding Window usually requires a hash table to count occurrence times. Therefore, for some situations, the Sliding window is reduced complexity compared with directly using Two Pointers. 
 
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | |
+| 76 | https://leetcode.com/problems/minimum-window-substring/ | |
+| 992* | https://leetcode.com/discuss/interview-question/370157 | [this link](../python_practice/amazon/substrings_with_exactly_k_distinct_chars.py) |
+
+## Math
+
+There are few problems are related to mathematical. You should familiar with common methods to play mathematical in computer science. For example, to identify whether a natural number is a prime number, just look at whether it is from 2 to the root N (forgive me for expressing this) whether it can be divided by N.
+
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 866 | https://leetcode.com/problems/prime-palindrome/ | |
 
 ## Prefix Tree
 
@@ -65,11 +81,3 @@ For my understanding, the binary indexed tree is another evolution from divided 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 307 | https://leetcode.com/problems/range-sum-query-mutable/ | |
-
-## Math
-
-There are few problems are related to mathematical. You should familiar with common methods to play mathematical in computer science. For example, to identify whether a natural number is a prime number, just look at whether it is from 2 to the root N (forgive me for expressing this) whether it can be divided by N.
-
-| *#* | *Link* | *Solution* |
-| ---- | --------------------------------- | --------------------------------- |
-| 866 | https://leetcode.com/problems/prime-palindrome/ | |
