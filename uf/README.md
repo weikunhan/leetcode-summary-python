@@ -3,7 +3,7 @@
 The following questions, I prefer to solve by using Union-Find. It may have the optimal method, please check the discussion in LeetCode.  
 
 * [Graph](##Graph)
-* [String](##String)
+* [Array](##Array)
 
 ## Graph
 

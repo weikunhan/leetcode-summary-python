@@ -36,9 +36,9 @@ import sys
 
 # Definition for a binary tree node.
 class TreeNode(object):
-    def __init__(self, val):
+    def __init__(self, val=None, children=None):
         self.val = val
-        self.children = []
+        self.children = children
 
 class Solution(object):
     def subtree_with_maximum_average(self, root):
@@ -79,17 +79,14 @@ class Solution(object):
         return temp_list
 
 def main():
-    root8 = TreeNode(8)
-    root7 = TreeNode(15)
-    root6 = TreeNode(3)
-    root5 = TreeNode(2)
-    root4 = TreeNode(11)
-    root3 = TreeNode(18)
-    root3.children = [root7, root8]
-    root2 = TreeNode(12)
-    root2.children = [root4, root5, root6]
-    root1 = TreeNode(20)
-    root1.children = [root2, root3]
+    root8 = TreeNode(8, [])
+    root7 = TreeNode(15, [])
+    root6 = TreeNode(3, [])
+    root5 = TreeNode(2, [])
+    root4 = TreeNode(11, [])
+    root3 = TreeNode(18, [root7, root8])
+    root2 = TreeNode(12, [root4, root5, root6])
+    root1 = TreeNode(20, [root2, root3])
     solution = Solution()
     res = solution.subtree_with_maximum_average(root1)
     print(res)

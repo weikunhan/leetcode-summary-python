@@ -14,6 +14,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 22 | https://leetcode.com/problems/generate-parentheses/ | |
 | 472 | https://leetcode.com/problems/concatenated-words/ | |
+| 339 | https://leetcode.com/problems/nested-list-weight-sum/ | |
 
 ## 2D Array
 ### Backtracking
@@ -33,8 +34,13 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 572 | https://leetcode.com/problems/subtree-of-another-tree/ | |
 | 617 | https://leetcode.com/problems/merge-two-binary-trees/ | |
 | 545 | https://leetcode.com/problems/boundary-of-binary-tree/ | |
+| 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | |
 
 ### Preorder
+
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 700 | https://leetcode.com/problems/search-in-a-binary-search-tree/ | |
 
 ### Inorder
 
@@ -46,8 +52,10 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 590 | https://leetcode.com/problems/n-ary-tree-postorder-traversal/ | |
 | 1120 | https://leetcode.com/problems/maximum-average-subtree | |
 | 1120* | https://leetcode.com/discuss/interview-question/349617 | [this link](../python_practice/amazon/subtree_with_maximum_average.py) |
+| 450 | https://leetcode.com/problems/delete-node-in-a-bst/ | |
 
 ## Graph
 ### Backtracking

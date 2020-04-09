@@ -38,6 +38,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 25 | https://leetcode.com/problems/reverse-nodes-in-k-group/ | |
 | 237 | https://leetcode.com/problems/delete-node-in-a-linked-list/ | |
 | 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | |
 | 21 | https://leetcode.com/problems/merge-two-sorted-lists/ | |
@@ -53,3 +54,4 @@ String processing is extremely important as a data processing related job. You s
 | 273 | https://leetcode.com/problems/integer-to-english-words/| |
 | 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | |
 | 468 | https://leetcode.com/problems/validate-ip-address/ | |
+| 678 | https://leetcode.com/problems/valid-parenthesis-string/ | |

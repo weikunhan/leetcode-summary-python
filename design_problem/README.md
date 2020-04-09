@@ -59,6 +59,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 281 | https://leetcode.com/problems/zigzag-iterator/ | |
 | 225 | https://leetcode.com/problems/implement-stack-using-queues/ | |
 | 604 | https://leetcode.com/problems/design-compressed-string-iterator/ | |
+| 933 | https://leetcode.com/problems/number-of-recent-calls/ | |
 
 ## First-In-Last-Out
 

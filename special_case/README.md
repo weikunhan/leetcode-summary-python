@@ -38,6 +38,8 @@ There are few problems are related to mathematical. You should familiar with com
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 866 | https://leetcode.com/problems/prime-palindrome/ | |
+| 461 | https://leetcode.com/problems/hamming-distance/ | |
+| 477 | https://leetcode.com/problems/total-hamming-distance/ | |
 
 ## Prefix Tree
 
