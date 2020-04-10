@@ -67,7 +67,7 @@ A greedy algorithm is any algorithm that follows the problem-solving heuristic o
 
 ## Topological Sort
 
-In computer science, a topological sort or topological ordering of a directed graph is a linear ordering of its vertices such that for every directed edge uv from vertex u to vertex v, u comes before v in the ordering. [Wikipedia](https://en.wikipedia.org/wiki/Topological_sorting)
+In computer science, a topological sort or topological ordering of a directed graph is a linear ordering of all vertices of a directed acyclic graph (its vertices such that for every directed edge uv from vertex u to vertex v, u comes before v in the ordering) [Wikipedia](https://en.wikipedia.org/wiki/Topological_sorting)
 
 To solve this kind of problem, you need two steps: 1)initial graph, 2)prune graph
 

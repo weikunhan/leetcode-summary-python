@@ -31,6 +31,7 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 | 54 | https://leetcode.com/problems/spiral-matrix/ | |
 | 59 | https://leetcode.com/problems/spiral-matrix-ii/ | |
 | 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | |
+| 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | |
 
 ## Linked List
 
