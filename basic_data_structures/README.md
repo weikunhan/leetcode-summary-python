@@ -44,6 +44,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | 21 | https://leetcode.com/problems/merge-two-sorted-lists/ | |
 | 86 | https://leetcode.com/problems/partition-list/ | |
 | 23 | https://leetcode.com/problems/merge-k-sorted-lists/ | |
+| 369 | https://leetcode.com/problems/plus-one-linked-list/ | |
 
 ## String
 

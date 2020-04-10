@@ -21,8 +21,9 @@ For more informaiton, you need to check related courses and books. Here, I split
 * [Hash Map&Set](##Hash-Map&Set)
 * [First-In-First-Out](##First-In-First-Out)
 * [First-In-Last-Out](##First-In-Last-Out)
-* [Heap Sort](#Heap-Sort)
 * [Depth-First search](##Depth-First-search)
+* [Heap Sort](#Heap-Sort)
+* [Binary Seasrch](##Binary-Seasrch)
 * [Others](##Others)
 
 ## Prefix Tree
@@ -74,17 +75,23 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 232 | https://leetcode.com/problems/implement-queue-using-stacks/ | |
 | 716 | https://leetcode.com/problems/max-stack/ | |
 
+## Depth-First search
+
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 297 | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ | |
+
 ## Heap Sort
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 295 | https://leetcode.com/problems/find-median-from-data-stream/ | |
 
-## Depth-First search
+## Binary Seasrch
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 297 | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ | |
+| 911 | https://leetcode.com/problems/online-election/ | |
 
 ## Others
 

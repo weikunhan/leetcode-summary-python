@@ -40,6 +40,9 @@ There are few problems are related to mathematical. You should familiar with com
 | 866 | https://leetcode.com/problems/prime-palindrome/ | |
 | 461 | https://leetcode.com/problems/hamming-distance/ | |
 | 477 | https://leetcode.com/problems/total-hamming-distance/ | |
+| 367 | https://leetcode.com/problems/valid-perfect-square/ | |
+| 69 | https://leetcode.com/problems/sqrtx/ | |
+| 633 | https://leetcode.com/problems/sum-of-square-numbers/ | |
 
 ## Prefix Tree
 
