@@ -54,13 +54,13 @@ class Solution(object):
         return self.res
     
     def postorder(self, root):
-        temp_list = [0, 0.0]
-        count_value = 0
-        sum_value = 0
-
         if not root:
+            temp_list = [0, 0.0]
 
             return temp_list
+
+        count_value = 0
+        sum_value = 0
         
         for child in root.children:
             value_list = self.postorder(child)

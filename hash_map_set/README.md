@@ -16,6 +16,7 @@ This structure that can map keys to values. A hash map uses a hash function to c
 | 1152 | https://leetcode.com/problems/analyze-user-website-visit-pattern/ | |
 | 49 | https://leetcode.com/problems/group-anagrams/ | |
 | | https://leetcode.com/discuss/interview-question/373006| [this link](../python_practice/amazon/favorite_genres.py) |
+| 1138 | https://leetcode.com/problems/alphabet-board-path/ | |
 
 ## Hash Set
 

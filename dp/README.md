@@ -21,13 +21,14 @@ This type of problem includes: find status in the checkerboard problem
 
 ## Sequential DP
 
-This type of problem includes: find the longest/shortest common sequence problem, find the longest/shortest increase/decreasing sequence problem, 
+This type of problem includes: find the longest/shortest common sequence problem, find the longest/shortest increase/decreasing sequence problem, find egg drop problem
 
-For this kind of question, you need to use 1D DP array to transfer state when dealing with comparison
+For this kind of question, you need to use 1D or 2D DP array to transfer state when dealing with comparison
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 821 | https://leetcode.com/problems/shortest-distance-to-a-character/ | |
+| 887 | https://leetcode.com/problems/super-egg-drop/ | |
 
 ## Bidirectional Sequence DP
 
@@ -41,9 +42,9 @@ For this kind of question, you need to use 2D DP array to transfer state when de
 
 ## Interval DP
 
-This type of problem includes: find the subset problem， find word break problem
+This type of problem includes: find the subset problem，find word break problem
 
-For this kind of question, you need to enumerate the left and right subranges and record the sata into into 1D or 2D DP array.
+For this kind of question, you need to enumerate the left and right subranges and record the state into into 1D or 2D DP array.
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -66,7 +67,7 @@ For this kind of question, you need to preprocess calculate the sum into 1D or 2
 
 This type of problem includes: find 0-1 knapsack problem, find unbound knapsack problem, find bounded knapsack problem, find multi-objective knapsack problem, find multi-dimensional knapsack problem, find multiple knapsack problem, find quadratic knapsack problem
 
-For this kind of quesiton, you need to know what is knapsack problem: a problem in combinatorial optimization: Given a set of items, each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible. 
+For this kind of quesiton, you need to know what is knapsack problem: a problem in combinatorial optimization: given a set of items, each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible. 
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |

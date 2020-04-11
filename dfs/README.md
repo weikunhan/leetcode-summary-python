@@ -41,6 +41,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 700 | https://leetcode.com/problems/search-in-a-binary-search-tree/ | |
+| 589 | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | |
 
 ### Inorder
 
