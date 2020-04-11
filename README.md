@@ -16,3 +16,9 @@ For the question number with *, it means this question change from original ques
 * Dynamic Programming - [this link](./dp/README.md)
 * Special Case - [this link](./special_case/README.md)
 * Design Problem - [this link](./design_problem/README.md)
+
+A message of hope to someone who read this repo:
+
+多说不如多做，多看不如多写
+
+Talk less and do more, the faintest ink is better than the best memory.

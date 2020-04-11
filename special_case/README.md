@@ -43,6 +43,7 @@ There are few problems are related to mathematical. You should familiar with com
 | 367 | https://leetcode.com/problems/valid-perfect-square/ | |
 | 69 | https://leetcode.com/problems/sqrtx/ | |
 | 633 | https://leetcode.com/problems/sum-of-square-numbers/ | |
+| 991 | https://leetcode.com/problems/broken-calculator/ | |
 
 ## Prefix Tree
 
