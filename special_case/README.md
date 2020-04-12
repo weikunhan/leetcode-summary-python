@@ -42,6 +42,7 @@ There are few problems are related to mathematical. You should familiar with com
 | 461 | https://leetcode.com/problems/hamming-distance/ | |
 | 477 | https://leetcode.com/problems/total-hamming-distance/ | |
 | 633 | https://leetcode.com/problems/sum-of-square-numbers/ | |
+| 794 | https://leetcode.com/problems/valid-tic-tac-toe-state/ | |
 | 866 | https://leetcode.com/problems/prime-palindrome/ | |
 | 991 | https://leetcode.com/problems/broken-calculator/ | |
 
