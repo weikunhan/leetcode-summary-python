@@ -30,8 +30,8 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 | ---- | --------------------------------- | --------------------------------- |
 | 54 | https://leetcode.com/problems/spiral-matrix/ | |
 | 59 | https://leetcode.com/problems/spiral-matrix-ii/ | |
-| 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | |
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | |
+| 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | |
 | 1356 | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ | |
 
 ## Linked List
@@ -40,12 +40,12 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 25 | https://leetcode.com/problems/reverse-nodes-in-k-group/ | |
-| 237 | https://leetcode.com/problems/delete-node-in-a-linked-list/ | |
-| 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | |
 | 21 | https://leetcode.com/problems/merge-two-sorted-lists/ | |
-| 86 | https://leetcode.com/problems/partition-list/ | |
 | 23 | https://leetcode.com/problems/merge-k-sorted-lists/ | |
+| 25 | https://leetcode.com/problems/reverse-nodes-in-k-group/ | |
+| 86 | https://leetcode.com/problems/partition-list/ | |
+| 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | |
+| 237 | https://leetcode.com/problems/delete-node-in-a-linked-list/ | |
 | 369 | https://leetcode.com/problems/plus-one-linked-list/ | |
 
 ## String
@@ -55,7 +55,7 @@ String processing is extremely important as a data processing related job. You s
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 273 | https://leetcode.com/problems/integer-to-english-words/| |
-| 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | |
 | 468 | https://leetcode.com/problems/validate-ip-address/ | |
 | 678 | https://leetcode.com/problems/valid-parenthesis-string/ | |
 | 806 | https://leetcode.com/problems/number-of-lines-to-write-string/ | |
+| 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | |

@@ -12,24 +12,24 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 127 | https://leetcode.com/problems/word-ladder/ | |
 | 126 | https://leetcode.com/problems/word-ladder-ii/ | |
+| 127 | https://leetcode.com/problems/word-ladder/ | |
 
 ## 2D Array
 ### Deque solver
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 994 | https://leetcode.com/problems/rotting-oranges/ | |
-| 1091 | https://leetcode.com/problems/shortest-path-in-binary-matrix/ | |
-| 909 | https://leetcode.com/problems/snakes-and-ladders/ | |
-| 1197 | https://leetcode.com/problems/minimum-knight-moves/ | |
 | 542 | https://leetcode.com/problems/01-matrix/ | |
+| 909 | https://leetcode.com/problems/snakes-and-ladders/ | |
+| 934 | https://leetcode.com/problems/shortest-bridge/ | | 
+| 994 | https://leetcode.com/problems/rotting-oranges/ | |
 | 994* | https://leetcode.com/discuss/interview-question/411357/ | [this link](../python_practice/amazon/min_hour.py) |
+| 1091 | https://leetcode.com/problems/shortest-path-in-binary-matrix/ | |
 | 1091* | https://leetcode.com/discuss/interview-question/347457 | [this link](../python_practice/amazon/treasure_island.py) |
 | 1091* | https://leetcode.com/discuss/interview-question/356150 | [this link](../python_practice/amazon/treasure_islandII.py) |
-| 934 | https://leetcode.com/problems/shortest-bridge/ | | 
 | 1162 | https://leetcode.com/problems/as-far-from-land-as-possible/ | |
+| 1197 | https://leetcode.com/problems/minimum-knight-moves/ | |
 
 ### Heap solver
 
@@ -38,19 +38,18 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 1102 | https://leetcode.com/problems/path-with-maximum-minimum-value/ | |
 | 1102* | https://leetcode.com/discuss/interview-question/383669/ | [this link](../python_practice/amazon/max_of_min_altitudes.py) | 
 
-
 ## Tree
 ### Deque solver
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 314 | https://leetcode.com/problems/binary-tree-vertical-order-traversal/ | |
-| 987 | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/ | |
-| 662 | https://leetcode.com/problems/maximum-width-of-binary-tree/ | |
 | 102 | https://leetcode.com/problems/binary-tree-level-order-traversal/ | |
 | 103 | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ | |
 | 107 | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ | | 
 | 111 | https://leetcode.com/problems/minimum-depth-of-binary-tree/ | |
+| 314 | https://leetcode.com/problems/binary-tree-vertical-order-traversal/ | |
+| 662 | https://leetcode.com/problems/maximum-width-of-binary-tree/ | |
+| 987 | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/ | |
 
 ## Graph
 ### Heap solver

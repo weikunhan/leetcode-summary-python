@@ -48,9 +48,9 @@ For this kind of question, you need to enumerate the left and right subranges an
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 368 | https://leetcode.com/problems/largest-divisible-subset/ | |
 | 139 | https://leetcode.com/problems/word-break/ | |
 | 140 | https://leetcode.com/problems/word-break-ii/ | |
+| 368 | https://leetcode.com/problems/largest-divisible-subset/ | |
 
 ## Divided DP
 
@@ -60,8 +60,8 @@ For this kind of question, you need to preprocess calculate the sum into 1D or 2
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 304 | https://leetcode.com/problems/range-sum-query-2d-immutable/ |
 | 221 | https://leetcode.com/problems/maximal-square/ |
+| 304 | https://leetcode.com/problems/range-sum-query-2d-immutable/ |
 
 ## Knapsack DP
 

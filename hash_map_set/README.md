@@ -11,12 +11,12 @@ This structure that can map keys to values. A hash map uses a hash function to c
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 1207 | https://leetcode.com/problems/unique-number-of-occurrences/ | |
-| 451 | https://leetcode.com/problems/sort-characters-by-frequency/ | |
-| 1152 | https://leetcode.com/problems/analyze-user-website-visit-pattern/ | |
 | 49 | https://leetcode.com/problems/group-anagrams/ | |
-| | https://leetcode.com/discuss/interview-question/373006| [this link](../python_practice/amazon/favorite_genres.py) |
+| 451 | https://leetcode.com/problems/sort-characters-by-frequency/ | |
 | 1138 | https://leetcode.com/problems/alphabet-board-path/ | |
+| 1152 | https://leetcode.com/problems/analyze-user-website-visit-pattern/ | |
+| 1207 | https://leetcode.com/problems/unique-number-of-occurrences/ | |
+| | https://leetcode.com/discuss/interview-question/373006| [this link](../python_practice/amazon/favorite_genres.py) |
 
 ## Hash Set
 

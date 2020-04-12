@@ -17,9 +17,9 @@ Two Sum related problems can simply solve using Two Pointers. I would like to ma
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 1 | https://leetcode.com/problems/two-sum/ | |
-| 167 | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | |
 | 1* | https://leetcode.com/discuss/interview-question/356960 | [this link](../python_practice/amazon/find_pair_with_given_sum.py) |
 | 1* | https://leetcode.com/discuss/interview-question/372434 | [this link](../python_practice/amazon/two_sum_unique_pairs.py) |
+| 167 | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | |
 
 ## Sliding Window
 
@@ -27,8 +27,8 @@ Sliding Window problem is a variation of Two Pointers. The main difference betwe
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | |
 | 76 | https://leetcode.com/problems/minimum-window-substring/ | |
+| 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | |
 | 992* | https://leetcode.com/discuss/interview-question/370157 | [this link](../python_practice/amazon/substrings_with_exactly_k_distinct_chars.py) |
 
 ## Math
@@ -37,12 +37,12 @@ There are few problems are related to mathematical. You should familiar with com
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 866 | https://leetcode.com/problems/prime-palindrome/ | |
+| 69 | https://leetcode.com/problems/sqrtx/ | |
+| 367 | https://leetcode.com/problems/valid-perfect-square/ | |
 | 461 | https://leetcode.com/problems/hamming-distance/ | |
 | 477 | https://leetcode.com/problems/total-hamming-distance/ | |
-| 367 | https://leetcode.com/problems/valid-perfect-square/ | |
-| 69 | https://leetcode.com/problems/sqrtx/ | |
 | 633 | https://leetcode.com/problems/sum-of-square-numbers/ | |
+| 866 | https://leetcode.com/problems/prime-palindrome/ | |
 | 991 | https://leetcode.com/problems/broken-calculator/ | |
 
 ## Prefix Tree
@@ -53,10 +53,10 @@ To solve this kind of problem, you need to build a trie. the core content to bui
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 1268 | https://leetcode.com/problems/search-suggestions-system/ | | 
-| 720 | https://leetcode.com/problems/longest-word-in-dictionary/ | |
-| 425 | https://leetcode.com/problems/word-squares/ | |
 | 212 | https://leetcode.com/problems/word-search-ii/ | |
+| 425 | https://leetcode.com/problems/word-squares/ | |
+| 720 | https://leetcode.com/problems/longest-word-in-dictionary/ | |
+| 1268 | https://leetcode.com/problems/search-suggestions-system/ | | 
 
 ## Greedy
 

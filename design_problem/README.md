@@ -30,50 +30,50 @@ For more informaiton, you need to check related courses and books. Here, I split
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 588 | https://leetcode.com/problems/design-in-memory-file-system/ | |
-| 208 | https://leetcode.com/problems/implement-trie-prefix-tree/ | |
-| 642 | https://leetcode.com/problems/design-search-autocomplete-system/ | |
 | 211 | https://leetcode.com/problems/add-and-search-word-data-structure-design/ | |
+| 208 | https://leetcode.com/problems/implement-trie-prefix-tree/ | |
+| 588 | https://leetcode.com/problems/design-in-memory-file-system/ | |
+| 642 | https://leetcode.com/problems/design-search-autocomplete-system/ | |
 
 ## Hash Map&Set
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 1396 | https://leetcode.com/problems/design-underground-system/ | |
+| 146 | https://leetcode.com/problems/lru-cache/ | | 
+| 170 | https://leetcode.com/problems/two-sum-iii-data-structure-design/ | |
+| 244 | https://leetcode.com/problems/shortest-word-distance-ii/ | |
+| 288 | https://leetcode.com/problems/unique-word-abbreviation/ | |
+| 380 | https://leetcode.com/problems/insert-delete-getrandom-o1/ | | 
+| 460 | https://leetcode.com/problems/lfu-cache/ | |
 | 705 | https://leetcode.com/problems/design-hashset/ | |
 | 706 | https://leetcode.com/problems/design-hashmap/ | |
-| 146 | https://leetcode.com/problems/lru-cache/ | | 
-| 460 | https://leetcode.com/problems/lfu-cache/ | |
-| 380 | https://leetcode.com/problems/insert-delete-getrandom-o1/ | | 
-| 288 | https://leetcode.com/problems/unique-word-abbreviation/ | |
-| 244 | https://leetcode.com/problems/shortest-word-distance-ii/ | |
-| 170 | https://leetcode.com/problems/two-sum-iii-data-structure-design/ | |
+| 1396 | https://leetcode.com/problems/design-underground-system/ | |
 | 1146 | https://leetcode.com/problems/snapshot-array/ | |
 
 ## First-In-First-Out
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 353 | https://leetcode.com/problems/design-snake-game/ | |
-| 622 | https://leetcode.com/problems/design-circular-queue/ | |
-| 362 | https://leetcode.com/problems/design-hit-counter/ | |
-| 281 | https://leetcode.com/problems/zigzag-iterator/ | |
 | 225 | https://leetcode.com/problems/implement-stack-using-queues/ | |
+| 281 | https://leetcode.com/problems/zigzag-iterator/ | |
+| 353 | https://leetcode.com/problems/design-snake-game/ | |
+| 362 | https://leetcode.com/problems/design-hit-counter/ | |
 | 604 | https://leetcode.com/problems/design-compressed-string-iterator/ | |
+| 622 | https://leetcode.com/problems/design-circular-queue/ | |
 | 933 | https://leetcode.com/problems/number-of-recent-calls/ | |
 
 ## First-In-Last-Out
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 1381 | https://leetcode.com/problems/design-a-stack-with-increment-operation/ | |
-| 341 | https://leetcode.com/problems/flatten-nested-list-iterator/ | |
-| 251 | https://leetcode.com/problems/flatten-2d-vector/ | | 
-| 173 | https://leetcode.com/problems/binary-search-tree-iterator/ | |
-| 284 | https://leetcode.com/problems/peeking-iterator/ | |
 | 155 | https://leetcode.com/problems/min-stack/ | |
+| 173 | https://leetcode.com/problems/binary-search-tree-iterator/ | |
 | 232 | https://leetcode.com/problems/implement-queue-using-stacks/ | |
+| 251 | https://leetcode.com/problems/flatten-2d-vector/ | | 
+| 284 | https://leetcode.com/problems/peeking-iterator/ | |
+| 341 | https://leetcode.com/problems/flatten-nested-list-iterator/ | |
 | 716 | https://leetcode.com/problems/max-stack/ | |
+| 1381 | https://leetcode.com/problems/design-a-stack-with-increment-operation/ | |
 
 ## Depth-First search
 
@@ -97,7 +97,8 @@ For more informaiton, you need to check related courses and books. Here, I split
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 1279 | https://leetcode.com/problems/traffic-light-controlled-intersection/ | |
 | 348 | https://leetcode.com/problems/design-tic-tac-toe/ | |
-| 731 | https://leetcode.com/problems/my-calendar-ii/ | |
 | 729 | https://leetcode.com/problems/my-calendar-i/ | |
+| 731 | https://leetcode.com/problems/my-calendar-ii/ | |
+| 1279 | https://leetcode.com/problems/traffic-light-controlled-intersection/ | |
+
