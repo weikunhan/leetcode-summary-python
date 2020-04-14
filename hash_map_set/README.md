@@ -13,6 +13,7 @@ This structure that can map keys to values. A hash map uses a hash function to c
 | ---- | --------------------------------- | --------------------------------- |
 | 49 | https://leetcode.com/problems/group-anagrams/ | |
 | 451 | https://leetcode.com/problems/sort-characters-by-frequency/ | |
+| 953 | https://leetcode.com/problems/verifying-an-alien-dictionary/ | |
 | 1138 | https://leetcode.com/problems/alphabet-board-path/ | |
 | 1152 | https://leetcode.com/problems/analyze-user-website-visit-pattern/ | |
 | 1207 | https://leetcode.com/problems/unique-number-of-occurrences/ | |
@@ -21,3 +22,7 @@ This structure that can map keys to values. A hash map uses a hash function to c
 ## Hash Set
 
 Hash Set is little bit difference than Hash Map, but the underlying Hash storage mechanism is exactly the same, even Hash Set itself is implemented using Hash Map. There are many similarities between Hash Set and Hash Map. For Hash Set, the system uses the hash algorithm to determine the storage location of the collection elements, which can ensure that the collection elements can be quickly stored and retrieved; for Hash Map, the system key-value is regarded as a whole for processing, the system always calculates the key-value storage location according to the hash algorithm, which can ensure that the key-value pairs of the map can be quickly stored and retrieved.
+
+| *#* | *Link* |*Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 929 | https://leetcode.com/problems/unique-email-addresses/ | |

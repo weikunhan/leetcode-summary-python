@@ -45,6 +45,7 @@ There are few problems are related to mathematical. You should familiar with com
 | 794 | https://leetcode.com/problems/valid-tic-tac-toe-state/ | |
 | 866 | https://leetcode.com/problems/prime-palindrome/ | |
 | 991 | https://leetcode.com/problems/broken-calculator/ | |
+| 1131 | https://leetcode.com/problems/maximum-of-absolute-value-expression/ | |
 
 ## Prefix Tree
 
@@ -77,6 +78,7 @@ To solve this kind of problem, you need two steps: 1)initial graph, 2)prune grap
 | ---- | --------------------------------- | --------------------------------- |
 | 207 | https://leetcode.com/problems/course-schedule/ | |
 | 210 | https://leetcode.com/problems/course-schedule-ii/ | |
+| 269 | https://leetcode.com/problems/alien-dictionary/ | |
 | 310 | https://leetcode.com/problems/minimum-height-trees/ | |
 
 ## Binary Indexed Tree

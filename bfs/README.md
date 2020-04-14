@@ -14,6 +14,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 126 | https://leetcode.com/problems/word-ladder-ii/ | |
 | 127 | https://leetcode.com/problems/word-ladder/ | |
+| 1345 | https://leetcode.com/problems/jump-game-iv/ | |
 
 ## 2D Array
 ### Deque solver
