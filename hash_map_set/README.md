@@ -25,4 +25,5 @@ Hash Set is little bit difference than Hash Map, but the underlying Hash storage
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 723 | https://leetcode.com/problems/candy-crush/ | |
 | 929 | https://leetcode.com/problems/unique-email-addresses/ | |

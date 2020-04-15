@@ -38,6 +38,7 @@ There are few problems are related to mathematical. You should familiar with com
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 69 | https://leetcode.com/problems/sqrtx/ | |
+| 365 | https://leetcode.com/problems/water-and-jug-problem/ | |
 | 367 | https://leetcode.com/problems/valid-perfect-square/ | |
 | 461 | https://leetcode.com/problems/hamming-distance/ | |
 | 477 | https://leetcode.com/problems/total-hamming-distance/ | |
