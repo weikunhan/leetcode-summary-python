@@ -84,3 +84,14 @@ For this kind of question, you need to famillar with basic math knowlegae.
 | 70 | https://leetcode.com/problems/climbing-stairs/ | |
 | 96 | https://leetcode.com/problems/unique-binary-search-trees/ | |
 | 311 | https://leetcode.com/problems/sparse-matrix-multiplication/ | |
+
+## Game-type DP
+
+This type of problem includes: life game-type problem, math game-type problem, policy game-type problem, others game-type problem
+
+For this kind of question, there is a common point that the problem is talking about the comparison or execution sequence.
+
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 1048 | https://leetcode.com/problems/longest-string-chain/ | |
+| 1153 | https://leetcode.com/problems/string-transforms-into-another-string/ | |

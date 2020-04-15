@@ -66,7 +66,11 @@ A greedy algorithm is any algorithm that follows the problem-solving heuristic o
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 56 | https://leetcode.com/problems/merge-intervals/ | |
 | 253 | https://leetcode.com/problems/meeting-rooms-ii/ | |
+| 321 | https://leetcode.com/problems/create-maximum-number/ | |
+| 759 | https://leetcode.com/problems/employee-free-time/ | |
+| 860 | https://leetcode.com/problems/lemonade-change/ | |
 
 ## Topological Sort
 
