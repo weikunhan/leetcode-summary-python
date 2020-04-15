@@ -42,6 +42,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 2 | https://leetcode.com/problems/add-two-numbers/ | |
 | 21 | https://leetcode.com/problems/merge-two-sorted-lists/ | |
 | 23 | https://leetcode.com/problems/merge-k-sorted-lists/ | |
 | 25 | https://leetcode.com/problems/reverse-nodes-in-k-group/ | |
