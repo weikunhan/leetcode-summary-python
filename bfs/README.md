@@ -23,6 +23,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 542 | https://leetcode.com/problems/01-matrix/ | |
+| 773 | https://leetcode.com/problems/sliding-puzzle/ | |
 | 909 | https://leetcode.com/problems/snakes-and-ladders/ | |
 | 934 | https://leetcode.com/problems/shortest-bridge/ | | 
 | 994 | https://leetcode.com/problems/rotting-oranges/ | |
