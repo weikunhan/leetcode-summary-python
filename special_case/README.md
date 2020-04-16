@@ -30,6 +30,7 @@ Sliding Window problem is a variation of Two Pointers. The main difference betwe
 | 76 | https://leetcode.com/problems/minimum-window-substring/ | |
 | 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | |
 | 992* | https://leetcode.com/discuss/interview-question/370157 | [this link](../python_practice/amazon/substrings_with_exactly_k_distinct_chars.py) |
+| 1052 | https://leetcode.com/problems/grumpy-bookstore-owner/ | |
 
 ## Math
 
@@ -72,7 +73,7 @@ A greedy algorithm is any algorithm that follows the problem-solving heuristic o
 | 321 | https://leetcode.com/problems/create-maximum-number/ | |
 | 759 | https://leetcode.com/problems/employee-free-time/ | |
 | 860 | https://leetcode.com/problems/lemonade-change/ | |
-
+| 1029 | https://leetcode.com/problems/two-city-scheduling/ | |
 ## Topological Sort
 
 In computer science, a topological sort or topological ordering of a directed graph is a linear ordering of all vertices of a directed acyclic graph (its vertices such that for every directed edge uv from vertex u to vertex v, u comes before v in the ordering) [Wikipedia](https://en.wikipedia.org/wiki/Topological_sorting)
