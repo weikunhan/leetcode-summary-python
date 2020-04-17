@@ -1,6 +1,12 @@
 # Design Problem
 
-Algorithm you should know before system design. The related resources should:
+For prepare the design problem, there are three kinds of design problems:
+
+* System design (Scenario, Service, Storage, Scale)
+* API design 
+* OOP design
+
+Also, there are algorithms that you should know before system design. The related resources should:
 
 * Bloom filter
 * Frugal Streaming

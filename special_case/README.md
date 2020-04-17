@@ -20,6 +20,7 @@ Two Sum related problems can simply solve using Two Pointers. I would like to ma
 | 1* | https://leetcode.com/discuss/interview-question/356960 | [this link](../python_practice/amazon/find_pair_with_given_sum.py) |
 | 1* | https://leetcode.com/discuss/interview-question/372434 | [this link](../python_practice/amazon/two_sum_unique_pairs.py) |
 | 167 | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | |
+| 454 | https://leetcode.com/problems/4sum-ii/ | |
 
 ## Sliding Window
 
@@ -48,6 +49,7 @@ There are few problems are related to mathematical. You should familiar with com
 | 866 | https://leetcode.com/problems/prime-palindrome/ | |
 | 991 | https://leetcode.com/problems/broken-calculator/ | |
 | 1131 | https://leetcode.com/problems/maximum-of-absolute-value-expression/ | |
+| 1175 | https://leetcode.com/problems/prime-arrangements/ | |
 
 ## Prefix Tree
 

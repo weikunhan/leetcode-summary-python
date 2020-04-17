@@ -93,5 +93,6 @@ For this kind of question, there is a common point that the problem is talking a
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 486 | https://leetcode.com/problems/predict-the-winner/ | |
 | 1048 | https://leetcode.com/problems/longest-string-chain/ | |
 | 1153 | https://leetcode.com/problems/string-transforms-into-another-string/ | |
