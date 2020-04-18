@@ -29,3 +29,4 @@ Hash Set is little bit difference than Hash Map, but the underlying Hash storage
 | ---- | --------------------------------- | --------------------------------- |
 | 723 | https://leetcode.com/problems/candy-crush/ | |
 | 929 | https://leetcode.com/problems/unique-email-addresses/ | |
+| 970 | https://leetcode.com/problems/powerful-integers/ | |

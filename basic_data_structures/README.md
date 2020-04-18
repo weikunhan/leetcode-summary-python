@@ -9,11 +9,10 @@ The data structures you should know before starting coding in LeetCode:
 * Queue
 * Binary Tree
 * Binary Search Tree
+* Red-Black Tree
 * Heap
-* Hashing
+* Hash Table
 * Graph
-* Matrix
-* Misc
 * Advanced Data Structure
 
 For more information, you need to check related courses and books. Here, most basic data structures are:
@@ -34,6 +33,7 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 | 766 | https://leetcode.com/problems/toeplitz-matrix/ | |
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | |
 | 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | |
+| 1013 | https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ | |
 | 1243 | https://leetcode.com/problems/array-transformation/ | |
 | 1356 | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ | |
 
