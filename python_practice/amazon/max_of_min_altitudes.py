@@ -59,7 +59,7 @@ class Solution(object):
         while value_pq:
             temp_value, i, j = heapq.heappop(value_pq)
 
-            if i != (len(matrix) - 1) or j != (len(matrix[0]) - 1):
+            if not (i == (len(matrix) - 1) and j == (len(matrix[0]) - 1)):
                 res = min(-temp_value, res)
             
             for a, b in [(i - 1, j), (i, j - 1)]:

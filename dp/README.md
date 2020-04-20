@@ -17,7 +17,8 @@ This type of problem includes: find status in the checkerboard problem
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 688 | https://leetcode.com/problems/knight-probability-in-chessboard/
+| 64 | https://leetcode.com/problems/minimum-path-sum/ | |
+| 688 | https://leetcode.com/problems/knight-probability-in-chessboard/| |
 
 ## Sequential DP
 
