@@ -4,7 +4,7 @@ For prepare the design problem, there are three kinds of design problems:
 
 * System design (Scenario, Service, Storage, Scale)
 * API design 
-* OOP design
+* OOA, OOD, OOP (Clarify, Core objects, Cases, Classes, Correctness)
 
 Also, there are algorithms that you should know before system design. The related resources should:
 

@@ -27,6 +27,7 @@ For this kind of question, you need to use 1D or 2D DP array to transfer state w
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 121 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | |
 | 821 | https://leetcode.com/problems/shortest-distance-to-a-character/ | |
 | 887 | https://leetcode.com/problems/super-egg-drop/ | |
 
@@ -84,6 +85,7 @@ For this kind of question, you need to famillar with basic math knowlegae.
 | 70 | https://leetcode.com/problems/climbing-stairs/ | |
 | 96 | https://leetcode.com/problems/unique-binary-search-trees/ | |
 | 311 | https://leetcode.com/problems/sparse-matrix-multiplication/ | |
+| 509 | https://leetcode.com/problems/fibonacci-number/ | |
 
 ## Game-type DP
 

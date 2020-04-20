@@ -9,6 +9,13 @@ The following questions, I prefer to solve by using Binary Search. It may have t
 
 This type of problem includes: search target value in sorted array, search target value in sorted rotated array
 
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 300 | https://leetcode.com/problems/longest-increasing-subsequence/ | |
+| 410 | https://leetcode.com/problems/split-array-largest-sum/ | |
+| 704 | https://leetcode.com/problems/binary-search/ | |
+| 1101 | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ | |
+
 ## 2D Array
 
 This type of problem includes: search target value in sorted 2D-array, search target value in special sorted 2D-array
@@ -17,6 +24,3 @@ This type of problem includes: search target value in sorted 2D-array, search ta
 | ---- | --------------------------------- | --------------------------------- |
 | 74 | https://leetcode.com/problems/search-a-2d-matrix/ | |
 | 240 | https://leetcode.com/problems/search-a-2d-matrix-ii/ | |
-| 410 | https://leetcode.com/problems/split-array-largest-sum/ | |
-| 704 | https://leetcode.com/problems/binary-search/ | |
-| 1101 | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ | |
