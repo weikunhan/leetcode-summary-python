@@ -35,6 +35,8 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 101 | https://leetcode.com/problems/symmetric-tree/ | |
 | 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | |
+| 105 | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | |
+| 106 | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | |
 | 545 | https://leetcode.com/problems/boundary-of-binary-tree/ | |
 | 572 | https://leetcode.com/problems/subtree-of-another-tree/ | |
 | 617 | https://leetcode.com/problems/merge-two-binary-trees/ | |

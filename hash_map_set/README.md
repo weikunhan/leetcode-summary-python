@@ -12,6 +12,8 @@ This structure that can map keys to values. A hash map uses a hash function to c
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 49 | https://leetcode.com/problems/group-anagrams/ | |
+| 219 | https://leetcode.com/problems/contains-duplicate-ii/ | |
+| 220 | https://leetcode.com/problems/contains-duplicate-iii/ | |
 | 451 | https://leetcode.com/problems/sort-characters-by-frequency/ | |
 | 532 | https://leetcode.com/problems/k-diff-pairs-in-an-array/ | |
 | 697 | https://leetcode.com/problems/degree-of-an-array/ | |
@@ -27,6 +29,7 @@ Hash Set is little bit difference than Hash Map, but the underlying Hash storage
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 217 | https://leetcode.com/problems/contains-duplicate/ | |
 | 723 | https://leetcode.com/problems/candy-crush/ | |
 | 929 | https://leetcode.com/problems/unique-email-addresses/ | |
 | 970 | https://leetcode.com/problems/powerful-integers/ | |
