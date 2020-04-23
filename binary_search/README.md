@@ -16,6 +16,7 @@ This type of problem includes: search target value in sorted array, search targe
 | 300 | https://leetcode.com/problems/longest-increasing-subsequence/ | |
 | 410 | https://leetcode.com/problems/split-array-largest-sum/ | |
 | 704 | https://leetcode.com/problems/binary-search/ | |
+| 1060 | https://leetcode.com/problems/missing-element-in-sorted-array/ | |
 | 1101 | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ | |
 
 ## 2D Array

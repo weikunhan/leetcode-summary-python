@@ -59,6 +59,8 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 104 | https://leetcode.com/problems/path-sum/ | |
+| 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | |
 | 450 | https://leetcode.com/problems/delete-node-in-a-bst/ | |
 | 563 | https://leetcode.com/problems/binary-tree-tilt/ | |
 | 590 | https://leetcode.com/problems/n-ary-tree-postorder-traversal/ | |

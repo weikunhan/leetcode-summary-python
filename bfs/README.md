@@ -15,6 +15,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 126 | https://leetcode.com/problems/word-ladder-ii/ | |
 | 127 | https://leetcode.com/problems/word-ladder/ | |
 | 752 | https://leetcode.com/problems/open-the-lock/ | |
+| 854 | https://leetcode.com/problems/k-similar-strings/ | |
 | 1345 | https://leetcode.com/problems/jump-game-iv/ | |
 
 ## 2D Array
@@ -51,6 +52,8 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 107 | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ | | 
 | 111 | https://leetcode.com/problems/minimum-depth-of-binary-tree/ | |
 | 314 | https://leetcode.com/problems/binary-tree-vertical-order-traversal/ | |
+| 637 | https://leetcode.com/problems/average-of-levels-in-binary-tree/ | |
+| 653 | https://leetcode.com/problems/two-sum-iv-input-is-a-bst/ | |
 | 662 | https://leetcode.com/problems/maximum-width-of-binary-tree/ | |
 | 987 | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/ | |
 
