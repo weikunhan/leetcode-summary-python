@@ -11,6 +11,8 @@ This type of problem includes: search target value in sorted array, search targe
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 33 | https://leetcode.com/problems/search-in-rotated-sorted-array/ | |
+| 81 | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ | |
 | 300 | https://leetcode.com/problems/longest-increasing-subsequence/ | |
 | 410 | https://leetcode.com/problems/split-array-largest-sum/ | |
 | 704 | https://leetcode.com/problems/binary-search/ | |

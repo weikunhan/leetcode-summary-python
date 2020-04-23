@@ -104,6 +104,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 348 | https://leetcode.com/problems/design-tic-tac-toe/ | |
+| 384 | https://leetcode.com/problems/shuffle-an-array/ | |
 | 729 | https://leetcode.com/problems/my-calendar-i/ | |
 | 731 | https://leetcode.com/problems/my-calendar-ii/ | |
 | 1279 | https://leetcode.com/problems/traffic-light-controlled-intersection/ | |
