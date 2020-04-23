@@ -21,4 +21,7 @@ This type of problem includes: find share points problem
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 547 | https://leetcode.com/problems/friend-circles/ | |
+| 721 | https://leetcode.com/problems/accounts-merge/ | |
+| 737 | https://leetcode.com/problems/sentence-similarity-ii/ | |
 | 947 | https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/ | |
