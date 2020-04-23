@@ -56,6 +56,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | 237 | https://leetcode.com/problems/delete-node-in-a-linked-list/ | |
 | 328 | https://leetcode.com/problems/odd-even-linked-list/ | |
 | 369 | https://leetcode.com/problems/plus-one-linked-list/ | |
+| 445 | https://leetcode.com/problems/add-two-numbers-ii/ | |
 | 708 | https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/ | |
 
 ## String

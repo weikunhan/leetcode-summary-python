@@ -23,6 +23,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 79 | https://leetcode.com/problems/word-search/ | |
 | 130 | https://leetcode.com/problems/surrounded-regions/ | |
 | 200 | https://leetcode.com/problems/number-of-islands/ | |
 | 286 | https://leetcode.com/problems/walls-and-gates/ | |
