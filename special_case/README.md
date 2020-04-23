@@ -29,6 +29,7 @@ Sliding Window problem is a variation of Two Pointers. The main difference betwe
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 76 | https://leetcode.com/problems/minimum-window-substring/ | |
+| 438 | https://leetcode.com/problems/find-all-anagrams-in-a-string/ | |
 | 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | |
 | 992* | https://leetcode.com/discuss/interview-question/370157 | [this link](../python_practice/amazon/substrings_with_exactly_k_distinct_chars.py) |
 | 1052 | https://leetcode.com/problems/grumpy-bookstore-owner/ | |

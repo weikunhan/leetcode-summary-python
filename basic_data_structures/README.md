@@ -65,6 +65,7 @@ String processing is extremely important as a data processing related job. You s
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 242 | https://leetcode.com/problems/valid-anagram/ | |
 | 273 | https://leetcode.com/problems/integer-to-english-words/| |
 | 405 | https://leetcode.com/problems/convert-a-number-to-hexadecimal/ | |
 | 468 | https://leetcode.com/problems/validate-ip-address/ | |
