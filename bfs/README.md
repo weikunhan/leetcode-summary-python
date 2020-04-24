@@ -58,6 +58,11 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 987 | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/ | |
 
 ## Graph
+### Deque solver
+| *#* | *Link* | *Solution* |
+| ---- | --------------------------------- | --------------------------------- |
+| 1129 | https://leetcode.com/problems/shortest-path-with-alternating-colors/ | |
+
 ### Heap solver
 
 | *#* | *Link* | *Solution* |
