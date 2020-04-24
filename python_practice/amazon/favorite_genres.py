@@ -65,14 +65,14 @@ class Solution(object):
 
         res = {}
 
-        for user in userSongs:
+        for user, song_value_list in userSongs.items():
             value_dict = collections.Counter()
             temp_list = []
             
-            for song in userSongs[user]:
-                for key, value in songGenres.items():
-                    if song in value:
-                        value_dict[key] += 1
+            for song in song_value_list:
+                for genre, mapping_value_list in songGenres.items():
+                    if song in mapping_value_list:
+                        value_dict[genre] += 1
 
             for key, value in value_dict.items():
                 if value == value_dict.most_common()[0][1]:
