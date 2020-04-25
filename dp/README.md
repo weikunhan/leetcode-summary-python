@@ -35,6 +35,7 @@ For this kind of question, you need to use 1D or 2D DP array to transfer state w
 | 309 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/ | |
 | 821 | https://leetcode.com/problems/shortest-distance-to-a-character/ | |
 | 887 | https://leetcode.com/problems/super-egg-drop/ | |
+| 978 | https://leetcode.com/problems/longest-turbulent-subarray/ | |
 | 1035 | https://leetcode.com/problems/uncrossed-lines/ | |
 | 1143 | https://leetcode.com/problems/longest-common-subsequence/ | |
 
