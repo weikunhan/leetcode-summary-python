@@ -37,8 +37,6 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 101 | https://leetcode.com/problems/symmetric-tree/ | |
 | 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | |
-| 105 | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | |
-| 106 | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | |
 | 545 | https://leetcode.com/problems/boundary-of-binary-tree/ | |
 | 572 | https://leetcode.com/problems/subtree-of-another-tree/ | |
 | 617 | https://leetcode.com/problems/merge-two-binary-trees/ | |
@@ -47,14 +45,19 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 105 | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | |
+| 106 | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | |
 | 589 | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | |
 | 700 | https://leetcode.com/problems/search-in-a-binary-search-tree/ | |
+| 701 | https://leetcode.com/problems/insert-into-a-binary-search-tree/ | |
 
 ### Inorder
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 98 | https://leetcode.com/problems/validate-binary-search-tree/ | |
 | 99 | https://leetcode.com/problems/recover-binary-search-tree/ | |
+| 1382 | https://leetcode.com/problems/balance-a-binary-search-tree/submissions/ | |
 
 ### Postorder
 
