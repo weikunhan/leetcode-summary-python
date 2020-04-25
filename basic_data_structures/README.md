@@ -4,7 +4,6 @@ The data structures you should know before starting coding in LeetCode:
 
 * Array
 * Linked List
-* String
 * Stack
 * Queue
 * Binary Tree

@@ -29,6 +29,8 @@ For this kind of question, you need to use 1D or 2D DP array to transfer state w
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 121 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | |
+| 123 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ | |
+| 309 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/ | |
 | 821 | https://leetcode.com/problems/shortest-distance-to-a-character/ | |
 | 887 | https://leetcode.com/problems/super-egg-drop/ | |
 | 1035 | https://leetcode.com/problems/uncrossed-lines/ | |
