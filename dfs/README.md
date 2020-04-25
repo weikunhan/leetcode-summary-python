@@ -47,6 +47,8 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 105 | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | |
 | 106 | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | |
+| 116 | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ | |
+| 199 | https://leetcode.com/problems/binary-tree-right-side-view/ | |
 | 589 | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | |
 | 700 | https://leetcode.com/problems/search-in-a-binary-search-tree/ | |
 | 701 | https://leetcode.com/problems/insert-into-a-binary-search-tree/ | |

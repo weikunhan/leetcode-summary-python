@@ -51,6 +51,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 288 | https://leetcode.com/problems/unique-word-abbreviation/ | |
 | 380 | https://leetcode.com/problems/insert-delete-getrandom-o1/ | | 
 | 460 | https://leetcode.com/problems/lfu-cache/ | |
+| 535 | https://leetcode.com/problems/encode-and-decode-tinyurl/ | |
 | 705 | https://leetcode.com/problems/design-hashset/ | |
 | 706 | https://leetcode.com/problems/design-hashmap/ | |
 | 1396 | https://leetcode.com/problems/design-underground-system/ | |
