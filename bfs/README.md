@@ -16,6 +16,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 127 | https://leetcode.com/problems/word-ladder/ | |
 | 752 | https://leetcode.com/problems/open-the-lock/ | |
 | 854 | https://leetcode.com/problems/k-similar-strings/ | |
+| 1236 | https://leetcode.com/problems/web-crawler/ | |
 | 1345 | https://leetcode.com/problems/jump-game-iv/ | |
 
 ## 2D Array
