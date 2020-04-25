@@ -28,8 +28,10 @@ For this kind of question, you need to use 1D or 2D DP array to transfer state w
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 53 | https://leetcode.com/problems/maximum-subarray/ | | 
 | 121 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | |
 | 123 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ | |
+| 152 | https://leetcode.com/problems/maximum-product-subarray/ | |
 | 309 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/ | |
 | 821 | https://leetcode.com/problems/shortest-distance-to-a-character/ | |
 | 887 | https://leetcode.com/problems/super-egg-drop/ | |
