@@ -28,7 +28,8 @@ For this kind of question, you need to use 1D or 2D DP array to transfer state w
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 53 | https://leetcode.com/problems/maximum-subarray/ | | 
+| 53 | https://leetcode.com/problems/maximum-subarray/ | |
+| 91 | https://leetcode.com/problems/decode-ways/ | |
 | 121 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | |
 | 123 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ | |
 | 152 | https://leetcode.com/problems/maximum-product-subarray/ | |
@@ -82,6 +83,7 @@ For this kind of quesiton, you need to know what is knapsack problem: a problem 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 474 | https://leetcode.com/problems/ones-and-zeroes/ | |
+| 1155 | https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ | |
 
 ## Comprehensive DP
 

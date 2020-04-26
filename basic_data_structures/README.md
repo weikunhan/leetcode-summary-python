@@ -30,6 +30,7 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 | 56 | https://leetcode.com/problems/merge-intervals/ | |
 | 57 | https://leetcode.com/problems/insert-interval/ | |
 | 59 | https://leetcode.com/problems/spiral-matrix-ii/ | |
+| 277 | https://leetcode.com/problems/find-the-celebrity/ | |
 | 605 | https://leetcode.com/problems/can-place-flowers/ | |
 | 766 | https://leetcode.com/problems/toeplitz-matrix/ | |
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | |
