@@ -13,6 +13,7 @@ The following questions, I prefer to solve by using FILO. It may have the optima
 | 224 | https://leetcode.com/problems/basic-calculator/ | |
 | 227 | https://leetcode.com/problems/basic-calculator-ii/ | |
 | 456 | https://leetcode.com/problems/132-pattern/ | |
+| 739 | https://leetcode.com/problems/daily-temperatures/ | |
 | 772 | https://leetcode.com/problems/basic-calculator-iii/ | |
 | 1047 | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/ | |
 | 1214 | https://leetcode.com/problems/two-sum-bsts/ | |

@@ -31,6 +31,7 @@ Hash Set is little bit difference than Hash Map, but the underlying Hash storage
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 36 | https://leetcode.com/problems/valid-sudoku/ | |
 | 217 | https://leetcode.com/problems/contains-duplicate/ | |
 | 723 | https://leetcode.com/problems/candy-crush/ | |
 | 734 | https://leetcode.com/problems/sentence-similarity/ | |

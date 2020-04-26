@@ -53,6 +53,8 @@ There are few problems are related to mathematical. You should familiar with com
 | 991 | https://leetcode.com/problems/broken-calculator/ | |
 | 1131 | https://leetcode.com/problems/maximum-of-absolute-value-expression/ | |
 | 1175 | https://leetcode.com/problems/prime-arrangements/ | |
+| 1185 | https://leetcode.com/problems/day-of-the-week/ | |
+| 1360 | https://leetcode.com/problems/number-of-days-between-two-dates/ | |
 
 ## Prefix Tree
 
@@ -73,6 +75,7 @@ A greedy algorithm is any algorithm that follows the problem-solving heuristic o
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 55 | https://leetcode.com/problems/jump-game/ | |
 | 122 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | |
 | 252 | https://leetcode.com/problems/meeting-rooms/ | |
 | 253 | https://leetcode.com/problems/meeting-rooms-ii/ | |

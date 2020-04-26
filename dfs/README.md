@@ -68,6 +68,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 104 | https://leetcode.com/problems/path-sum/ | |
 | 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | |
+| 235 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | |
 | 236 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | |
 | 450 | https://leetcode.com/problems/delete-node-in-a-bst/ | |
 | 563 | https://leetcode.com/problems/binary-tree-tilt/ | |
