@@ -52,6 +52,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 589 | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | |
 | 700 | https://leetcode.com/problems/search-in-a-binary-search-tree/ | |
 | 701 | https://leetcode.com/problems/insert-into-a-binary-search-tree/ | |
+| 863 | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/ | |
 
 ### Inorder
 
@@ -79,6 +80,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 332 | https://leetcode.com/problems/reconstruct-itinerary/ | |
 | 1192 | https://leetcode.com/problems/critical-connections-in-a-network/ | |
 | 1192* | https://leetcode.com/discuss/interview-question/436073/ | [this link](../python_practice/amazon/critical_routers.py) |
 | 1192* | https://leetcode.com/discuss/interview-question/372581 | [this link](../python_practice/amazon/critical_connections.py)|

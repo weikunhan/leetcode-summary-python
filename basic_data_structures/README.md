@@ -36,6 +36,7 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | |
 | 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | |
 | 1013 | https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ | |
+| 1031 | https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/ | |
 | 1243 | https://leetcode.com/problems/array-transformation/ | |
 | 1356 | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ | |
 
@@ -55,6 +56,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | |
 | 143 | https://leetcode.com/problems/reorder-list/ | |
 | 203 | https://leetcode.com/problems/remove-linked-list-elements/ | |
+| 206 | https://leetcode.com/problems/reverse-linked-list/ | |
 | 237 | https://leetcode.com/problems/delete-node-in-a-linked-list/ | |
 | 328 | https://leetcode.com/problems/odd-even-linked-list/ | |
 | 369 | https://leetcode.com/problems/plus-one-linked-list/ | |

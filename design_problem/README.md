@@ -40,6 +40,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 208 | https://leetcode.com/problems/implement-trie-prefix-tree/ | |
 | 588 | https://leetcode.com/problems/design-in-memory-file-system/ | |
 | 642 | https://leetcode.com/problems/design-search-autocomplete-system/ | |
+| 1032 | https://leetcode.com/problems/stream-of-characters/ | |
 
 ## Hash Map&Set
 
@@ -68,6 +69,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 604 | https://leetcode.com/problems/design-compressed-string-iterator/ | |
 | 622 | https://leetcode.com/problems/design-circular-queue/ | |
 | 933 | https://leetcode.com/problems/number-of-recent-calls/ | |
+| 1188 | https://leetcode.com/problems/design-bounded-blocking-queue/ | |
 
 ## First-In-Last-Out
 
@@ -87,6 +89,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 297 | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ | |
+| 449 | https://leetcode.com/problems/serialize-and-deserialize-bst/ | |
 
 ## Heap Sort
 

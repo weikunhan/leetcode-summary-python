@@ -36,6 +36,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 1091* | https://leetcode.com/discuss/interview-question/356150 | [this link](../python_practice/amazon/treasure_islandII.py) |
 | 1162 | https://leetcode.com/problems/as-far-from-land-as-possible/ | |
 | 1197 | https://leetcode.com/problems/minimum-knight-moves/ | |
+| 1219 | https://leetcode.com/problems/path-with-maximum-gold/ | |
 
 ### Heap solver
 

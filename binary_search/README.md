@@ -18,7 +18,7 @@ This type of problem includes: search target value in sorted array, search targe
 | 540 | https://leetcode.com/problems/single-element-in-a-sorted-array/ | |
 | 704 | https://leetcode.com/problems/binary-search/ | |
 | 1060 | https://leetcode.com/problems/missing-element-in-sorted-array/ | |
-| 1101 | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ | |
+| 1011 | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ | |
 
 ## 2D Array
 
