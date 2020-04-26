@@ -49,8 +49,10 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | 23 | https://leetcode.com/problems/merge-k-sorted-lists/ | |
 | 25 | https://leetcode.com/problems/reverse-nodes-in-k-group/ | |
 | 82 | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/ | |
+| 83 | https://leetcode.com/problems/remove-duplicates-from-sorted-list/ | |
 | 86 | https://leetcode.com/problems/partition-list/ | |
 | 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | |
+| 143 | https://leetcode.com/problems/reorder-list/ | |
 | 203 | https://leetcode.com/problems/remove-linked-list-elements/ | |
 | 237 | https://leetcode.com/problems/delete-node-in-a-linked-list/ | |
 | 328 | https://leetcode.com/problems/odd-even-linked-list/ | |
