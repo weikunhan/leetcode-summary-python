@@ -30,6 +30,7 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 | 56 | https://leetcode.com/problems/merge-intervals/ | |
 | 57 | https://leetcode.com/problems/insert-interval/ | |
 | 59 | https://leetcode.com/problems/spiral-matrix-ii/ | |
+| 238 | https://leetcode.com/problems/product-of-array-except-self/ | |
 | 277 | https://leetcode.com/problems/find-the-celebrity/ | |
 | 605 | https://leetcode.com/problems/can-place-flowers/ | |
 | 766 | https://leetcode.com/problems/toeplitz-matrix/ | |
@@ -69,6 +70,8 @@ String processing is extremely important as a data processing related job. You s
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 96 | https://leetcode.com/problems/restore-ip-addresses/ | |
+| 165 | https://leetcode.com/problems/compare-version-numbers/ | |
 | 242 | https://leetcode.com/problems/valid-anagram/ | |
 | 273 | https://leetcode.com/problems/integer-to-english-words/| |
 | 405 | https://leetcode.com/problems/convert-a-number-to-hexadecimal/ | |

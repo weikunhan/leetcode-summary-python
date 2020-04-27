@@ -11,6 +11,7 @@ This type of problem includes: find connections problem, find minimum cost probl
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 261 | https://leetcode.com/problems/graph-valid-tree/ | |
 | 323 | https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/ | |
 | 1135 | https://leetcode.com/problems/connecting-cities-with-minimum-cost/ | |
 | 1135* | https://leetcode.com/discuss/interview-question/356981 | [this link](../python_practice/amazon/min_cost_to_connect_all_nodes.py) |

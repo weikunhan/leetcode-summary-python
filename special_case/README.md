@@ -32,6 +32,7 @@ Sliding Window problem is a variation of Two Pointers. The main difference betwe
 | 438 | https://leetcode.com/problems/find-all-anagrams-in-a-string/ | |
 | 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | |
 | 992* | https://leetcode.com/discuss/interview-question/370157 | [this link](../python_practice/amazon/substrings_with_exactly_k_distinct_chars.py) |
+| 1100 | https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/ | |
 | 1052 | https://leetcode.com/problems/grumpy-bookstore-owner/ | |
 
 ## Math
@@ -41,6 +42,7 @@ There are few problems are related to mathematical. You should familiar with com
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 69 | https://leetcode.com/problems/sqrtx/ | |
+| 289 | https://leetcode.com/problems/game-of-life/ | |
 | 365 | https://leetcode.com/problems/water-and-jug-problem/ | |
 | 367 | https://leetcode.com/problems/valid-perfect-square/ | |
 | 461 | https://leetcode.com/problems/hamming-distance/ | |
@@ -82,7 +84,9 @@ A greedy algorithm is any algorithm that follows the problem-solving heuristic o
 | 321 | https://leetcode.com/problems/create-maximum-number/ | |
 | 759 | https://leetcode.com/problems/employee-free-time/ | |
 | 860 | https://leetcode.com/problems/lemonade-change/ | |
+| 881 | https://leetcode.com/problems/boats-to-save-people/ | |
 | 1029 | https://leetcode.com/problems/two-city-scheduling/ | |
+
 ## Topological Sort
 
 In computer science, a topological sort or topological ordering of a directed graph is a linear ordering of all vertices of a directed acyclic graph (its vertices such that for every directed edge uv from vertex u to vertex v, u comes before v in the ordering) [Wikipedia](https://en.wikipedia.org/wiki/Topological_sorting)

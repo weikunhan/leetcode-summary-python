@@ -27,6 +27,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 130 | https://leetcode.com/problems/surrounded-regions/ | |
 | 200 | https://leetcode.com/problems/number-of-islands/ | |
 | 286 | https://leetcode.com/problems/walls-and-gates/ | |
+| 489 | https://leetcode.com/problems/robot-room-cleaner/ | |
 | 694 | https://leetcode.com/problems/number-of-distinct-islands/ | | 
 | 733 | https://leetcode.com/problems/flood-fill/ | |
 

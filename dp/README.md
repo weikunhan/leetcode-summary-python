@@ -29,6 +29,7 @@ For this kind of question, you need to use 1D or 2D DP array to transfer state w
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 53 | https://leetcode.com/problems/maximum-subarray/ | |
+| 72 | https://leetcode.com/problems/edit-distance/ | |
 | 91 | https://leetcode.com/problems/decode-ways/ | |
 | 121 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | |
 | 123 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ | |

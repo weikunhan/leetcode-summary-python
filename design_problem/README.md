@@ -96,12 +96,14 @@ For more informaiton, you need to check related courses and books. Here, I split
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 295 | https://leetcode.com/problems/find-median-from-data-stream/ | |
+| 352 | https://leetcode.com/problems/data-stream-as-disjoint-intervals/ | |
 
 ## Binary Seasrch
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 911 | https://leetcode.com/problems/online-election/ | |
+| 981 | https://leetcode.com/problems/time-based-key-value-store/ | |
 
 ## Others
 
