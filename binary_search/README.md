@@ -11,8 +11,10 @@ This type of problem includes: search target value in sorted array, search targe
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 4 | https://leetcode.com/problems/median-of-two-sorted-arrays/ | |
 | 33 | https://leetcode.com/problems/search-in-rotated-sorted-array/ | |
 | 81 | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ | |
+| 153 | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ | |
 | 300 | https://leetcode.com/problems/longest-increasing-subsequence/ | |
 | 410 | https://leetcode.com/problems/split-array-largest-sum/ | |
 | 540 | https://leetcode.com/problems/single-element-in-a-sorted-array/ | |

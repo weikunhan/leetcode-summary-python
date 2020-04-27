@@ -55,6 +55,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 535 | https://leetcode.com/problems/encode-and-decode-tinyurl/ | |
 | 705 | https://leetcode.com/problems/design-hashset/ | |
 | 706 | https://leetcode.com/problems/design-hashmap/ | |
+| 985 | https://leetcode.com/problems/maximum-frequency-stack/ | |
 | 1396 | https://leetcode.com/problems/design-underground-system/ | |
 | 1146 | https://leetcode.com/problems/snapshot-array/ | |
 

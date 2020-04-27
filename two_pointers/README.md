@@ -16,6 +16,7 @@ This type of problem includes: find the k sum problem, remove duplicates element
 | 18 | https://leetcode.com/problems/4sum/ | |
 | 1099 | https://leetcode.com/problems/two-sum-less-than-k/ | |
 | 1099* | https://leetcode.com/discuss/interview-question/373202 | [this link](../python_practice/amazon/optimal_utilization.py) |
+| 1229 | https://leetcode.com/problems/meeting-scheduler/ | |
 
 ## String
 

@@ -33,6 +33,7 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 | 238 | https://leetcode.com/problems/product-of-array-except-self/ | |
 | 277 | https://leetcode.com/problems/find-the-celebrity/ | |
 | 605 | https://leetcode.com/problems/can-place-flowers/ | |
+| 628 | https://leetcode.com/problems/maximum-product-of-three-numbers/ | |
 | 766 | https://leetcode.com/problems/toeplitz-matrix/ | |
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | |
 | 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | |
@@ -48,6 +49,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 2 | https://leetcode.com/problems/add-two-numbers/ | |
+| 19 | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ | |
 | 21 | https://leetcode.com/problems/merge-two-sorted-lists/ | |
 | 23 | https://leetcode.com/problems/merge-k-sorted-lists/ | |
 | 25 | https://leetcode.com/problems/reverse-nodes-in-k-group/ | |

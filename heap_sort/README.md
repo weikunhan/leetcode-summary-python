@@ -12,6 +12,7 @@ This type of problem includes: find the kth smallest problem, find the kth rare 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 373 | https://leetcode.com/problems/find-k-pairs-with-smallest-sums/ | |
+| 378 | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | |
 | 1167 | https://leetcode.com/problems/minimum-cost-to-connect-sticks/ | |
 | 1167* | https://leetcode.com/discuss/interview-question/344677| [this link](../python_practice/amazon/min_cost_to_connect_ropes.py) |  
 
