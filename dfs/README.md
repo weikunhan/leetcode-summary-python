@@ -72,6 +72,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 235 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | |
 | 236 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | |
 | 450 | https://leetcode.com/problems/delete-node-in-a-bst/ | |
+| 543 | https://leetcode.com/problems/diameter-of-binary-tree/ | |
 | 563 | https://leetcode.com/problems/binary-tree-tilt/ | |
 | 590 | https://leetcode.com/problems/n-ary-tree-postorder-traversal/ | |
 | 1120 | https://leetcode.com/problems/maximum-average-subtree | |
