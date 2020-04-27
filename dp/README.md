@@ -24,22 +24,18 @@ This type of problem includes: find status in the checkerboard problem
 
 This type of problem includes: find the longest/shortest common sequence problem, find the longest/shortest increase/decreasing sequence problem, find egg drop problem
 
-For this kind of question, you need to use 1D or 2D DP array to transfer state when dealing with comparison
+For this kind of question, you need to use 1D DP array to transfer state when dealing with comparison
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 53 | https://leetcode.com/problems/maximum-subarray/ | |
-| 72 | https://leetcode.com/problems/edit-distance/ | |
 | 91 | https://leetcode.com/problems/decode-ways/ | |
 | 121 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | |
 | 123 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ | |
 | 152 | https://leetcode.com/problems/maximum-product-subarray/ | |
 | 309 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/ | |
 | 821 | https://leetcode.com/problems/shortest-distance-to-a-character/ | |
-| 887 | https://leetcode.com/problems/super-egg-drop/ | |
 | 978 | https://leetcode.com/problems/longest-turbulent-subarray/ | |
-| 1035 | https://leetcode.com/problems/uncrossed-lines/ | |
-| 1143 | https://leetcode.com/problems/longest-common-subsequence/ | |
 
 ## Bidirectional Sequence DP
 
@@ -50,7 +46,11 @@ For this kind of question, you need to use 2D DP array to transfer state when de
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 5 | https://leetcode.com/problems/longest-palindromic-substring/ | |
+| 72 | https://leetcode.com/problems/edit-distance/ | |
 | 97 | https://leetcode.com/problems/interleaving-string/ | |
+| 887 | https://leetcode.com/problems/super-egg-drop/ | |
+| 1035 | https://leetcode.com/problems/uncrossed-lines/ | |
+| 1143 | https://leetcode.com/problems/longest-common-subsequence/ | |
 
 ## Interval DP
 
