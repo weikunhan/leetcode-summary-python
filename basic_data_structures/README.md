@@ -74,6 +74,7 @@ String processing is extremely important as a data processing related job. You s
 | 165 | https://leetcode.com/problems/compare-version-numbers/ | |
 | 242 | https://leetcode.com/problems/valid-anagram/ | |
 | 273 | https://leetcode.com/problems/integer-to-english-words/| |
+| 387 | https://leetcode.com/problems/first-unique-character-in-a-string/ | |
 | 405 | https://leetcode.com/problems/convert-a-number-to-hexadecimal/ | |
 | 468 | https://leetcode.com/problems/validate-ip-address/ | |
 | 678 | https://leetcode.com/problems/valid-parenthesis-string/ | |
