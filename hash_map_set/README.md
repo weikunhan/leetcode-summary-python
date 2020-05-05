@@ -34,6 +34,7 @@ Hash Set is little bit difference than Hash Map, but the underlying Hash storage
 | ---- | --------------------------------- | --------------------------------- |
 | 36 | https://leetcode.com/problems/valid-sudoku/ | |
 | 217 | https://leetcode.com/problems/contains-duplicate/ | |
+| 564 | https://leetcode.com/problems/find-the-closest-palindrome/ | |
 | 723 | https://leetcode.com/problems/candy-crush/ | |
 | 734 | https://leetcode.com/problems/sentence-similarity/ | |
 | 929 | https://leetcode.com/problems/unique-email-addresses/ | |
