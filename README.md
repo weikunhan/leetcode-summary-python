@@ -5,7 +5,7 @@ For the question number with *, it means this question change from original ques
 
 * Basic Data Structures - [this link](./basic_data_structures/README.md)
 * Breadth-First Search - [this link](./bfs/README.md)
-* Depth-First search - [this link](./dfs/README.md)
+* Depth-First Search - [this link](./dfs/README.md)
 * Two Pointers - [this link](./two_pointers/README.md)
 * Union-Find - [this link](./uf/README.md)
 * First-In-First-Out - [this link](./fifo/README.md)
