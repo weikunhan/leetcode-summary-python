@@ -24,7 +24,6 @@ This type of problem includes: find partition in target string
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 3 | https://leetcode.com/problems/longest-substring-without-repeating-characters/ | |
-| 3* | https://leetcode.com/discuss/interview-question/370112 | [this link](../python_practice/amazon/substrings_of_size_k_with_k_distinct_chars.py) |
 | 556 | https://leetcode.com/problems/next-greater-element-iii/ | |
 | 763 | https://leetcode.com/problems/partition-labels/ | |
+| | https://leetcode.com/discuss/interview-question/370112 | [this link](../python_practice/amazon/substrings_of_size_k_with_k_distinct_chars.py) |
