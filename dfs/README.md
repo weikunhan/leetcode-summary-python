@@ -1,4 +1,4 @@
-# Depth-First search 
+# Depth-First Search 
 
 The following questions, I prefer to solve by using DFS. It may have the optimal method, please check the discussion in LeetCode.  
 
