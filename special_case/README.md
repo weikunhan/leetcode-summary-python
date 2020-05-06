@@ -80,6 +80,7 @@ A greedy algorithm is any algorithm that follows the problem-solving heuristic o
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 41 | https://leetcode.com/problems/first-missing-positive/ | |
+| 45 | https://leetcode.com/problems/jump-game-ii/ | |
 | 55 | https://leetcode.com/problems/jump-game/ | |
 | 122 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | |
 | 252 | https://leetcode.com/problems/meeting-rooms/ | |
@@ -87,7 +88,6 @@ A greedy algorithm is any algorithm that follows the problem-solving heuristic o
 | 321 | https://leetcode.com/problems/create-maximum-number/ | |
 | 759 | https://leetcode.com/problems/employee-free-time/ | |
 | 860 | https://leetcode.com/problems/lemonade-change/ | |
-| 881 | https://leetcode.com/problems/boats-to-save-people/ | |
 | 1029 | https://leetcode.com/problems/two-city-scheduling/ | |
 
 ## Topological Sort

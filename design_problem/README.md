@@ -9,7 +9,7 @@ For prepare the design problem, there are three kinds of design problems:
 Also, there are algorithms that you should know before system design. The related resources should:
 
 * Bloom filter
-* Frugal Streaming
+* Frugal streaming
 * Geohash&S2 Geometry
 * Leaky bucket&Token bucket algorithm
 * Loosy Counting
@@ -19,7 +19,7 @@ Also, there are algorithms that you should know before system design. The relate
 * Reverse index algorithm
 * Rsync algorithm
 * Trie algorithm
-* Consistent Hashing
+* Consistent hashing
 
 For more informaiton, you need to check related courses and books. Here, I split the system design problem from LeetCode into following topic.
 

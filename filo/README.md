@@ -21,4 +21,5 @@ The following questions, I prefer to solve by using FILO. It may have the optima
 | 739 | https://leetcode.com/problems/daily-temperatures/ | |
 | 772 | https://leetcode.com/problems/basic-calculator-iii/ | |
 | 1047 | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/ | |
+| 1130 | https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/ | |
 | 1214 | https://leetcode.com/problems/two-sum-bsts/ | |

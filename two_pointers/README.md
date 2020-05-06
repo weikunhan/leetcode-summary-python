@@ -14,6 +14,7 @@ This type of problem includes: find the k sum problem, remove duplicates element
 | 11 | https://leetcode.com/problems/container-with-most-water/ | |
 | 15 | https://leetcode.com/problems/3sum/ | |
 | 18 | https://leetcode.com/problems/4sum/ | |
+| 881 | https://leetcode.com/problems/boats-to-save-people/ | |
 | 1099 | https://leetcode.com/problems/two-sum-less-than-k/ | |
 | 1099* | https://leetcode.com/discuss/interview-question/373202 | [this link](../python_practice/amazon/optimal_utilization.py) |
 | 1229 | https://leetcode.com/problems/meeting-scheduler/ | |
