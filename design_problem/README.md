@@ -83,6 +83,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 284 | https://leetcode.com/problems/peeking-iterator/ | |
 | 341 | https://leetcode.com/problems/flatten-nested-list-iterator/ | |
 | 716 | https://leetcode.com/problems/max-stack/ | |
+| 895 | https://leetcode.com/problems/maximum-frequency-stack/ | |
 | 1381 | https://leetcode.com/problems/design-a-stack-with-increment-operation/ | |
 
 ## Depth-First search
