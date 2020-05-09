@@ -32,6 +32,7 @@ For this kind of question, you need to use 1D DP array to transfer state when de
 | 91 | https://leetcode.com/problems/decode-ways/ | |
 | 121 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | |
 | 123 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ | |
+| 135 | https://leetcode.com/problems/candy/ | |
 | 152 | https://leetcode.com/problems/maximum-product-subarray/ | |
 | 309 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/ | |
 | 821 | https://leetcode.com/problems/shortest-distance-to-a-character/ | |

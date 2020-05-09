@@ -62,6 +62,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 98 | https://leetcode.com/problems/validate-binary-search-tree/ | |
 | 99 | https://leetcode.com/problems/recover-binary-search-tree/ | |
+| 1038 | https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/ | |
 | 1382 | https://leetcode.com/problems/balance-a-binary-search-tree/submissions/ | |
 
 ### Postorder

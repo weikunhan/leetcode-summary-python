@@ -99,6 +99,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | ---- | --------------------------------- | --------------------------------- |
 | 295 | https://leetcode.com/problems/find-median-from-data-stream/ | |
 | 352 | https://leetcode.com/problems/data-stream-as-disjoint-intervals/ | |
+| 1172 | https://leetcode.com/problems/dinner-plate-stacks/ | |
 
 ## Binary Seasrch
 
