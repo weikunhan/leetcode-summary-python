@@ -12,6 +12,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 17 | https://leetcode.com/problems/letter-combinations-of-a-phone-number/ | |
 | 22 | https://leetcode.com/problems/generate-parentheses/ | |
 | 339 | https://leetcode.com/problems/nested-list-weight-sum/ | |
 | 364 | https://leetcode.com/problems/nested-list-weight-sum-ii/ | |

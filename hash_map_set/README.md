@@ -12,7 +12,6 @@ This structure that can map keys to values. A hash map uses a hash function to c
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 13 | https://leetcode.com/problems/roman-to-integer/ | |
-| 17 | https://leetcode.com/problems/letter-combinations-of-a-phone-number/ | |
 | 49 | https://leetcode.com/problems/group-anagrams/ | |
 | 187 | https://leetcode.com/problems/repeated-dna-sequences/ | |
 | 219 | https://leetcode.com/problems/contains-duplicate-ii/ | |
