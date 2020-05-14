@@ -18,6 +18,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 364 | https://leetcode.com/problems/nested-list-weight-sum-ii/ | |
 | 403 | https://leetcode.com/problems/frog-jump/ | |
 | 472 | https://leetcode.com/problems/concatenated-words/ | |
+| 473 | https://leetcode.com/problems/matchsticks-to-square/ | |
 
 ## 2D Array
 ### Backtracking
@@ -49,6 +50,8 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 105 | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | |
 | 106 | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | |
+| 112 | https://leetcode.com/problems/path-sum/ | |
+| 113 | https://leetcode.com/problems/path-sum-ii/ | |
 | 109 | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/ | |
 | 116 | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ | |
 | 199 | https://leetcode.com/problems/binary-tree-right-side-view/ | |
@@ -70,7 +73,6 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 104 | https://leetcode.com/problems/path-sum/ | |
 | 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | |
 | 235 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | |
 | 236 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | |

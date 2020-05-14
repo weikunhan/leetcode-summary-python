@@ -33,6 +33,7 @@ Sliding Window problem is a variation of Two Pointers. The main difference betwe
 | 438 | https://leetcode.com/problems/find-all-anagrams-in-a-string/ | |
 | 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | |
 | 992* | https://leetcode.com/discuss/interview-question/370157 | [this link](../python_practice/amazon/substrings_with_exactly_k_distinct_chars.py) |
+| 995 | https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/ | |
 | 1100 | https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/ | |
 | 1052 | https://leetcode.com/problems/grumpy-bookstore-owner/ | |
 
@@ -58,6 +59,7 @@ There are few problems are related to mathematical. You should familiar with com
 | 1175 | https://leetcode.com/problems/prime-arrangements/ | |
 | 1185 | https://leetcode.com/problems/day-of-the-week/ | |
 | 1275 |https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/ | |
+| 1344 | https://leetcode.com/problems/angle-between-hands-of-a-clock/ | |
 | 1360 | https://leetcode.com/problems/number-of-days-between-two-dates/ | |
 
 ## Prefix Tree

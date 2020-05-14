@@ -10,6 +10,7 @@ The following questions, I prefer to solve by using FILO. It may have the optima
 | ---- | --------------------------------- | --------------------------------- |
 | 20 | https://leetcode.com/problems/valid-parentheses/ | |
 | 42 | https://leetcode.com/problems/trapping-rain-water/ | |
+| 71 | https://leetcode.com/problems/simplify-path/ | |
 | 84 | https://leetcode.com/problems/largest-rectangle-in-histogram/ | |
 | 85 | https://leetcode.com/problems/maximal-rectangle/ | |
 | 224 | https://leetcode.com/problems/basic-calculator/ | |

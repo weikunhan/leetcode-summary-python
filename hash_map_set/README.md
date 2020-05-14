@@ -20,6 +20,7 @@ This structure that can map keys to values. A hash map uses a hash function to c
 | 532 | https://leetcode.com/problems/k-diff-pairs-in-an-array/ | |
 | 697 | https://leetcode.com/problems/degree-of-an-array/ | |
 | 953 | https://leetcode.com/problems/verifying-an-alien-dictionary/ | |
+| 963 | https://leetcode.com/problems/minimum-area-rectangle-ii/ | |
 | 1138 | https://leetcode.com/problems/alphabet-board-path/ | |
 | 1152 | https://leetcode.com/problems/analyze-user-website-visit-pattern/ | |
 | 1207 | https://leetcode.com/problems/unique-number-of-occurrences/ | |
