@@ -51,7 +51,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | 244 | https://leetcode.com/problems/shortest-word-distance-ii/ | |
 | 288 | https://leetcode.com/problems/unique-word-abbreviation/ | |
 | 380 | https://leetcode.com/problems/insert-delete-getrandom-o1/ | | 
-| 460 | https://leetcode.com/problems/lfu-cache/ | |
+| 460 | https://leetcode.com/problems/lfu-cache/ | [this link](../python_practice/solution/0460_lfu_cache.py) |
 | 535 | https://leetcode.com/problems/encode-and-decode-tinyurl/ | |
 | 705 | https://leetcode.com/problems/design-hashset/ | |
 | 706 | https://leetcode.com/problems/design-hashmap/ | |
