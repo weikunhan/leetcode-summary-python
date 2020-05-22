@@ -1,5 +1,6 @@
-# leetcode-summary
-The summary for LeetCode questions. Please check [Leetcode](https://leetcode.com/)
+# leetcode-summary-python
+
+The summary for LeetCode questions written in Python. Please check [Leetcode](https://leetcode.com/) for more information. For C++ version, please check [leetcode-summary-c-plus-plus](https://github.com/weikunhan/leetcode-summary-c-plus-plus)
 
 For the question number with *, it means this question change from original questions.
 
@@ -16,6 +17,8 @@ For the question number with *, it means this question change from original ques
 * Dynamic Programming - [this link](./dp/README.md)
 * Special Case - [this link](./special_case/README.md)
 * Design Problem - [this link](./design_problem/README.md)
+
+# Note
 
 A message of hope to someone who read this repo:
 
