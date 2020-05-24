@@ -90,6 +90,6 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 332 | https://leetcode.com/problems/reconstruct-itinerary/ | |
-| 1192 | https://leetcode.com/problems/critical-connections-in-a-network/ | |
+| 1192 | https://leetcode.com/problems/critical-connections-in-a-network/ |  [this link](../python_practice/solution/1192.critical_connections_in_a_network.py) |
 | 1192* | https://leetcode.com/discuss/interview-question/436073/ | [this link](../python_practice/amazon/critical_routers.py) |
 | 1192* | https://leetcode.com/discuss/interview-question/372581 | [this link](../python_practice/amazon/critical_connections.py)|

@@ -18,7 +18,7 @@ For the question number with *, it means this question change from original ques
 * Special Case - [this link](./special_case/README.md)
 * Design Problem - [this link](./design_problem/README.md)
 
-# Note
+## Note
 
 A message of hope to someone who read this repo:
 
