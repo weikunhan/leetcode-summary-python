@@ -85,4 +85,4 @@ String processing is extremely important as a data processing related job. You s
 | 678 | https://leetcode.com/problems/valid-parenthesis-string/ | |
 | 796 | https://leetcode.com/problems/rotate-string/ | |
 | 806 | https://leetcode.com/problems/number-of-lines-to-write-string/ | |
-| 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | |
+| 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | [this link](../python_practice/solution/0937_reorder_data_in_log_files.py) |
