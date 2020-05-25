@@ -30,7 +30,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 773 | https://leetcode.com/problems/sliding-puzzle/ | |
 | 909 | https://leetcode.com/problems/snakes-and-ladders/ | |
 | 934 | https://leetcode.com/problems/shortest-bridge/ | | 
-| 994 | https://leetcode.com/problems/rotting-oranges/ | |
+| 994 | https://leetcode.com/problems/rotting-oranges/ | [this link](../python_practice/solution/0994_rotting_oranges.py) |
 | 994* | https://leetcode.com/discuss/interview-question/411357/ | [this link](../python_practice/amazon/min_hour.py) |
 | 1091 | https://leetcode.com/problems/shortest-path-in-binary-matrix/ | |
 | 1091* | https://leetcode.com/discuss/interview-question/347457 | [this link](../python_practice/amazon/treasure_island.py) |
