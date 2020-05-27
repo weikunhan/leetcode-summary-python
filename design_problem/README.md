@@ -46,7 +46,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 146 | https://leetcode.com/problems/lru-cache/ | | 
+| 146 | https://leetcode.com/problems/lru-cache/ | [this link](../python_practice/solution/0146_lru_cache.py) | 
 | 170 | https://leetcode.com/problems/two-sum-iii-data-structure-design/ | |
 | 244 | https://leetcode.com/problems/shortest-word-distance-ii/ | |
 | 288 | https://leetcode.com/problems/unique-word-abbreviation/ | |
