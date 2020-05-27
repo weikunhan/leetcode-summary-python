@@ -56,7 +56,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | 82 | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/ | |
 | 83 | https://leetcode.com/problems/remove-duplicates-from-sorted-list/ | |
 | 86 | https://leetcode.com/problems/partition-list/ | |
-| 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | |
+| 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | [this link](../python_practice/solution/0138_copy_list_with_random_pointer.py) |
 | 143 | https://leetcode.com/problems/reorder-list/ | |
 | 203 | https://leetcode.com/problems/remove-linked-list-elements/ | |
 | 206 | https://leetcode.com/problems/reverse-linked-list/ | |
