@@ -73,7 +73,7 @@ To solve this kind of problem, you need to build a trie. the core content to bui
 | 212 | https://leetcode.com/problems/word-search-ii/ | |
 | 425 | https://leetcode.com/problems/word-squares/ | |
 | 720 | https://leetcode.com/problems/longest-word-in-dictionary/ | |
-| 1268 | https://leetcode.com/problems/search-suggestions-system/ | | 
+| 1268 | https://leetcode.com/problems/search-suggestions-system/ | [this link](../python_practice/solution/1268_search_suggestions_system.py)| 
 
 ## Greedy
 
