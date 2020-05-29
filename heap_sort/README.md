@@ -34,3 +34,4 @@ Since Python's heapq implementation does not have built in support for max heap,
 | 819* | https://leetcode.com/discuss/interview-question/542597/ | [this link](../python_practice/amazon/top_k_frequently_mentioned_keywords.py) |
 | 973 | https://leetcode.com/problems/k-closest-points-to-origin/ |[this link](../python_practice/solution/0973_k_closest_points_to_origin.py) | 
 | 1005 | https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/ | |
+| 1152 | https://leetcode.com/problems/analyze-user-website-visit-pattern/ | [this link](../python_practice/solution/1152_analyze_user_website_visit_pattern.py) |
