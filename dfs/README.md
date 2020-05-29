@@ -17,7 +17,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 339 | https://leetcode.com/problems/nested-list-weight-sum/ | |
 | 364 | https://leetcode.com/problems/nested-list-weight-sum-ii/ | |
 | 403 | https://leetcode.com/problems/frog-jump/ | |
-| 472 | https://leetcode.com/problems/concatenated-words/ | [this link](../python_practice/solution/472_concatenated_words.py) |
+| 472 | https://leetcode.com/problems/concatenated-words/ | [this link](../python_practice/solution/0472_concatenated_words.py) |
 | 473 | https://leetcode.com/problems/matchsticks-to-square/ | |
 
 ## 2D Array
