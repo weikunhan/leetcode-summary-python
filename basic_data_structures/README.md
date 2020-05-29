@@ -36,7 +36,7 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 | 628 | https://leetcode.com/problems/maximum-product-of-three-numbers/ | |
 | 766 | https://leetcode.com/problems/toeplitz-matrix/ | |
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | |
-| 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | |
+| 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | [this link](../python_practice/solution/0975_prison_cells_after_n_days.py)|
 | 1013 | https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ | |
 | 1031 | https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/ | |
 | 1243 | https://leetcode.com/problems/array-transformation/ | |
