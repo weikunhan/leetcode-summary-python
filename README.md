@@ -1,6 +1,6 @@
 # leetcode-summary-python
 
-The summary for LeetCode questions written in Python. Please check [Leetcode](https://leetcode.com/) for more information. For C++ version, please check [leetcode-summary-c-plus-plus](https://github.com/weikunhan/leetcode-summary-c-plus-plus)
+The summary for LeetCode questions written in Python. Please check [Leetcode](https://leetcode.com/) for more information. For C++ version, please check [leetcode-summary-c-plus-plus](https://github.com/weikunhan/leetcode-summary-c-plus-plus). For Java version, please check [leetcode-summary-java](https://github.com/weikunhan/leetcode-summary-java).
 
 For the question number with *, it means this question change from original questions.
 
