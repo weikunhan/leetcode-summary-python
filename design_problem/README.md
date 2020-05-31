@@ -97,7 +97,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 295 | https://leetcode.com/problems/find-median-from-data-stream/ | |
+| 295 | https://leetcode.com/problems/find-median-from-data-stream/ | [this link](../practice/solution/0295_find_median_from_data_stream.py)|
 | 352 | https://leetcode.com/problems/data-stream-as-disjoint-intervals/ | |
 | 1172 | https://leetcode.com/problems/dinner-plate-stacks/ | |
 
