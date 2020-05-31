@@ -46,7 +46,7 @@ For this kind of question, you need to use 2D DP array to transfer state when de
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 5 | https://leetcode.com/problems/longest-palindromic-substring/ | [this link](../python_practice/solution/0005_longest_palindromic_substring.py) |
+| 5 | https://leetcode.com/problems/longest-palindromic-substring/ | [this link](../practice/solution/0005_longest_palindromic_substring.py) |
 | 72 | https://leetcode.com/problems/edit-distance/ | |
 | 97 | https://leetcode.com/problems/interleaving-string/ | |
 | 887 | https://leetcode.com/problems/super-egg-drop/ | |

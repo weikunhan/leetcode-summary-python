@@ -30,11 +30,11 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 773 | https://leetcode.com/problems/sliding-puzzle/ | |
 | 909 | https://leetcode.com/problems/snakes-and-ladders/ | |
 | 934 | https://leetcode.com/problems/shortest-bridge/ | | 
-| 994 | https://leetcode.com/problems/rotting-oranges/ | [this link](../python_practice/solution/0994_rotting_oranges.py) |
-| 994* | https://leetcode.com/discuss/interview-question/411357/ | [this link](../python_practice/amazon/min_hour.py) |
+| 994 | https://leetcode.com/problems/rotting-oranges/ | [this link](../practice/solution/0994_rotting_oranges.py) |
+| 994* | https://leetcode.com/discuss/interview-question/411357/ | [this link](../practice/amazon/min_hour.py) |
 | 1091 | https://leetcode.com/problems/shortest-path-in-binary-matrix/ | |
-| 1091* | https://leetcode.com/discuss/interview-question/347457 | [this link](../python_practice/amazon/treasure_island.py) |
-| 1091* | https://leetcode.com/discuss/interview-question/356150 | [this link](../python_practice/amazon/treasure_islandII.py) |
+| 1091* | https://leetcode.com/discuss/interview-question/347457 | [this link](../practice/amazon/treasure_island.py) |
+| 1091* | https://leetcode.com/discuss/interview-question/356150 | [this link](../practice/amazon/treasure_islandII.py) |
 | 1162 | https://leetcode.com/problems/as-far-from-land-as-possible/ | |
 | 1197 | https://leetcode.com/problems/minimum-knight-moves/ | |
 | 1219 | https://leetcode.com/problems/path-with-maximum-gold/ | |
@@ -44,7 +44,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 1102 | https://leetcode.com/problems/path-with-maximum-minimum-value/ | |
-| 1102* | https://leetcode.com/discuss/interview-question/383669/ | [this link](../python_practice/amazon/max_of_min_altitudes.py) | 
+| 1102* | https://leetcode.com/discuss/interview-question/383669/ | [this link](../practice/amazon/max_of_min_altitudes.py) | 
 
 ## Tree
 ### Deque solver

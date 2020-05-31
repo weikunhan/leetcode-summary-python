@@ -9,7 +9,7 @@ The following questions, I prefer to solve by using FILO. It may have the optima
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 20 | https://leetcode.com/problems/valid-parentheses/ | |
-| 42 | https://leetcode.com/problems/trapping-rain-water/ | [this link](../python_practice/solution/0042_trapping_rain_water.py) |
+| 42 | https://leetcode.com/problems/trapping-rain-water/ | [this link](../practice/solution/0042_trapping_rain_water.py) |
 | 71 | https://leetcode.com/problems/simplify-path/ | |
 | 84 | https://leetcode.com/problems/largest-rectangle-in-histogram/ | |
 | 85 | https://leetcode.com/problems/maximal-rectangle/ | |

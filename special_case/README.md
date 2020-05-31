@@ -16,9 +16,9 @@ Two Sum related problems can simply solve using Two Pointers. I would like to ma
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 1 | https://leetcode.com/problems/two-sum/ | [this link](../python_practice/solution/0001_two_sum.py) |
-| 1* | https://leetcode.com/discuss/interview-question/356960 | [this link](../python_practice/amazon/find_pair_with_given_sum.py) |
-| 1* | https://leetcode.com/discuss/interview-question/372434 | [this link](../python_practice/amazon/two_sum_unique_pairs.py) |
+| 1 | https://leetcode.com/problems/two-sum/ | [this link](../practice/solution/0001_two_sum.py) |
+| 1* | https://leetcode.com/discuss/interview-question/356960 | [this link](../practice/amazon/find_pair_with_given_sum.py) |
+| 1* | https://leetcode.com/discuss/interview-question/372434 | [this link](../practice/amazon/two_sum_unique_pairs.py) |
 | 167 | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | |
 | 454 | https://leetcode.com/problems/4sum-ii/ | |
 
@@ -32,7 +32,7 @@ Sliding Window problem is a variation of Two Pointers. The main difference betwe
 | 76 | https://leetcode.com/problems/minimum-window-substring/ | |
 | 438 | https://leetcode.com/problems/find-all-anagrams-in-a-string/ | |
 | 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | |
-| 992* | https://leetcode.com/discuss/interview-question/370157 | [this link](../python_practice/amazon/substrings_with_exactly_k_distinct_chars.py) |
+| 992* | https://leetcode.com/discuss/interview-question/370157 | [this link](../practice/amazon/substrings_with_exactly_k_distinct_chars.py) |
 | 995 | https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/ | |
 | 1100 | https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/ | |
 | 1052 | https://leetcode.com/problems/grumpy-bookstore-owner/ | |
@@ -43,6 +43,7 @@ There are few problems are related to mathematical. You should familiar with com
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 7 | https://leetcode.com/problems/reverse-integer/ | [this link](../practice/solution/0007_reverse_integer.py)|
 | 69 | https://leetcode.com/problems/sqrtx/ | |
 | 289 | https://leetcode.com/problems/game-of-life/ | |
 | 365 | https://leetcode.com/problems/water-and-jug-problem/ | |
@@ -73,7 +74,7 @@ To solve this kind of problem, you need to build a trie. the core content to bui
 | 212 | https://leetcode.com/problems/word-search-ii/ | |
 | 425 | https://leetcode.com/problems/word-squares/ | |
 | 720 | https://leetcode.com/problems/longest-word-in-dictionary/ | |
-| 1268 | https://leetcode.com/problems/search-suggestions-system/ | [this link](../python_practice/solution/1268_search_suggestions_system.py)| 
+| 1268 | https://leetcode.com/problems/search-suggestions-system/ | [this link](../practice/solution/1268_search_suggestions_system.py)| 
 
 ## Greedy
 

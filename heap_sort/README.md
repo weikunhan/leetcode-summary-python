@@ -14,7 +14,7 @@ This type of problem includes: find the kth smallest problem, find the kth rare 
 | 373 | https://leetcode.com/problems/find-k-pairs-with-smallest-sums/ | |
 | 378 | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | |
 | 1167 | https://leetcode.com/problems/minimum-cost-to-connect-sticks/ | |
-| 1167* | https://leetcode.com/discuss/interview-question/344677| [this link](../python_practice/amazon/min_cost_to_connect_ropes.py) |  
+| 1167* | https://leetcode.com/discuss/interview-question/344677| [this link](../practice/amazon/min_cost_to_connect_ropes.py) |  
 
 ## Max Heap
 
@@ -28,10 +28,10 @@ Since Python's heapq implementation does not have built in support for max heap,
 | 218 | https://leetcode.com/problems/the-skyline-problem/ | |
 | 347 | https://leetcode.com/problems/top-k-frequent-elements/ | |
 | 480 | https://leetcode.com/problems/sliding-window-median/ | |
-| 692 | https://leetcode.com/problems/top-k-frequent-words/ | [this link](../python_practice/solution/0692_top_k_frequent_words.py) |
+| 692 | https://leetcode.com/problems/top-k-frequent-words/ | [this link](../practice/solution/0692_top_k_frequent_words.py) |
 | 767 | https://leetcode.com/problems/reorganize-string/ | |
-| 819 | https://leetcode.com/problems/most-common-word/ | [this link](../python_practice/solution/0819_most_common_word.py) |
-| 819* | https://leetcode.com/discuss/interview-question/542597/ | [this link](../python_practice/amazon/top_k_frequently_mentioned_keywords.py) |
-| 973 | https://leetcode.com/problems/k-closest-points-to-origin/ |[this link](../python_practice/solution/0973_k_closest_points_to_origin.py) | 
+| 819 | https://leetcode.com/problems/most-common-word/ | [this link](../practice/solution/0819_most_common_word.py) |
+| 819* | https://leetcode.com/discuss/interview-question/542597/ | [this link](../practice/amazon/top_k_frequently_mentioned_keywords.py) |
+| 973 | https://leetcode.com/problems/k-closest-points-to-origin/ |[this link](../practice/solution/0973_k_closest_points_to_origin.py) | 
 | 1005 | https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/ | |
-| 1152 | https://leetcode.com/problems/analyze-user-website-visit-pattern/ | [this link](../python_practice/solution/1152_analyze_user_website_visit_pattern.py) |
+| 1152 | https://leetcode.com/problems/analyze-user-website-visit-pattern/ | [this link](../practice/solution/1152_analyze_user_website_visit_pattern.py) |

@@ -36,7 +36,7 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 | 628 | https://leetcode.com/problems/maximum-product-of-three-numbers/ | |
 | 766 | https://leetcode.com/problems/toeplitz-matrix/ | |
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | |
-| 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | [this link](../python_practice/solution/0975_prison_cells_after_n_days.py)|
+| 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | [this link](../practice/solution/0975_prison_cells_after_n_days.py)|
 | 1013 | https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ | |
 | 1031 | https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/ | |
 | 1243 | https://leetcode.com/problems/array-transformation/ | |
@@ -56,7 +56,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | 82 | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/ | |
 | 83 | https://leetcode.com/problems/remove-duplicates-from-sorted-list/ | |
 | 86 | https://leetcode.com/problems/partition-list/ | |
-| 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | [this link](../python_practice/solution/0138_copy_list_with_random_pointer.py) |
+| 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | [this link](../practice/solution/0138_copy_list_with_random_pointer.py) |
 | 143 | https://leetcode.com/problems/reorder-list/ | |
 | 203 | https://leetcode.com/problems/remove-linked-list-elements/ | |
 | 206 | https://leetcode.com/problems/reverse-linked-list/ | |
@@ -85,4 +85,4 @@ String processing is extremely important as a data processing related job. You s
 | 678 | https://leetcode.com/problems/valid-parenthesis-string/ | |
 | 796 | https://leetcode.com/problems/rotate-string/ | |
 | 806 | https://leetcode.com/problems/number-of-lines-to-write-string/ | |
-| 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | [this link](../python_practice/solution/0937_reorder_data_in_log_files.py) |
+| 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | [this link](../practice/solution/0937_reorder_data_in_log_files.py) |

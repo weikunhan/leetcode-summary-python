@@ -17,7 +17,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 339 | https://leetcode.com/problems/nested-list-weight-sum/ | |
 | 364 | https://leetcode.com/problems/nested-list-weight-sum-ii/ | |
 | 403 | https://leetcode.com/problems/frog-jump/ | |
-| 472 | https://leetcode.com/problems/concatenated-words/ | [this link](../python_practice/solution/0472_concatenated_words.py) |
+| 472 | https://leetcode.com/problems/concatenated-words/ | [this link](../practice/solution/0472_concatenated_words.py) |
 | 473 | https://leetcode.com/problems/matchsticks-to-square/ | |
 
 ## 2D Array
@@ -27,7 +27,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 79 | https://leetcode.com/problems/word-search/ | |
 | 130 | https://leetcode.com/problems/surrounded-regions/ | |
-| 200 | https://leetcode.com/problems/number-of-islands/ | [this link](../python_practice/solution/0200_number_of_islands.py) |
+| 200 | https://leetcode.com/problems/number-of-islands/ | [this link](../practice/solution/0200_number_of_islands.py) |
 | 286 | https://leetcode.com/problems/walls-and-gates/ | |
 | 489 | https://leetcode.com/problems/robot-room-cleaner/ | |
 | 694 | https://leetcode.com/problems/number-of-distinct-islands/ | | 
@@ -82,7 +82,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 563 | https://leetcode.com/problems/binary-tree-tilt/ | |
 | 590 | https://leetcode.com/problems/n-ary-tree-postorder-traversal/ | |
 | 1120 | https://leetcode.com/problems/maximum-average-subtree | |
-| 1120* | https://leetcode.com/discuss/interview-question/349617 | [this link](../python_practice/amazon/subtree_with_maximum_average.py) |
+| 1120* | https://leetcode.com/discuss/interview-question/349617 | [this link](../practice/amazon/subtree_with_maximum_average.py) |
 
 ## Graph
 ### Backtracking
@@ -90,6 +90,6 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 332 | https://leetcode.com/problems/reconstruct-itinerary/ | |
-| 1192 | https://leetcode.com/problems/critical-connections-in-a-network/ |  [this link](../python_practice/solution/1192.critical_connections_in_a_network.py) |
-| 1192* | https://leetcode.com/discuss/interview-question/436073/ | [this link](../python_practice/amazon/critical_routers.py) |
-| 1192* | https://leetcode.com/discuss/interview-question/372581 | [this link](../python_practice/amazon/critical_connections.py)|
+| 1192 | https://leetcode.com/problems/critical-connections-in-a-network/ |  [this link](../practice/solution/1192.critical_connections_in_a_network.py) |
+| 1192* | https://leetcode.com/discuss/interview-question/436073/ | [this link](../practice/amazon/critical_routers.py) |
+| 1192* | https://leetcode.com/discuss/interview-question/372581 | [this link](../practice/amazon/critical_connections.py)|
