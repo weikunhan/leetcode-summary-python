@@ -62,7 +62,7 @@ For this kind of question, you need to enumerate the left and right subranges an
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 139 | https://leetcode.com/problems/word-break/ | |
-| 140 | https://leetcode.com/problems/word-break-ii/ | |
+| 140 | https://leetcode.com/problems/word-break-ii/ | [this link](../practice/solution/0140_word_break_ii.py)|
 | 368 | https://leetcode.com/problems/largest-divisible-subset/ | |
 
 ## Divided DP
