@@ -38,7 +38,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 | ---- | --------------------------------- | --------------------------------- |
 | 211 | https://leetcode.com/problems/add-and-search-word-data-structure-design/ | |
 | 208 | https://leetcode.com/problems/implement-trie-prefix-tree/ | |
-| 588 | https://leetcode.com/problems/design-in-memory-file-system/ | |
+| 588 | https://leetcode.com/problems/design-in-memory-file-system/ | [this link](../practice/solution/0588_design_in_memory_file_system.py)|
 | 642 | https://leetcode.com/problems/design-search-autocomplete-system/ | |
 | 1032 | https://leetcode.com/problems/stream-of-characters/ | |
 
