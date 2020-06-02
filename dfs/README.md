@@ -30,7 +30,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 200 | https://leetcode.com/problems/number-of-islands/ | [this link](../practice/solution/0200_number_of_islands.py) |
 | 286 | https://leetcode.com/problems/walls-and-gates/ | |
 | 489 | https://leetcode.com/problems/robot-room-cleaner/ | |
-| 694 | https://leetcode.com/problems/number-of-distinct-islands/ | | 
+| 694 | https://leetcode.com/problems/number-of-distinct-islands/ | [this link](../practice/solution/0694_number_of_distinct_islands.py)| 
 | 733 | https://leetcode.com/problems/flood-fill/ | |
 
 ## Tree
