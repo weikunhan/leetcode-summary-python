@@ -29,4 +29,4 @@ This type of problem includes: search target value in sorted 2D-array, search ta
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 74 | https://leetcode.com/problems/search-a-2d-matrix/ | |
-| 240 | https://leetcode.com/problems/search-a-2d-matrix-ii/ | |
+| 240 | https://leetcode.com/problems/search-a-2d-matrix-ii/ | [this link](../practice/solution/0240_search_a_2d_matrix_ii.py)|
