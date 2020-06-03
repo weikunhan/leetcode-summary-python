@@ -41,7 +41,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 101 | https://leetcode.com/problems/symmetric-tree/ | |
 | 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | |
 | 545 | https://leetcode.com/problems/boundary-of-binary-tree/ | |
-| 572 | https://leetcode.com/problems/subtree-of-another-tree/ | |
+| 572 | https://leetcode.com/problems/subtree-of-another-tree/ | [this link](../practice/solution/0572_subtree_of_another_tree.py)|
 | 617 | https://leetcode.com/problems/merge-two-binary-trees/ | |
 
 ### Preorder
