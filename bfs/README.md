@@ -13,7 +13,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 126 | https://leetcode.com/problems/word-ladder-ii/ | |
-| 127 | https://leetcode.com/problems/word-ladder/ | |
+| 127 | https://leetcode.com/problems/word-ladder/ | [this link](../practice/solution/0127_word_ladder.py) |
 | 752 | https://leetcode.com/problems/open-the-lock/ | |
 | 815 | https://leetcode.com/problems/bus-routes/ | |
 | 854 | https://leetcode.com/problems/k-similar-strings/ | |
