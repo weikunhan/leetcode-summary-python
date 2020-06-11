@@ -102,7 +102,7 @@ To solve this kind of problem, you need two steps: 1)initial graph, 2)prune grap
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 207 | https://leetcode.com/problems/course-schedule/ | |
-| 210 | https://leetcode.com/problems/course-schedule-ii/ | [this link](../practice/solution/210_course_schedule_ii.py)|
+| 210 | https://leetcode.com/problems/course-schedule-ii/ | [this link](../practice/solution/0210_course_schedule_ii.py)|
 | 269 | https://leetcode.com/problems/alien-dictionary/ | |
 | 310 | https://leetcode.com/problems/minimum-height-trees/ | |
 
