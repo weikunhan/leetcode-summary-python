@@ -15,6 +15,7 @@ This type of problem includes: find the kth smallest problem, find the kth rare 
 | 378 | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | |
 | 1167 | https://leetcode.com/problems/minimum-cost-to-connect-sticks/ | [this link](../practice/solution/1167_minimum_cost_to_connect_sticks.py)|
 | 1167* | https://leetcode.com/discuss/interview-question/344677| [this link](../practice/amazon/min_cost_to_connect_ropes.py) |  
+| | https://www.1point3acres.com/bbs/thread-601384-1-1.html | [this link](../practice/tusimple/load_balance.py)
 
 ## Max Heap
 
