@@ -53,6 +53,7 @@ There are few problems are related to mathematical. You should familiar with com
 | 492 | https://leetcode.com/problems/construct-the-rectangle/ | |
 | 633 | https://leetcode.com/problems/sum-of-square-numbers/ | |
 | 650 | https://leetcode.com/problems/2-keys-keyboard/ | |
+| 780 | https://leetcode.com/problems/reaching-points/ | [this link](../practice/solution/0780_reaching_points.py) |
 | 794 | https://leetcode.com/problems/valid-tic-tac-toe-state/ | |
 | 866 | https://leetcode.com/problems/prime-palindrome/ | |
 | 991 | https://leetcode.com/problems/broken-calculator/ | |
