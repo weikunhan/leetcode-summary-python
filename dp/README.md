@@ -19,6 +19,7 @@ This type of problem includes: find status in the checkerboard problem
 | ---- | --------------------------------- | --------------------------------- |
 | 64 | https://leetcode.com/problems/minimum-path-sum/ | |
 | 64* | https://www.1point3acres.com/bbs/thread-595086-1-1.html | [this link](../practice/tusimple/matrix_conversion.py)|
+| 120 | https://leetcode.com/problems/triangle/ | |
 | 688 | https://leetcode.com/problems/knight-probability-in-chessboard/| |
 
 ## Sequential DP
@@ -85,7 +86,6 @@ For this kind of quesiton, you need to know what is knapsack problem: a problem 
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 120 | https://leetcode.com/problems/triangle/ | |
 | 322 | https://leetcode.com/problems/coin-change/ | |
 | 474 | https://leetcode.com/problems/ones-and-zeroes/ | |
 | 1155 | https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ | |
