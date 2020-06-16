@@ -9,8 +9,8 @@ Author: Weikun Han <weikunhan@g.ucla.edu>
 
 Reference: https://leetcode.com/discuss/interview-question/542597/
 
-Time complexity: 
-Space complexity: 
+Time complexity: O(mn + klogn)
+Space complexity: O(mn)
 
 Example 1:
 Input:

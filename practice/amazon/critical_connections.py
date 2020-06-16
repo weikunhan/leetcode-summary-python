@@ -17,7 +17,7 @@ Author: Weikun Han <weikunhan@g.ucla.edu>
 
 Reference: https://leetcode.com/discuss/interview-question/372581
 
-Time complexity: O(v*(v + e))
+Time complexity: O(v(v + e))
 Space complexity: O(v)
 
 Example 1:

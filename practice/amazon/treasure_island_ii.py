@@ -17,7 +17,7 @@ Author: Weikun Han <weikunhan@g.ucla.edu>
 
 Reference: https://leetcode.com/discuss/interview-question/356150
 
-Time complexity: O(mn*mn)
+Time complexity: O((mn)^2)
 Space complexity: O(mn)
 
 Example1:

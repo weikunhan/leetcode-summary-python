@@ -34,7 +34,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 994* | https://leetcode.com/discuss/interview-question/411357/ | [this link](../practice/amazon/min_hour.py) |
 | 1091 | https://leetcode.com/problems/shortest-path-in-binary-matrix/ | |
 | 1091* | https://leetcode.com/discuss/interview-question/347457 | [this link](../practice/amazon/treasure_island.py) |
-| 1091* | https://leetcode.com/discuss/interview-question/356150 | [this link](../practice/amazon/treasure_islandII.py) |
+| 1091* | https://leetcode.com/discuss/interview-question/356150 | [this link](../practice/amazon/treasure_island_ii.py) |
 | 1162 | https://leetcode.com/problems/as-far-from-land-as-possible/ | |
 | 1197 | https://leetcode.com/problems/minimum-knight-moves/ | |
 | 1219 | https://leetcode.com/problems/path-with-maximum-gold/ | |

@@ -1,14 +1,15 @@
-""" Subsequence Removal
+""" Subsequence Removal II
 
 Remove minmian number of elements in ascending order from an input array. 
-If each element in the left subsequence is unique, then return the sampled 
-subarray. If cannot find such way to sample in ascending order, then return [- 1].
+If each element in the left subsequence is unique and it in ascending order, 
+then return this left subsequence. If cannot find such a subsequence, 
+then return [-1].
 
 Author: Weikun Han <weikunhan@g.ucla.edu>
 
 Reference: https://www.1point3acres.com/bbs/thread-592043-1-1.html
 
-Time complexity:  O(n^2)
+Time complexity:  O(n^2logn)
 Space complexity: O(n)
 
 Example 1:
@@ -18,53 +19,59 @@ output:
 [-1]
 Explanation: 
 Cannot find a ascending order subarray make left subsequence have unique numbers 
+wich ascending order
 
 Example 2:
 Input: 
-nums = [1, 2, 3, 4, 5, 6]
+nums = [1, 2, 7, 8, 8, 3, 4, 5, 6]
 output:
-[]
+[1, 2, 3, 4, 5, 6]
 Explanation: 
-Don't make any sampling which left subsequence have unique numbers 
+Remove [7, 8, 8], then [1, 2, 3, 4, 5, 6] have unique numbers wich ascending order
 
 Example 3:
 Input: 
-nums = [1, 2, 3, 4, 5, 5, 6, 6]
+nums = [2, 3, 1, 2, 3, 4, 5, 6]
 output:
-[5, 6]
+[1, 2, 3, 4, 5, 6]
 Explanation: 
-Remove [5, 6], then [1, 2, 3, 4, 5, 6] have unique numbers 
+Remove [2, 3], then [1, 2, 3, 4, 5, 6] have unique numbers wich ascending order
 
 Example 4:
 Input: 
-nums = [1, 5, 2, 3, 4, 5, 6]
+nums = [2, 3, 2]
 output:
-[5]
+[2, 3]
 Explanation: 
-Remove [5], then [1, 2, 3, 4, 5, 6] have unique numbers 
+Remove [2], then [2, 3] have unique numbers wich ascending order
 
-Example 4:
+Example 5:
 Input: 
-nums = [1, 5, 2, 6, 3, 7, 4, 5, 6]
+nums = [1, 2, 3]
 output:
-[5, 6]
+[]
 Explanation: 
-Remove [5, 6], then [1, 2, 3, 7, 4, 5, 6] have unique numbers 
+Remove [], then [1, 2, 3] have unique numbers wich ascending order
+
+Example 6:
+Input: 
+nums = [2, 1, 3, 2, 4, 4, 5, 6]
+output:
+[1, 2, 4, 5, 6]
+Explanation: 
+Remove [2] + [3] + [4], then [1, 2, 4, 5, 6] have unique numbers wich ascending order
 """
 
-import collections
-
 class Solution(object):
-    def subsequence_removal(self, nums):
+    def subsequence_removal_ii(self, nums):
         """
         :type nums: List[int]
         :rtype: List[int]
         """
 
         res = []
-        value_list = []
 
-        if len(nums) == len(set(nums)):
+        if sorted(nums) == nums and len(nums) == len(set(nums)):
             
             return res
         
@@ -86,22 +93,19 @@ class Solution(object):
 
                     temp_list = target_value_list + nums[j + 1:]
                 
-                if len(temp_list) == len(set(temp_list)):
-                    if not value_list or len(value_list) < len(temp_list):
-                        value_list = temp_list
-            
-        if value_list:
-            res = list(collections.Counter(nums) - collections.Counter(value_list))
-
+                if sorted(temp_list) == temp_list and len(temp_list) == len(set(temp_list)):
+                    if not res or len(res) < len(temp_list):
+                        res = temp_list
+                        
         if not res:
             res = [-1]
 
         return res
 
 def main(): 
-    nums = [1, 2, 3, 4, 5, 6]
+    nums = [1, 2, 7, 8, 8, 3, 3, 3, 3]
     solution = Solution()
-    res = solution.subsequence_removal(nums)
+    res = solution.subsequence_removal_ii(nums)
     print(res)
 
 if __name__ == "__main__": 

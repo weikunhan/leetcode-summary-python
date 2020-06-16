@@ -12,7 +12,7 @@ Author: Weikun Han <weikunhan@g.ucla.edu>
 
 Reference: https://leetcode.com/discuss/interview-question/344677
 
-Time complexity: O(nlog(n))
+Time complexity: O(nlogn)
 Space complexity: O(n)
 
 Example 1:

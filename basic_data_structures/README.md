@@ -41,6 +41,9 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 | 1031 | https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/ | |
 | 1243 | https://leetcode.com/problems/array-transformation/ | |
 | 1356 | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ | |
+| | https://www.1point3acres.com/bbs/thread-592043-1-1.html | [this link](../practice/tusimple/subsequence_removal.py)|
+| | https://www.1point3acres.com/bbs/thread-592043-1-1.html | [this link](../practice/tusimple/subsequence_removal_ii.py)| 
+| | https://www.1point3acres.com/bbs/thread-592043-1-1.html | [this link](../practice/tusimple/subsequence_removal_iii.py)|
 
 ## Linked List
 
