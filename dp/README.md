@@ -18,6 +18,7 @@ This type of problem includes: find status in the checkerboard problem
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 64 | https://leetcode.com/problems/minimum-path-sum/ | |
+| 64* | https://www.1point3acres.com/bbs/thread-595086-1-1.html | [this link](../practice/tusimple/matrix_conversion.py)|
 | 688 | https://leetcode.com/problems/knight-probability-in-chessboard/| |
 
 ## Sequential DP
