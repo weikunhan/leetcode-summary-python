@@ -23,8 +23,9 @@ This structure that can map keys to values. A hash map uses a hash function to c
 | 963 | https://leetcode.com/problems/minimum-area-rectangle-ii/ | |
 | 1138 | https://leetcode.com/problems/alphabet-board-path/ | |
 | 1207 | https://leetcode.com/problems/unique-number-of-occurrences/ | |
-| | https://leetcode.com/discuss/interview-question/373006| [this link](../practice/amazon/favorite_genres.py) |
+| | https://leetcode.com/discuss/interview-question/373006 | [this link](../practice/amazon/favorite_genres.py) |
 | | https://www.1point3acres.com/bbs/thread-580122-1-1.html | [this link](../practice/amazon/user_based_recommendation_system.py)|
+| | https://www.1point3acres.com/bbs/thread-610975-1-1.html | [this link](../practice/tusimple/throttling_gateway.py) |
 
 ## Hash Set
 

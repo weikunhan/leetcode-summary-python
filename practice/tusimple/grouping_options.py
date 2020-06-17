@@ -29,7 +29,7 @@ class Solution(object):
         """
         :type n: int
         :type k: int
-        :rtype: inta6
+        :rtype: int
         """
 
         row_end = n
