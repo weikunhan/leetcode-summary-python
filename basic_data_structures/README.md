@@ -36,14 +36,15 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 | 628 | https://leetcode.com/problems/maximum-product-of-three-numbers/ | |
 | 766 | https://leetcode.com/problems/toeplitz-matrix/ | |
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | |
-| 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | [this link](../practice/solution/0957_prison_cells_after_n_days.py)|
+| 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | [this link](../practice/solution/0957_prison_cells_after_n_days.py) |
 | 1013 | https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ | |
 | 1031 | https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/ | |
 | 1243 | https://leetcode.com/problems/array-transformation/ | |
 | 1356 | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ | |
-| | https://www.1point3acres.com/bbs/thread-592043-1-1.html | [this link](../practice/tusimple/subsequence_removal.py)|
-| | https://www.1point3acres.com/bbs/thread-592043-1-1.html | [this link](../practice/tusimple/subsequence_removal_ii.py)| 
-| | https://www.1point3acres.com/bbs/thread-592043-1-1.html | [this link](../practice/tusimple/subsequence_removal_iii.py)|
+| | https://www.1point3acres.com/bbs/thread-642190-1-1.html | [this link](../practice/tusimple/min_cost_to_racing_track_end.py) |
+| | https://www.1point3acres.com/bbs/thread-592043-1-1.html | [this link](../practice/tusimple/subsequence_removal.py) |
+| | https://www.1point3acres.com/bbs/thread-592043-1-1.html | [this link](../practice/tusimple/subsequence_removal_ii.py) | 
+| | https://www.1point3acres.com/bbs/thread-592043-1-1.html | [this link](../practice/tusimple/subsequence_removal_iii.py) |
 
 ## Linked List
 

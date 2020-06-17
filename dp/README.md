@@ -89,6 +89,7 @@ For this kind of quesiton, you need to know what is knapsack problem: a problem 
 | 322 | https://leetcode.com/problems/coin-change/ | |
 | 474 | https://leetcode.com/problems/ones-and-zeroes/ | |
 | 1155 | https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ | |
+| 1155* | https://www.1point3acres.com/bbs/thread-606351-1-1.html | [this link](../practice/tusimple/grouping_options.py)|
 
 ## Comprehensive DP
 
