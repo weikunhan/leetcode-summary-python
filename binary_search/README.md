@@ -11,7 +11,7 @@ This type of problem includes: search target value in sorted array, search targe
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 4 | https://leetcode.com/problems/median-of-two-sorted-arrays/ | |
+| 4 | https://leetcode.com/problems/median-of-two-sorted-arrays/ | [this link](../practice/solution/0004_median_of_two_sorted_arrays.py)|
 | 33 | https://leetcode.com/problems/search-in-rotated-sorted-array/ | |
 | 81 | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ | |
 | 153 | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ | |
