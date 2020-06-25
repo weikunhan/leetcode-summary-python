@@ -8,7 +8,7 @@ class Solution(object):
         row_end = len(s)
         col_end = len(s)
         dp_list = [[False] * col_end for _ in range(row_end)]
-        max_length = 0 
+        max_length = 0
         res = ''
         
         for i in range(row_end):
@@ -23,7 +23,7 @@ class Solution(object):
                     dp_list[i][j] = True
                     
         for i in range(row_end):
-            for j in range(col_end):
+            for j in range(i, col_end):
                 temp_value = j - i + 1
                 
                 if dp_list[i][j] and temp_value > max_length:
