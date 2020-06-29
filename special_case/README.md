@@ -43,7 +43,8 @@ There are few problems are related to mathematical. You should familiar with com
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 7 | https://leetcode.com/problems/reverse-integer/ | [this link](../practice/solution/0007_reverse_integer.py)|
+| 7 | https://leetcode.com/problems/reverse-integer/ | [this link](../practice/solution/0007_reverse_integer.py) |
+| 9 | https://leetcode.com/problems/palindrome-number/ | [this link](../practice/solution/0009_palindrome_number.py) |
 | 69 | https://leetcode.com/problems/sqrtx/ | |
 | 289 | https://leetcode.com/problems/game-of-life/ | |
 | 365 | https://leetcode.com/problems/water-and-jug-problem/ | |
