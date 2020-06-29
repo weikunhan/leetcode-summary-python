@@ -77,6 +77,7 @@ String processing is extremely important as a data processing related job. You s
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 6 | https://leetcode.com/problems/zigzag-conversion/ | [this link](../practice/solution/0006_zigzag_conversion.py) | 
+| 8 | https://leetcode.com/problems/string-to-integer-atoi/ | [this link](../practice/solution/0008_string_to_integer_atoi.py) | 
 | 12 | https://leetcode.com/problems/integer-to-roman/ | |
 | 93 | https://leetcode.com/problems/restore-ip-addresses/ | |
 | 165 | https://leetcode.com/problems/compare-version-numbers/ | |
