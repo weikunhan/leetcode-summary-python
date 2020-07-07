@@ -26,6 +26,7 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 14 | https://leetcode.com/problems/longest-common-prefix/ | [this link](../practice/solution/0014_longest_common_prefix.py) |
 | 54 | https://leetcode.com/problems/spiral-matrix/ | |
 | 56 | https://leetcode.com/problems/merge-intervals/ | |
 | 57 | https://leetcode.com/problems/insert-interval/ | |
