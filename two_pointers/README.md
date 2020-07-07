@@ -12,7 +12,7 @@ This type of problem includes: find the k sum problem, remove duplicates element
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 11 | https://leetcode.com/problems/container-with-most-water/ | [this link](../practice/solution/0011_container_with_most_water.py) |
-| 15 | https://leetcode.com/problems/3sum/ | |
+| 15 | https://leetcode.com/problems/3sum/ | [this link](../practice/solution/0015_3sum.py) |
 | 18 | https://leetcode.com/problems/4sum/ | |
 | 881 | https://leetcode.com/problems/boats-to-save-people/ | |
 | 1099 | https://leetcode.com/problems/two-sum-less-than-k/ | |
