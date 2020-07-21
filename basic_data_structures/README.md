@@ -54,7 +54,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 2 | https://leetcode.com/problems/add-two-numbers/ | [this link](../practice/solution/0002_add_two_numbers.py)|
-| 19 | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ | |
+| 19 | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ | [this link](../practice/solution/0019_remove_nth_node_from_end_of_list.py)|
 | 21 | https://leetcode.com/problems/merge-two-sorted-lists/ | [this link](../practice/solution/0021_merge_two_sorted_lists.py)|
 | 23 | https://leetcode.com/problems/merge-k-sorted-lists/ | [this link](../practice/solution/0023_merge_k_sorted_lists.py)|
 | 25 | https://leetcode.com/problems/reverse-nodes-in-k-group/ | |
