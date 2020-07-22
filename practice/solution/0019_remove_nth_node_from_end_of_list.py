@@ -13,17 +13,12 @@ class Solution(object):
         """
         
         dummy_head = ListNode(-1)
-        temp_res = dummy_head
-        temp_res.next = head
-        left = head
-        right = head
+        dummy_head.next = head
+        left = dummy_head
+        right = dummy_head
         
         for _ in range(n):
             right = right.next
-            
-        if not right:
-            
-            return dummy_head.next.next
         
         while right.next:
             right = right.next
