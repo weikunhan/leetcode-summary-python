@@ -26,9 +26,7 @@ class Solution(object):
                         dp_list[i + 1][j + 1] = True
                         
                     if dp_list[i + 1][j] and (p[i - 1] == s[j] or p[i - 1] == '.'):
-                        dp_list[i + 1][j + 1] = True
-                        
-                print(dp_list[i + 1][j + 1])
+                        dp_list[i + 1][j + 1] = True 
                             
         res = dp_list[-1][-1]
         

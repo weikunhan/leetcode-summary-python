@@ -62,7 +62,6 @@ class Solution(object):
             
             count += 1
 
-
         while count < len(obstacles):
             if count > 0 and obstacles[count] == obstacles[count - 1]:
                 count += 1
