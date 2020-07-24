@@ -53,8 +53,10 @@ class Solution(object):
         res = set()
 
         while right < len(s) and left < len(s):
-            if not s[right] in value_dict:
-                value_dict.add(s[right])
+            temp_value = s[right]
+            
+            if not temp_value in value_dict:
+                value_dict.add(temp_value)
                 right += 1
 
                 if right - left == k:
