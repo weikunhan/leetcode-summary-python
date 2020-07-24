@@ -29,10 +29,12 @@ Sliding Window problem is a variation of Two Pointers. The main difference betwe
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 3 | https://leetcode.com/problems/longest-substring-without-repeating-characters/ | [this link](../practice/solution/0003_longest_substring_without_repeating_characters.py) |
+| 30 | https://leetcode.com/problems/substring-with-concatenation-of-all-words/ | [this link](../practice/solution/0030_substring_with_concatenation_of_all_words.py) |
 | 76 | https://leetcode.com/problems/minimum-window-substring/ | |
 | 438 | https://leetcode.com/problems/find-all-anagrams-in-a-string/ | |
 | 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | |
 | 992* | https://leetcode.com/discuss/interview-question/370157 | [this link](../practice/amazon/substrings_with_exactly_k_distinct_chars.py) |
+| 992* | https://leetcode.com/discuss/interview-question/370112 | [this link](../practice/amazon/substrings_of_size_k_with_k_distinct_chars.py) |
 | 995 | https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/ | |
 | 1100 | https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/ | |
 | 1052 | https://leetcode.com/problems/grumpy-bookstore-owner/ | |

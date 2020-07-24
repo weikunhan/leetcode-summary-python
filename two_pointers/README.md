@@ -29,4 +29,3 @@ This type of problem includes: find partition in target string
 | 556 | https://leetcode.com/problems/next-greater-element-iii/ | |
 | 696 | https://leetcode.com/problems/count-binary-substrings/ | [this link](../practice/solution/0696_count_binary_substrings.py) |
 | 763 | https://leetcode.com/problems/partition-labels/ | [this link](../practice/solution/0763_partition_labels.py) |
-| | https://leetcode.com/discuss/interview-question/370112 | [this link](../practice/amazon/substrings_of_size_k_with_k_distinct_chars.py) |
