@@ -27,11 +27,8 @@ class Solution(object):
             while right + word_length < len(s) + 1:
                 temp_value = s[right:right + word_length]
                 right += word_length
-
-                if not temp_value in value_dict:
-                    left = right
-                    temp_dict = collections.Counter()
-                else:
+                
+                if temp_value in value_dict:
                     temp_dict[temp_value] += 1
 
                     while temp_dict[temp_value] > value_dict[temp_value]:
@@ -39,8 +36,11 @@ class Solution(object):
                         left += word_length
 
                     if right - left == max_length:
-                        res.append(left)
-                         
+                        res.append(left)            
+                else:
+                    temp_dict = collections.Counter()
+                    left = right
+ 
             count += 1               
                             
         return res
