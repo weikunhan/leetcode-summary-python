@@ -18,11 +18,11 @@ For more information, you need to check related courses and books. Here, most ba
 
 * [Array](##Array)
 * [Linked List](##Linked-List)
-* [String](##String)
+* [String (not a data structure but many coding problems play with it)](##String)
 
 ## Array
 
-There are many arrays converting standard libraries such as NumPy. The purpose of array converting is to let numerical data can feed into the mathematical or statistical equation. However, for programming practice, you need to know how to: 1)iterate through an array, 2)play tricks using different programming languages, 3)understand bit manipulation
+Array is the most simple data structure. For some numerical data-related jobs, you should consider using some standard libraries such as NumPy. For programming practice, you need to know how to: 1)iterate through an array, 2)play tricks using different programming languages, 3)understand bit manipulation
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -49,7 +49,7 @@ There are many arrays converting standard libraries such as NumPy. The purpose o
 
 ## Linked List
 
-This type of problem includes: 1)delete elements in the linked list, 2)insert elements in the linked list. 3)merge elements from two linked lists 4)rotate elements in a linked list, 5)copy special linked list
+Linked List is harder to understand for people who just starting programming. You should know when should use Array or Linked List. This type of problem includes: 1)delete elements in the linked list, 2)insert elements in the linked list. 3)merge elements from two linked lists 4)rotate elements in a linked list, 5)copy special linked list
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -74,7 +74,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 
 ## String
 
-String processing is extremely important as a data processing related job. You should consider using a standard library for your daily work. However, for programming practice, you need to solve this kind of problem and familiar with: 1)sorting method/syntax, 2)split and join syntax, 3)encoding and decoding method/syntax, 4)regular expression, 5)hash mapping, 6)Unix utilities(optional)
+String is not a data structure but many coding problems play with it. For some data processing related jobs, Sting is an extremely important topic. You should consider using a standard library for your daily work. However, for programming practice, you need to solve this kind of problem and familiar with: 1)sorting method/syntax, 2)split and join syntax, 3)encoding and decoding method/syntax, 4)regular expression, 5)hash mapping, 6)Unix utilities(optional)
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
