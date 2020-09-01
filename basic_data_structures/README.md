@@ -18,7 +18,7 @@ For more information, you need to check related courses and books. Here, most ba
 
 * [Array](##Array)
 * [Linked List](##Linked-List)
-* [String (not a data structure but many coding problems play with it)](##String)
+* [String (Not a data structure)](##String)
 
 ## Array
 
