@@ -31,7 +31,7 @@ Array is the most simple data structure. For some numerical data-related jobs, y
 | 56 | https://leetcode.com/problems/merge-intervals/ | [this link](../practice/solution/0056_merge_intervals.py) |
 | 57 | https://leetcode.com/problems/insert-interval/ | [this link](../practice/solution/0057_insert_interval.py) |
 | 59 | https://leetcode.com/problems/spiral-matrix-ii/ | [this link](../practice/solution/0059_spiral_matrix_ii.py) |
-| 238 | https://leetcode.com/problems/product-of-array-except-self/ | |
+| 238 | https://leetcode.com/problems/product-of-array-except-self/ | [this link](../practice/solution/0238_product_of_array_except_self.py) |
 | 277 | https://leetcode.com/problems/find-the-celebrity/ | |
 | 605 | https://leetcode.com/problems/can-place-flowers/ | |
 | 628 | https://leetcode.com/problems/maximum-product-of-three-numbers/ | |
