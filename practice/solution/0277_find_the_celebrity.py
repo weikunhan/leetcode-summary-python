@@ -20,5 +20,7 @@ class Solution(object):
         for i in range(n):
             if not knows(i, res) or (i != res and knows(res, i)):
                 res = -1
+
+                return res
                                     
         return res
