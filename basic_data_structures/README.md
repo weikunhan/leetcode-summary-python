@@ -33,7 +33,7 @@ Array is the most simple data structure. For some numerical data-related jobs, y
 | 59 | https://leetcode.com/problems/spiral-matrix-ii/ | [this link](../practice/solution/0059_spiral_matrix_ii.py) |
 | 238 | https://leetcode.com/problems/product-of-array-except-self/ | [this link](../practice/solution/0238_product_of_array_except_self.py) |
 | 277 | https://leetcode.com/problems/find-the-celebrity/ | [this link](../practice/solution/0277_find_the_celebrity.py) |
-| 605 | https://leetcode.com/problems/can-place-flowers/ | |
+| 605 | https://leetcode.com/problems/can-place-flowers/ | [this link](../practice/solution/0605_can_place_flowers.py) |
 | 628 | https://leetcode.com/problems/maximum-product-of-three-numbers/ | |
 | 766 | https://leetcode.com/problems/toeplitz-matrix/ | |
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | |
