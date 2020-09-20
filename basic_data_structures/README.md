@@ -38,7 +38,7 @@ Array is the most simple data structure. For some numerical data-related jobs, y
 | 766 | https://leetcode.com/problems/toeplitz-matrix/ | [this link](../practice/solution/0766_toeplitz_matrix.py) |
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | [this link](../practice/solution/0945_minimum_increment_to_make_array_unique.py) |
 | 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | [this link](../practice/solution/0957_prison_cells_after_n_days.py) |
-| 1013 | https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ | |
+| 1013 | https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ | [this link](../practice/solution/1013_partition_array_into_three_parts_with_equal_sum.py) |
 | 1031 | https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/ | |
 | 1243 | https://leetcode.com/problems/array-transformation/ | |
 | 1356 | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ | |
