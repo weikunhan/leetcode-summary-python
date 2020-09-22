@@ -39,7 +39,7 @@ Array is the most simple data structure. For some numerical data-related jobs, y
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | [this link](../practice/solution/0945_minimum_increment_to_make_array_unique.py) |
 | 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | [this link](../practice/solution/0957_prison_cells_after_n_days.py) |
 | 1013 | https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ | [this link](../practice/solution/1013_partition_array_into_three_parts_with_equal_sum.py) |
-| 1031 | https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/ | |
+| 1031 | https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/ | [this link](../practice/solution/1031_maximum_sum_of_two_non_overlapping_subarrays.py)|
 | 1243 | https://leetcode.com/problems/array-transformation/ | |
 | 1356 | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ | |
 | | https://www.1point3acres.com/bbs/thread-642190-1-1.html | [this link](../practice/tusimple/min_cost_to_racing_track_end.py) |
