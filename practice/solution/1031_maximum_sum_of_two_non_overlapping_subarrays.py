@@ -19,10 +19,9 @@ class Solution(object):
         right_sum_value = value_list[M - 1]
         res = value_list[L + M - 1]
         
-        for i in range(L + M, len(A)):
+        for i in range(L + M, len(value_list)):
             left_sum_value = max(left_sum_value, value_list[i - M] - value_list[i - L - M])
             right_sum_value = max(right_sum_value, value_list[i - L] - value_list[i - L - M])
             res = max(res, left_sum_value + value_list[i] - value_list[i - M], right_sum_value + value_list[i] - value_list[i - L])
             
         return res
-        
