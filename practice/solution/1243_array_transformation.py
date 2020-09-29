@@ -5,13 +5,17 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        res = arr[:]
+        value_list = arr
+        res = [0] * len(arr)
         
-        while True:
-            temp_value = res[:1] + [b + (a > b < c) - (a < b > c) for a, b, c in zip(res, res[1:], res[2:])] + res[-1:]
+        while res != value_list:
+            for i in range(len(value_list)):
+                res[i] = value_list[i]
             
-            if temp_value == res:
-                
-                return res
-            
-            res = temp_value
+            for i in range(1, len(value_list) - 1):
+                if res[i - 1] < res[i] > res[i + 1]:
+                    value_list[i] -= 1
+                elif res[i - 1] > res[i] < res[i + 1]:
+                    value_list[i] += 1
+                    
+        return res
