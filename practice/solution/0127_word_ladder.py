@@ -11,7 +11,6 @@ class Solution(object):
         
         value_list = collections.deque([(beginWord, 1)])
         value_dict = set(wordList)
-        visit_value_dict = set()
         res = 0
         
         while value_list:
@@ -29,8 +28,8 @@ class Solution(object):
                     for char in 'abcdefghijklmnopqrstuvwxyz':
                         new_word = word[:i] + char + word[i + 1:]
                         
-                        if not new_word in visit_value_dict and new_word in value_dict:
+                        if new_word in value_dict:
                             value_list.append((new_word, cost + 1))
-                            visit_value_dict.add(new_word)
+                            value_dict.remove(new_word)
                             
         return res
