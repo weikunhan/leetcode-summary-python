@@ -52,15 +52,13 @@ class Solution(object):
         """
         
         value_pq = []
-        res = sys.maxsize
-        heapq.heappush(value_pq, (-matrix[-1][-1], len(matrix) - 1, len(matrix[0]) - 1))
+        heapq.heappush(value_pq, (-sys.maxsize, len(matrix) - 1, len(matrix[0]) - 1))
         matrix[-1][-1] = -1
+        res = sys.maxsize
         
         while value_pq:
             temp_value, i, j = heapq.heappop(value_pq)
-
-            if not (i == (len(matrix) - 1) and j == (len(matrix[0]) - 1)):
-                res = min(-temp_value, res)
+            res = min(-temp_value, res)
             
             for a, b in [(i - 1, j), (i, j - 1)]:
                 if not a and not b:
@@ -70,6 +68,11 @@ class Solution(object):
                 if a >= 0 and a < len(matrix) and b >= 0 and b < len(matrix[0]) and matrix[a][b] != -1:
                     heapq.heappush(value_pq, (-matrix[a][b], a, b))
                     matrix[a][b] = -1
+
+        if res == sys.maxsize:
+            res = 0
+
+        return res
 
 
 def main(): 

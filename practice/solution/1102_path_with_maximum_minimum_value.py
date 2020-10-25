@@ -16,11 +16,11 @@ class Solution(object):
             temp_value, i, j = heapq.heappop(value_pq)
             res = min(res, -temp_value)
             
-            if not i and not j:
-
-                return res
-            
             for a, b in [(i + 1, j), (i, j + 1), (i - 1, j), (i, j - 1)]:
+                if not i and not j:
+
+                    return res
+                
                 if a >= 0 and a < len(A) and b >= 0 and b < len(A[0]) and A[a][b] != -1:
                     heapq.heappush(value_pq, (-A[a][b], a, b))
                     A[a][b] = -1
