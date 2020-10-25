@@ -34,10 +34,10 @@ Route is (0, 0), (0, 1), (1, 1), (2, 1), (2, 0), (3, 0) The minimum route takes 
 
 Example2:
 Input:
-gird = [['O', 'O', 'O', 'X'],
-        ['O', 'O', 'O', 'O'],
-        ['O', 'O', 'O', 'O'],
-        ['O', 'O', 'O', 'O']]
+    gird = [['O', 'O', 'O', 'X'],
+            ['O', 'O', 'O', 'O'],
+            ['O', 'O', 'O', 'O'],
+            ['O', 'O', 'O', 'O']]
 Output: 
 3
 """
@@ -68,10 +68,10 @@ class Solution(object):
 
                 for a, b in [(i + 1, j), (i - 1, j), (i, j + 1), (i, j - 1)]:
                     if a >= 0 and a < len(grid) and b >= 0 and b < len(grid[0]) and grid[a][b] != 'D':
+                        value_list.append((a, b, cost + 1))
+                        
                         if grid[a][b] == 'O':
                             grid[a][b] = 'D'
-                        
-                        value_list.append((a, b, cost + 1))
 
         return res
 
