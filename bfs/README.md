@@ -65,11 +65,11 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 ### Deque solver
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 133 | https://leetcode.com/problems/clone-graph/ | |
-| 1129 | https://leetcode.com/problems/shortest-path-with-alternating-colors/ | |
+| 133 | https://leetcode.com/problems/clone-graph/ | [this link](../practice/solution/0133_clone_graph.py) |
+| 1129 | https://leetcode.com/problems/shortest-path-with-alternating-colors/ | [this link](../practice/solution/1129_shortest_path_with_alternating_colors.py) |
 
 ### Heap solver
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 787 | https://leetcode.com/problems/cheapest-flights-within-k-stops/ | |
+| 787 | https://leetcode.com/problems/cheapest-flights-within-k-stops/ | [this link](../practice/solution/0787_cheapest_flights_within_k_stops.py) |
