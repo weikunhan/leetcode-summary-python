@@ -30,7 +30,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 200 | https://leetcode.com/problems/number-of-islands/ | [this link](../practice/solution/0200_number_of_islands.py) |
 | 286 | https://leetcode.com/problems/walls-and-gates/ | |
 | 489 | https://leetcode.com/problems/robot-room-cleaner/ | |
-| 694 | https://leetcode.com/problems/number-of-distinct-islands/ | [this link](../practice/solution/0694_number_of_distinct_islands.py)| 
+| 694 | https://leetcode.com/problems/number-of-distinct-islands/ | [this link](../practice/solution/0694_number_of_distinct_islands.py) | 
 | 733 | https://leetcode.com/problems/flood-fill/ | |
 
 ## Tree
@@ -39,9 +39,9 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 101 | https://leetcode.com/problems/symmetric-tree/ | [this link](../practice/solution/0101_symmetric_tree.py) |
-| 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | |
+| 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | [this link](../practice/solution/0104_maximum_depth_of_binary_tree.py) |
 | 545 | https://leetcode.com/problems/boundary-of-binary-tree/ | |
-| 572 | https://leetcode.com/problems/subtree-of-another-tree/ | [this link](../practice/solution/0572_subtree_of_another_tree.py)|
+| 572 | https://leetcode.com/problems/subtree-of-another-tree/ | [this link](../practice/solution/0572_subtree_of_another_tree.py) |
 | 617 | https://leetcode.com/problems/merge-two-binary-trees/ | |
 
 ### Preorder
