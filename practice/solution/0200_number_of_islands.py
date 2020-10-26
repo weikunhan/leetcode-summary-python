@@ -14,13 +14,13 @@ class Solution(object):
                     self.res += 1
                     
         return self.res
-        
+    
     def dfs(self, row, col, grid):
         if row < 0 or row >= len(grid) or col < 0 or col >= len(grid[0]) or grid[row][col] != '1':
             
-            return 
+            return
         
-        grid[row][col] = '#'
+        grid[row][col] = '0'
         self.dfs(row + 1, col, grid)
         self.dfs(row, col + 1, grid)
         self.dfs(row - 1, col, grid)
