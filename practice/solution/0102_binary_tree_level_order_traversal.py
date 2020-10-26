@@ -26,14 +26,14 @@ class Solution(object):
             temp_list = []
             
             for _ in range(temp_value):
-                root = value_list.popleft()
-                temp_list.append(root.val)
+                temp_root = value_list.popleft()
+                temp_list.append(temp_root.val)
                 
-                if root.left:
-                    value_list.append(root.left)
+                if temp_root.left:
+                    value_list.append(temp_root.left)
                     
-                if root.right:
-                    value_list.append(root.right)
+                if temp_root.right:
+                    value_list.append(temp_root.right)
                 
             res.append(temp_list)  
                     
