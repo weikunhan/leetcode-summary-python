@@ -8,16 +8,16 @@ class Solution(object):
         self.value_list = ['', '', 'abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz']
         self.res = []
         
+        if not digits:
+            
+            return self.res
+        
         self.res = self.dfs(digits)
         
         return self.res
     
     def dfs(self, digits):
         temp_list = []
-        
-        if not digits:
-            
-            return temp_list
         
         if len(digits) == 1:
             temp_list = list(self.value_list[int(digits[0])])
