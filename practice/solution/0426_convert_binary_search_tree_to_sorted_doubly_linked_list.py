@@ -22,9 +22,10 @@ class Solution(object):
             return self.dumy_head.right
         
         self.inorder(root)
-        self.temp_res.right = self.dumy_head.right
-        self.dumy_head.right.left = self.temp_res
-        
+        #self.temp_res.right = self.dumy_head.right
+        #self.dumy_head.right.left = self.temp_res
+        self.temp_res.right, self.dumy_head.right.left = self.dumy_head.right, self.temp_res
+
         return self.dumy_head.right
     
     def inorder(self, root):
