@@ -64,7 +64,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 98 | https://leetcode.com/problems/validate-binary-search-tree/ | |
+| 98 | https://leetcode.com/problems/validate-binary-search-tree/ | [this link](../practice/solution/0098_validate_binary_search_tree.py) |
 | 99 | https://leetcode.com/problems/recover-binary-search-tree/ | |
 | 426 | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/ | [this link](../practice/solution/0426_convert_binary_search_tree_to_sorted_doubly_linked_list.py) |
 | 1038 | https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/ | |
