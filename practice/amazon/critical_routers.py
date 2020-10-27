@@ -45,31 +45,31 @@ class Solution(object):
         self.res = []
 
         for i in range(numEdges):
-            a, b = edges[i]
-            self.value_graph[a].append(b)
-            self.value_graph[b].append(a) 
+            node, neighbor = edges[i]
+            self.value_graph[node].append(neighbor)
+            self.value_graph[neighbor].append(node) 
 
-        self.dfs(-1, 0, 0)
+        self.dfs(0, 0, 0)
         self.res = sorted(self.res)
 
         return self.res
 
-    def dfs(self, a, b, count):
-        self.value_list[b] = count + 1
+    def dfs(self, node, neighbor, count):
+        self.value_list[neighbor] = count + 1
         
-        for node in self.value_graph[b]:
-            if node == a:
+        for temp_node in self.value_graph[neighbor]:
+            if node == temp_node:
                 continue
-            elif self.value_list[node] == -1:
-                temp_value = self.dfs(b, node, count + 1)
-                self.value_list[b] = min(self.value_list[b], temp_value)
+            elif self.value_list[temp_node] == -1:
+                temp_value = self.dfs(neighbor, temp_node, count + 1)
+                self.value_list[neighbor] = min(self.value_list[neighbor], temp_value)
             else:
-                self.value_list[b] = min(self.value_list[b], self.value_list[node])
+                self.value_list[neighbor] = min(self.value_list[neighbor], self.value_list[temp_node])
                 
-        if self.value_list[b] == count + 1 and b != 0:
-            self.res.append(a)
+        if self.value_list[neighbor] == count + 1 and neighbor:
+            self.res.append(node)
                 
-        return self.value_list[b]
+        return self.value_list[neighbor]
 
 
 def main():
