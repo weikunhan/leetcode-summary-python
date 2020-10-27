@@ -82,7 +82,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 543 | https://leetcode.com/problems/diameter-of-binary-tree/ | |
 | 563 | https://leetcode.com/problems/binary-tree-tilt/ | |
 | 590 | https://leetcode.com/problems/n-ary-tree-postorder-traversal/ | |
-| 1120 | https://leetcode.com/problems/maximum-average-subtree | |
+| 1120 | https://leetcode.com/problems/maximum-average-subtree | [this link](../practice/solution/1120_maximum_average_subtree.py) |
 | 1120* | https://leetcode.com/discuss/interview-question/349617 | [this link](../practice/amazon/subtree_with_maximum_average.py) |
 
 ## Graph

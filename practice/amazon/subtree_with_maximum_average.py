@@ -47,34 +47,35 @@ class Solution(object):
         :rtype: float
         """
         self.res = 0
-        self.temp_value = -sys.maxsize - 1
+        self.count = -sys.maxsize - 1
 
         self.postorder(root)
         
         return self.res
     
     def postorder(self, root):
+        temp_list = [0, 0.0]
+        
         if not root:
-            temp_list = [0, 0.0]
 
             return temp_list
 
-        count_value = 0
+        temp_value = 0
         sum_value = 0
         
         for child in root.children:
             value_list = self.postorder(child)
-            count_value += value_list[0]
+            temp_value += value_list[0]
             sum_value += value_list[1]
         
         sum_value += root.val
-        count_value += 1
+        temp_value += 1
 
-        if count_value != 1 and (sum_value / count_value) > self.temp_value:
+        if temp_value != 1 and (sum_value / temp_value) > self.count:
             self.res = root.val
-            self.temp_value = sum_value / count_value
+            self.count = sum_value / temp_value
 
-        temp_list = [count_value, sum_value]
+        temp_list = [temp_value, sum_value]
         
         return temp_list
 
