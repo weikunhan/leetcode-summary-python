@@ -13,7 +13,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 17 | https://leetcode.com/problems/letter-combinations-of-a-phone-number/ | [this link](../practice/solution/0017_letter_combinations_of_a_phone_number.py) |
-| 22 | https://leetcode.com/problems/generate-parentheses/ | [this link](../practice/solution/0022_generate_parentheses.py)|
+| 22 | https://leetcode.com/problems/generate-parentheses/ | [this link](../practice/solution/0022_generate_parentheses.py) |
 | 339 | https://leetcode.com/problems/nested-list-weight-sum/ | |
 | 364 | https://leetcode.com/problems/nested-list-weight-sum-ii/ | |
 | 403 | https://leetcode.com/problems/frog-jump/ | |
@@ -74,7 +74,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | [this link](../practice/solution/0124_binary_tree_maximum_path_sum.py) 
+| 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | [this link](../practice/solution/0124_binary_tree_maximum_path_sum.py) |
 | 235 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | |
 | 236 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | |
 | 437 | https://leetcode.com/problems/path-sum-iii/ | |
@@ -93,4 +93,4 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 332 | https://leetcode.com/problems/reconstruct-itinerary/ | |
 | 1192 | https://leetcode.com/problems/critical-connections-in-a-network/ |  [this link](../practice/solution/1192_critical_connections_in_a_network.py) |
 | 1192* | https://leetcode.com/discuss/interview-question/436073/ | [this link](../practice/amazon/critical_routers.py) |
-| 1192* | https://leetcode.com/discuss/interview-question/372581 | [this link](../practice/amazon/critical_connections.py)|
+| 1192* | https://leetcode.com/discuss/interview-question/372581 | [this link](../practice/amazon/critical_connections.py) |
