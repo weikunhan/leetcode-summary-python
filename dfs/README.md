@@ -73,7 +73,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | |
+| 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | [this link](../practice/solution/0124_binary_tree_maximum_path_sum.py) 
 | 235 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | |
 | 236 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | |
 | 426 | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/ | [this link](../practice/solution/0426_convert_binary_search_tree_to_sorted_doubly_linked_list.py) |
