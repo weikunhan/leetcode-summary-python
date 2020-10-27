@@ -66,6 +66,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 98 | https://leetcode.com/problems/validate-binary-search-tree/ | |
 | 99 | https://leetcode.com/problems/recover-binary-search-tree/ | |
+| 426 | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/ | [this link](../practice/solution/0426_convert_binary_search_tree_to_sorted_doubly_linked_list.py) |
 | 1038 | https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/ | |
 | 1382 | https://leetcode.com/problems/balance-a-binary-search-tree/submissions/ | |
 
@@ -76,7 +77,6 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | [this link](../practice/solution/0124_binary_tree_maximum_path_sum.py) 
 | 235 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | |
 | 236 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | |
-| 426 | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/ | [this link](../practice/solution/0426_convert_binary_search_tree_to_sorted_doubly_linked_list.py) |
 | 437 | https://leetcode.com/problems/path-sum-iii/ | |
 | 450 | https://leetcode.com/problems/delete-node-in-a-bst/ | |
 | 543 | https://leetcode.com/problems/diameter-of-binary-tree/ | |

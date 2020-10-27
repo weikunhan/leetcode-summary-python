@@ -14,39 +14,31 @@ class Solution(object):
         :rtype: Node
         """
         
-        self.res = None
+        self.dumy_head = Node(-1)
+        self.temp_res = self.dumy_head
         
-        self.res = self.postorder(root)
-        
-        return self.res
-    
-    def postorder(self, root):
         if not root:
             
-            return None
+            return self.dumy_head.right
         
-        left_value = self.postorder(root.left)
-        right_value = self.postorder(root.right)
-        root.left = root
-        root.right = root
-        node = self.helper(self.helper(left_value, root), right_value)
+        self.inorder(root)
+        self.temp_res.right = self.dumy_head.right
+        self.dumy_head.right.left = self.temp_res
         
-        return node
+        return self.dumy_head.right
     
-    def helper(self, node_a, node_b):
-        if not node_a:
+    def inorder(self, root):
+        if not root:
             
-            return node_b
+            return 
         
-        if not node_b:
-            
-            return node_a
-
-        l1 = node_a.left
-        l2 = node_b.left
-        l1.right = node_b
-        node_b.left = l1
-        l2.right = node_a
-        node_a.left = l2
-
-        return node_a
+        self.inorder(root.left)
+        temp = self.temp_res
+        self.temp_res.right = root
+        self.temp_res = root
+        root.left = temp
+        #temp = root
+        #root.left = self.temp_res
+        #self.temp_res.right = temp
+        #self.temp_res = temp
+        self.inorder(root.right)
