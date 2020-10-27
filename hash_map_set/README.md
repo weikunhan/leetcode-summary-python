@@ -32,11 +32,14 @@ Although the time complexity of the hash map is O(1) (Search O(1), Insert O(1), 
 
 ## Hash Set
 
-Hash Set is little bit difference than Hash Map, but the underlying Hash storage mechanism is exactly the same, even Hash Set itself is implemented using Hash Map. There are many similarities between Hash Set and Hash Map. For Hash Set, the system uses the hash algorithm to determine the storage location of the collection elements, which can ensure that the collection elements can be quickly stored and retrieved; for Hash Map, the system key-value is regarded as a whole for processing, the system always calculates the key-value storage location according to the hash algorithm, which can ensure that the key-value pairs of the map can be quickly stored and retrieved.
+A hash map is an implementation of Map. A Map maps keys to values. The key lookup occurs using the hash. On the other hand, a hash set is an implementation of Set. A Set is designed to match the mathematical model of a set. A hash set does use a HashMap to back its implementation. The hash set does not allow duplicate elements that mean you can not store duplicate values in the hash set.
+
+Hash set is quite useful when need verify some information is exists or been used, which can help reduce time complexity by search in the hash set. Same as a hash map, the time complexity of the hash set is O(1) (Search O(1), Insert O(1), Delete O(1)), the Space complexity of the hash set is O(n).
+
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 36 | https://leetcode.com/problems/valid-sudoku/ | |
+| 36 | https://leetcode.com/problems/valid-sudoku/ | [this link](../practice/solution/0036_valid_sudoku.py) |
 | 217 | https://leetcode.com/problems/contains-duplicate/ | |
 | 564 | https://leetcode.com/problems/find-the-closest-palindrome/ | |
 | 723 | https://leetcode.com/problems/candy-crush/ | |
