@@ -53,7 +53,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 112 | https://leetcode.com/problems/path-sum/ | |
 | 113 | https://leetcode.com/problems/path-sum-ii/ | |
 | 109 | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/ | |
-| 116 | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ | |
+| 116 | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ | [this link](../practice/solution/0116_populating_next_right_pointers_in_each_node.py) |
 | 199 | https://leetcode.com/problems/binary-tree-right-side-view/ | |
 | 589 | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | |
 | 700 | https://leetcode.com/problems/search-in-a-binary-search-tree/ | |
