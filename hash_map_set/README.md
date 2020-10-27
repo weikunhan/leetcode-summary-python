@@ -7,7 +7,9 @@ The following questions, I prefer to solve by using Heap Map&Set. It may have th
 
 ## Hash Map
 
-This structure that can map keys to values. A hash map uses a hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. In many situations, hash map turn out to be on average more efficient than search trees or any other table lookup structure. For this reason, they are widely used in many kinds of computer software, particularly for associative arrays, database indexing, caches, and sets.
+In computing, a hash table (hash map) is a data structure that implements an associative array abstract data type, a structure that can map keys to values. A hash map uses a hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. Ideally, the hash function will assign each key to a unique bucket, but most hash table designs employ an imperfect hash function, which might cause hash collisions where the hash function generates the same index for more than one key. In many situations, hash map turn out to be on average more efficient than search trees or any other table lookup structure. For this reason, they are widely used in many kinds of computer software, particularly for associative arrays, database indexing, caches, and sets. [Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
+
+Although the time complexity of the hash map is O(1) (Search O(1), Insert O(1), Delete O(1)), the Space complexity of the hash map is O(n). Therefore, please consider trade-off in real-lift applications because it is hard to implement everything using a hash map.
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
