@@ -7,7 +7,11 @@ The following questions, I prefer to solve by using Binary Search. It may have t
 
 ## Array
 
-This type of problem includes: search target value in sorted array, search target value in sorted rotated array
+In computer science, binary search, also known as half-interval search, logarithmic search, or binary chop, is a search algorithm that finds the position of a target value within a sorted array. Binary search compares the target value to the middle element of the array. If they are not equal, the half in which the target cannot lie is eliminated and the search continues on the remaining half, again taking the middle element to compare to the target value, and repeating this until the target value is found. If the search ends with the remaining half being empty, the target is not in the array.[Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+
+This type of problem includes: search target value in sorted array problem, search target value in sorted rotated array problem
+
+The time complexity of the binary seasrch in sorted array is O(log(n)
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -18,13 +22,15 @@ This type of problem includes: search target value in sorted array, search targe
 | 300 | https://leetcode.com/problems/longest-increasing-subsequence/ | |
 | 410 | https://leetcode.com/problems/split-array-largest-sum/ | |
 | 540 | https://leetcode.com/problems/single-element-in-a-sorted-array/ | |
-| 704 | https://leetcode.com/problems/binary-search/ | |
+| 704 | https://leetcode.com/problems/binary-search/ | [this link](../practice/solution/0704_binary_search.py) |
 | 1060 | https://leetcode.com/problems/missing-element-in-sorted-array/ | |
 | 1011 | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ | |
 
 ## 2D Array
 
-This type of problem includes: search target value in sorted 2D-array, search target value in special sorted 2D-array
+This type of problem includes: search target value in sorted 2D-array problem, search target value in special sorted 2D-array problem
+
+The time complexity of the binary seasrch in sorted 2D array is O(log(n)
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
