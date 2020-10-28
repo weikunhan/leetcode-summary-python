@@ -7,7 +7,7 @@ class Solution(object):
         :rtype: int
         """
         
-        value_pq = sticks[:]
+        value_pq = sticks
         heapq.heapify(value_pq)
         res = 0
         

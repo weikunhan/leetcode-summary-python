@@ -7,7 +7,11 @@ The following questions, I prefer to solve by using Heap Sort. It may have the o
 
 ## Min Heap
 
+In computer science, a heap is a specialized tree-based data structure which is essentially an almost complete tree that satisfies the heap property: in a max heap, for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C. In a min heap, the key of P is less than or equal to the key of C. The node at the "top" of the heap (with no parents) is called the root node. The heap is one maximally efficient implementation of an abstract data type called a priority queue. In a heap, the highest (or lowest) priority element is always stored at the root. However, a heap is not a sorted structure; it can be regarded as being partially ordered. A heap is a useful data structure when it is necessary to repeatedly remove the object with the highest (or lowest) priority. [Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
+
 This type of problem includes: find the kth smallest problem, find the kth rare problem， find minimum cost problem
+
+The time complexity of the min heap is O(1) in Search-Min O(1), Insert O(log(n), Delete-Min O(log(n)), and the Space complexity of the min heap is O(n). 
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -19,9 +23,11 @@ This type of problem includes: find the kth smallest problem, find the kth rare 
 
 ## Max Heap
 
+Since Python's heapq implementation does not have built in support for max heap, we can just invert the values stored into the heap so it functions as a max heap. 
+
 This type of problem includes: find the kth largest problem, find the kth frequently problem, find maximum profit problem
 
-Since Python's heapq implementation does not have built in support for max heap, we can just invert the values stored into the heap so it functions as a max heap. 
+The time complexity of the max heap is O(1) in Search-Max O(1), Insert O(log(n), Delete-Max O(log(n)), and the Space complexity of the max heap is O(n). 
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
