@@ -40,7 +40,7 @@ Hash set is quite useful when need verify some information is exists or been use
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 36 | https://leetcode.com/problems/valid-sudoku/ | [this link](../practice/solution/0036_valid_sudoku.py) |
-| 217 | https://leetcode.com/problems/contains-duplicate/ | |
+| 217 | https://leetcode.com/problems/contains-duplicate/ |[this link](../practice/solution/0217_contains_duplicate.py) |
 | 564 | https://leetcode.com/problems/find-the-closest-palindrome/ | |
 | 723 | https://leetcode.com/problems/candy-crush/ | |
 | 734 | https://leetcode.com/problems/sentence-similarity/ | |
