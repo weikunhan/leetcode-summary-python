@@ -48,7 +48,7 @@ class Solution(object):
         :rtype: int
         """
 
-        value_pq = ropes[:]
+        value_pq = ropes
         heapq.heapify(value_pq)
         res = 0
 
