@@ -63,13 +63,13 @@ class Solution(object):
         res = []
 
         for review in reviews:
-            temp_list = re.split(r'[;,\s]\s*', review.lower())
+            temp_list = re.split(r'[,\s]\s*', review.lower())
 
-            for value in temp_list:
-                value = re.sub(r'[^a-z0-9]', '', value)
+            for word in temp_list:
+                word = re.sub(r'[^a-z0-9]', '', word)
 
-                if value in key_value_dict:
-                    data_value_dict[value] += 1
+                if word in key_value_dict:
+                    data_value_dict[word] += 1
 
         res = heapq.nsmallest(k, data_value_dict, key=lambda x: (-data_value_dict[x], x))
 
