@@ -18,7 +18,7 @@ The time complexity of the binary seasrch in sorted array is O(log(n)
 | 4 | https://leetcode.com/problems/median-of-two-sorted-arrays/ | [this link](../practice/solution/0004_median_of_two_sorted_arrays.py)|
 | 33 | https://leetcode.com/problems/search-in-rotated-sorted-array/ | |
 | 81 | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ | |
-| 153 | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ | |
+| 153 | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ | [this link](../practice/solution/0153_find_minimum_in_rotated_sorted_array.py) |
 | 300 | https://leetcode.com/problems/longest-increasing-subsequence/ | |
 | 410 | https://leetcode.com/problems/split-array-largest-sum/ | |
 | 540 | https://leetcode.com/problems/single-element-in-a-sorted-array/ | |
