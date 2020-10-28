@@ -9,7 +9,7 @@ class Solution(object):
         :rtype: str
         """
         
-        value_list = re.split(r'[;,\s]\s*', paragraph.lower())
+        value_list = re.split(r'[,\s]\s*', paragraph.lower())
         banned_value_dict = set(banned)
         data_value_dict = collections.Counter()
         res = ''
