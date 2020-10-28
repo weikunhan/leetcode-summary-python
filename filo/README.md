@@ -1,10 +1,14 @@
-# First-In-Last-Out
+# Last-In-First-Out
 
-The following questions, I prefer to solve by using FILO. It may have the optimal method, please check the discussion in LeetCode.  
+The following questions, I prefer to solve by using LIFO. It may have the optimal method, please check the discussion in LeetCode.  
 
 * [Stack](##Stack)
 
 ## Stack
+
+In computer science, a stack is an abstract data type that serves as a collection of elements, with two main principal operations: push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. The order in which elements come off a stack gives rise to its alternative name, LIFO (last in, first out). Additionally, a peek operation may give access to the top without modifying the stack [Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+
+The time complexity of the stack is Push O(1) and Pop O(1). The Space complexity of the stack is O(n). 
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |

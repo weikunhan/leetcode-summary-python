@@ -10,7 +10,7 @@ For the question number with *, it means this question change from original ques
 * Two Pointers - [this link](./two_pointers/README.md)
 * Union-Find - [this link](./uf/README.md)
 * First-In-First-Out - [this link](./fifo/README.md)
-* First-In-Last-Out - [this link](./filo/README.md)
+* Last-In-First-Out - [this link](./lifo/README.md)
 * Binary Search - [this link](./binary_search/README.md)
 * Heap Sort - [this link](./heap_sort/README.md)
 * Hash Map&Set - [this link](./hash_map_set/README.md)
