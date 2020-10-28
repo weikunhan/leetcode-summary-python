@@ -14,7 +14,7 @@ class Solution(object):
         res = []
         
         while visit_value_dict:
-            temp_value_dict = collections.defaultdict(list)
+            temp_dict = collections.defaultdict(list)
             
             for word, nested_value_list in visit_value_dict.items():
                 if endWord == word:
@@ -28,9 +28,9 @@ class Solution(object):
                         
                         if not new_word in visit_value_dict and new_word in value_dict:
                             for value_list in nested_value_list:
-                                temp_value_dict[new_word] += [value_list + [new_word]]
+                                temp_dict[new_word] += [value_list + [new_word]]
                                 
-            value_dict -= set(temp_value_dict.keys())
-            visit_value_dict = temp_value_dict
+            value_dict -= set(temp_dict.keys())
+            visit_value_dict = temp_dict
             
         return res

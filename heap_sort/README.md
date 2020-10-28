@@ -36,7 +36,7 @@ The time complexity of the max heap is O(1) in Search-Max O(1), Insert O(log(n),
 | 347 | https://leetcode.com/problems/top-k-frequent-elements/ | |
 | 480 | https://leetcode.com/problems/sliding-window-median/ | |
 | 692 | https://leetcode.com/problems/top-k-frequent-words/ | [this link](../practice/solution/0692_top_k_frequent_words.py) |
-| 767 | https://leetcode.com/problems/reorganize-string/ | |
+| 767 | https://leetcode.com/problems/reorganize-string/ | [this link](../practice/solution/0767_reorganize_string.py) |
 | 819 | https://leetcode.com/problems/most-common-word/ | [this link](../practice/solution/0819_most_common_word.py) |
 | 819* | https://leetcode.com/discuss/interview-question/542597/ | [this link](../practice/amazon/top_k_frequently_mentioned_keywords.py) |
 | 973 | https://leetcode.com/problems/k-closest-points-to-origin/ |[this link](../practice/solution/0973_k_closest_points_to_origin.py) | 
