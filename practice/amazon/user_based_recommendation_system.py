@@ -91,14 +91,14 @@ class Solution(object):
 
         for user, friend_value_list in userFriends.items():
             video_value_dict = set(userVideos[user])
-            favorite_value_dict = collections.Counter()
+            count_value_dict = collections.Counter()
 
             for friend in friend_value_list:
                 for video in userVideos[friend]:
                     if not video in video_value_dict:
-                        favorite_value_dict[video] += 1
+                        count_value_dict[video] += 1
 
-            res[user] = heapq.nsmallest(k, favorite_value_dict, key=lambda x:(-favorite_value_dict[x], x))
+            res[user] = heapq.nsmallest(k, count_value_dict, key=lambda x:(-count_value_dict[x], x))
 
         return res
 

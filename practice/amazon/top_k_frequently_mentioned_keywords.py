@@ -58,7 +58,7 @@ class Solution(object):
         :rtype: List[str]
         """
 
-        data_value_dict = collections.Counter()
+        count_value_dict = collections.Counter()
         key_value_dict = set(keywords)
         res = []
 
@@ -69,9 +69,9 @@ class Solution(object):
                 word = re.sub(r'[^a-z0-9]', '', word)
 
                 if word in key_value_dict:
-                    data_value_dict[word] += 1
+                    count_value_dict[word] += 1
 
-        res = heapq.nsmallest(k, data_value_dict, key=lambda x: (-data_value_dict[x], x))
+        res = heapq.nsmallest(k, count_value_dict, key=lambda x: (-count_value_dict[x], x))
 
         return res
 
