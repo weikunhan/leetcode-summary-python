@@ -83,7 +83,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 563 | https://leetcode.com/problems/binary-tree-tilt/ | |
 | 590 | https://leetcode.com/problems/n-ary-tree-postorder-traversal/ | |
 | 1120 | https://leetcode.com/problems/maximum-average-subtree | [this link](../practice/solution/1120_maximum_average_subtree.py) |
-| 1120* | https://leetcode.com/discuss/interview-question/349617 | [this link](../practice/amazon/subtree_with_maximum_average.py) |
+| 1120* | https://leetcode.com/discuss/interview-question/349617 | [this link](../practice/a/subtree_with_maximum_average.py) |
 
 ## Graph
 ### Backtracking
@@ -92,5 +92,5 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 332 | https://leetcode.com/problems/reconstruct-itinerary/ | |
 | 1192 | https://leetcode.com/problems/critical-connections-in-a-network/ |  [this link](../practice/solution/1192_critical_connections_in_a_network.py) |
-| 1192* | https://leetcode.com/discuss/interview-question/436073/ | [this link](../practice/amazon/critical_routers.py) |
-| 1192* | https://leetcode.com/discuss/interview-question/372581 | [this link](../practice/amazon/critical_connections.py) |
+| 1192* | https://leetcode.com/discuss/interview-question/436073/ | [this link](../practice/a/critical_routers.py) |
+| 1192* | https://leetcode.com/discuss/interview-question/372581 | [this link](../practice/a/critical_connections.py) |

@@ -18,8 +18,8 @@ The time complexity of the min heap is Search-Min O(1), Insert O(log(n), and Del
 | 373 | https://leetcode.com/problems/find-k-pairs-with-smallest-sums/ | |
 | 378 | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | |
 | 1167 | https://leetcode.com/problems/minimum-cost-to-connect-sticks/ | [this link](../practice/solution/1167_minimum_cost_to_connect_sticks.py)|
-| 1167* | https://leetcode.com/discuss/interview-question/344677 | [this link](../practice/amazon/min_cost_to_connect_ropes.py) |  
-| | https://www.1point3acres.com/bbs/thread-627760-1-1.html | [this link](../practice/tusimple/load_balance.py)
+| 1167* | https://leetcode.com/discuss/interview-question/344677 | [this link](../practice/a/min_cost_to_connect_ropes.py) |  
+| | https://www.1point3acres.com/bbs/thread-627760-1-1.html | [this link](../practice/others/load_balance.py)
 
 ## Max Heap
 
@@ -38,7 +38,7 @@ The time complexity of the max heap is Search-Min O(1), Insert O(log(n), and Del
 | 692 | https://leetcode.com/problems/top-k-frequent-words/ | [this link](../practice/solution/0692_top_k_frequent_words.py) |
 | 767 | https://leetcode.com/problems/reorganize-string/ | [this link](../practice/solution/0767_reorganize_string.py) |
 | 819 | https://leetcode.com/problems/most-common-word/ | [this link](../practice/solution/0819_most_common_word.py) |
-| 819* | https://leetcode.com/discuss/interview-question/542597/ | [this link](../practice/amazon/top_k_frequently_mentioned_keywords.py) |
+| 819* | https://leetcode.com/discuss/interview-question/542597/ | [this link](../practice/a/top_k_frequently_mentioned_keywords.py) |
 | 973 | https://leetcode.com/problems/k-closest-points-to-origin/ |[this link](../practice/solution/0973_k_closest_points_to_origin.py) | 
 | 1005 | https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/ | |
 | 1152 | https://leetcode.com/problems/analyze-user-website-visit-pattern/ | [this link](../practice/solution/1152_analyze_user_website_visit_pattern.py) |
