@@ -7,7 +7,11 @@ The following questions, I prefer to solve by using Two Pointers. It may have th
 
 ## Array
 
-This type of problem includes: find the k sum problem, remove duplicates element in place, sort element in place
+Two Pointers is really an easy and effective technique to solve many array related problems in place, especially in technical interviews. The array is one of the fundamental blocks in algorithms. This kind of problem usually involves two pointers: 1) one slow-runner and the other fast-runner, and 2) one pointer starts from the beginning while the other pointer starts from the end.
+
+This type of problem includes: find the 2-4 sum in place problem, remove duplicates element in place problem, sort element in place problem
+
+The time complexity of this technique depends on the question.
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -17,12 +21,16 @@ This type of problem includes: find the k sum problem, remove duplicates element
 | 18 | https://leetcode.com/problems/4sum/ | [this link](../practice/solution/0018_4sum.py)|
 | 881 | https://leetcode.com/problems/boats-to-save-people/ | |
 | 1099 | https://leetcode.com/problems/two-sum-less-than-k/ | |
-| 1099* | https://leetcode.com/discuss/interview-question/373202 | [this link](../practice/amazon/optimal_utilization.py) |
+| 1099* | https://leetcode.com/discuss/interview-question/373202 | [this link](../practice/a/optimal_utilization.py) |
 | 1229 | https://leetcode.com/problems/meeting-scheduler/ | |
 
 ## String
 
-This type of problem includes: find partition in target string
+Since a string is just formed by an array of characters, they are both similar.
+
+This type of problem includes: find partition in target string problem
+
+The time complexity of this technique depends on the question.
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |

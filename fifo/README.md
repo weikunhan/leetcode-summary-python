@@ -10,7 +10,7 @@ n computer science, a queue is a collection of entities that are maintained in a
 
 This type of problem includes: maintain FIFO cache problem, breadth-first search implementation
 
-The time complexity of the queue is Push O(1) and Pop O(1). The Space complexity of the queue is O(n). 
+The time complexity of the queue is Push-Right O(1) and Pop-Left O(1). The Space complexity of the queue is O(n). 
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |

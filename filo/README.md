@@ -10,7 +10,7 @@ In computer science, a stack is an abstract data type that serves as a collectio
 
 This type of problem includes: maintain LIFO cache problem
 
-The time complexity of the stack is Push O(1) and Pop O(1). The Space complexity of the stack is O(n). 
+The time complexity of the stack is Push-Top O(1) and Pop-Top O(1). The Space complexity of the stack is O(n). 
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
