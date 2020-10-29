@@ -6,8 +6,8 @@ class Solution(object):
         """
         
         value_dict = {}
-        left = 0
         right = 0
+        left = 0
         res = []
         
         for i in range(len(S)):
@@ -16,7 +16,7 @@ class Solution(object):
         for i in range(len(S)):
             right = max(right, value_dict[S[i]])
             
-            if i == right:
+            if right == i:
                 res.append(right - left + 1)
                 left = i + 1
                 

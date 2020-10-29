@@ -20,7 +20,7 @@ The time complexity of this technique depends on the question.
 | 16 | https://leetcode.com/problems/3sum-closest/ | [this link](../practice/solution/0016_3sum_closest.py) |
 | 18 | https://leetcode.com/problems/4sum/ | [this link](../practice/solution/0018_4sum.py)|
 | 881 | https://leetcode.com/problems/boats-to-save-people/ | |
-| 1099 | https://leetcode.com/problems/two-sum-less-than-k/ | |
+| 1099 | https://leetcode.com/problems/two-sum-less-than-k/ | [this link](../practice/solution/1099_two_sum_less_than_k.py) |
 | 1099* | https://leetcode.com/discuss/interview-question/373202 | [this link](../practice/a/optimal_utilization.py) |
 | 1229 | https://leetcode.com/problems/meeting-scheduler/ | |
 
