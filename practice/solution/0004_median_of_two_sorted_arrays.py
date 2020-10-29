@@ -7,6 +7,9 @@ class Solution(object):
         """
         
         if len(nums1) > len(nums2):
+            #temp = nums1
+            #nums1 = nums2
+            #nums2 = temp
             nums1, nums2 = nums2, nums1
         
         low = 0
