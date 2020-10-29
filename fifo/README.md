@@ -15,6 +15,6 @@ The time complexity of the queue is Push O(1) and Pop O(1). The Space complexity
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 239 | https://leetcode.com/problems/sliding-window-maximum/ | |
-| 862 | https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/ | |
-| 942 | https://leetcode.com/problems/di-string-match/ | |
+| 862 | https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/ | [this link](../practice/solution/0862_shortest_subarray_with_sum_at_least_k.py) |
+| 942 | https://leetcode.com/problems/di-string-match/ | [this link](../practice/solution/0942_di_string_match.py) |
 
