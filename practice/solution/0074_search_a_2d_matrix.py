@@ -13,18 +13,20 @@ class Solution(object):
         if not matrix:
             
             return res
+ 
+        high = len(matrix) * len(matrix[0]) - 1
         
-        high = len(matrix[0]) - 1
-        
-        while low < len(matrix) and high >= 0:
-            if matrix[low][high] == target:
+        while low <= high:
+            mid = (low + high) // 2
+            carry, remainder = divmod(mid, len(matrix[0]))
+            
+            if matrix[carry][remainder] == target:
                 res = True
                 
                 return res
-            elif matrix[low][high] < target:
-                low += 1
+            elif matrix[carry][remainder] < target:
+                low = mid + 1
             else:
-                high -= 1
+                high = mid - 1
                 
         return res
-            

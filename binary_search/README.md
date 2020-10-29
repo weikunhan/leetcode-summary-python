@@ -16,8 +16,8 @@ The time complexity of the binary seasrch in sorted array is O(log(n)
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 4 | https://leetcode.com/problems/median-of-two-sorted-arrays/ | [this link](../practice/solution/0004_median_of_two_sorted_arrays.py)|
-| 33 | https://leetcode.com/problems/search-in-rotated-sorted-array/ | |
-| 81 | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ | |
+| 33 | https://leetcode.com/problems/search-in-rotated-sorted-array/ | [this link](../practice/solution/0033_search_in_rotated_sorted_array.py) |
+| 81 | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ | [this link](../practice/solution/0081_search_in_rotated_sorted_array_ii.py) |
 | 153 | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ | [this link](../practice/solution/0153_find_minimum_in_rotated_sorted_array.py) |
 | 300 | https://leetcode.com/problems/longest-increasing-subsequence/ | [this link](../practice/solution/0300_longest_increasing_subsequence.py) |
 | 410 | https://leetcode.com/problems/split-array-largest-sum/ | |
@@ -34,5 +34,5 @@ The time complexity of the binary seasrch in sorted 2D array is O(log(n)
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 74 | https://leetcode.com/problems/search-a-2d-matrix/ | |
+| 74 | https://leetcode.com/problems/search-a-2d-matrix/ | [this link](../practice/solution/0074_search_a_2d_matrix.py) |
 | 240 | https://leetcode.com/problems/search-a-2d-matrix-ii/ | [this link](../practice/solution/0240_search_a_2d_matrix_ii.py)|
