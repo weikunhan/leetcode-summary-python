@@ -1,27 +1,14 @@
 # Design Problem
 
-For prepare the design problem, there are three kinds of design problems:
+There are three kinds of design problems:
 
 * System design (Scenario, Service, Storage, Scale)
 * API design 
 * OOA, OOD, OOP (Clarify, Core objects, Cases, Classes, Correctness)
 
-Also, there are algorithms that you should know before system design. The related resources should:
+Especially, to prepare the system design problem, the list of algorithms you should know before system design. [System design algorithms](https://github.com/resumejob/system-design-algorithms)
 
-* Bloom filter
-* Frugal streaming
-* Geohash&S2 Geometry
-* Leaky bucket&Token bucket algorithm
-* Loosy Counting
-* Operational transformation algorithm
-* Quadtree&Rtree algorithm
-* Ray casting algorithm
-* Reverse index algorithm
-* Rsync algorithm
-* Trie algorithm
-* Consistent hashing
-
-For more informaiton, you need to check related courses and books. Here, I split the system design problem from LeetCode into following topic.
+For more information, you need to check related courses and books. Here, I split the system design problem from LeetCode into the following topic.
 
 * [Prefix Tree](##Prefix-Tree)
 * [Hash Map&Set](##Hash-Map&Set)
@@ -112,6 +99,7 @@ For more informaiton, you need to check related courses and books. Here, I split
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 284 | https://leetcode.com/problems/peeking-iterator/ | [this link](../practice/solution/0284_peeking_iterator.py) | 
 | 348 | https://leetcode.com/problems/design-tic-tac-toe/ | |
 | 384 | https://leetcode.com/problems/shuffle-an-array/ | |
 | 729 | https://leetcode.com/problems/my-calendar-i/ | |
