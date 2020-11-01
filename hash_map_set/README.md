@@ -20,6 +20,7 @@ The time complexity of the hash map is O(1) (Search O(1), Insert O(1), Delete O(
 | 187 | https://leetcode.com/problems/repeated-dna-sequences/ | |
 | 219 | https://leetcode.com/problems/contains-duplicate-ii/ | |
 | 220 | https://leetcode.com/problems/contains-duplicate-iii/ | |
+| 311 | https://leetcode.com/problems/sparse-matrix-multiplication/ | [this link](../practice/solution/0311_sparse_matrix_multiplication.py) |
 | 451 | https://leetcode.com/problems/sort-characters-by-frequency/ | |
 | 532 | https://leetcode.com/problems/k-diff-pairs-in-an-array/ | |
 | 697 | https://leetcode.com/problems/degree-of-an-array/ | |
