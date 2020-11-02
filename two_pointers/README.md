@@ -9,7 +9,7 @@ The following questions, I prefer to solve by using Two Pointers. It may have th
 
 Two Pointers is really an easy and effective technique to solve many array related problems in place, especially in technical interviews. The array is one of the fundamental blocks in algorithms. This kind of problem usually involves two pointers: 1) one slow-runner and the other fast-runner, and 2) one pointer starts from the beginning while the other pointer starts from the end.
 
-This type of problem includes: find the 2-4 sum in place problem, remove duplicates element in place problem, sort element in place problem
+This type of problem includes: find the 3-4 sum in place problem, remove duplicates element in place problem, sort element in place problem， sliding window implementation (see Special Case)
 
 The time complexity of this technique depends on the question.
 
