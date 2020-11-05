@@ -98,7 +98,7 @@ class Solution(object):
                 value_dict[server_value] += task[1]
             
         for key, value in value_dict.items():
-            if value == value_dict.most_common()[0][1]:
+            if value == max(value_dict.values()):
                 res.append(key)
 
         res = sorted(res)

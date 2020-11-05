@@ -75,7 +75,7 @@ class Solution(object):
                         value_dict[genre] += 1
 
             for key, value in value_dict.items():
-                if value == value_dict.most_common()[0][1]:
+                if value == max(value_dict.values()):
                     temp_list.append(key)
 
             res[user] = temp_list
