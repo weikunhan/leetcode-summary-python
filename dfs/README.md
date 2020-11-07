@@ -32,6 +32,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 489 | https://leetcode.com/problems/robot-room-cleaner/ | |
 | 694 | https://leetcode.com/problems/number-of-distinct-islands/ | [this link](../practice/solution/0694_number_of_distinct_islands.py) | 
 | 733 | https://leetcode.com/problems/flood-fill/ | |
+| 1254 | https://leetcode.com/problems/number-of-closed-islands/ | [this link](../practice/solution/1254_number_of_closed_islands.py) |
 
 ## Tree
 ### Backtracking
