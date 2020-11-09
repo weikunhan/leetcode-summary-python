@@ -41,7 +41,7 @@ For more information, you need to check related courses and books. Here, I split
 | 460 | https://leetcode.com/problems/lfu-cache/ | |
 | 535 | https://leetcode.com/problems/encode-and-decode-tinyurl/ | |
 | 705 | https://leetcode.com/problems/design-hashset/ | |
-| 706 | https://leetcode.com/problems/design-hashmap/ | |
+| 706 | https://leetcode.com/problems/design-hashmap/ | [this link](../practice/solution/0706_design_hashmap.py) |
 | 985 | https://leetcode.com/problems/maximum-frequency-stack/ | |
 | 1396 | https://leetcode.com/problems/design-underground-system/ | |
 | 1146 | https://leetcode.com/problems/snapshot-array/ | |
