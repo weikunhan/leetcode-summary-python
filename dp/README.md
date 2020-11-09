@@ -18,7 +18,7 @@ This type of problem includes: find status in the checkerboard problem
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 64 | https://leetcode.com/problems/minimum-path-sum/ | |
-| 64* | https://www.1point3acres.com/bbs/thread-595086-1-1.html | [this link](../practice/tusimple/matrix_conversion.py)|
+| 64* | https://www.1point3acres.com/bbs/thread-595086-1-1.html | |
 | 120 | https://leetcode.com/problems/triangle/ | |
 | 688 | https://leetcode.com/problems/knight-probability-in-chessboard/| |
 
@@ -36,6 +36,7 @@ For this kind of question, you need to use 1D DP array to transfer state when de
 | 123 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ | |
 | 135 | https://leetcode.com/problems/candy/ | |
 | 152 | https://leetcode.com/problems/maximum-product-subarray/ | |
+| 256 | https://leetcode.com/problems/paint-house/ | [this link](../practice/solution/0256_paint_house.py) |
 | 309 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/ | |
 | 821 | https://leetcode.com/problems/shortest-distance-to-a-character/ | |
 | 978 | https://leetcode.com/problems/longest-turbulent-subarray/ | |
@@ -48,9 +49,9 @@ For this kind of question, you need to use 2D DP array to transfer state when de
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 5 | https://leetcode.com/problems/longest-palindromic-substring/ | [this link](../practice/solution/0005_longest_palindromic_substring.py) |
-| 10 | https://leetcode.com/problems/regular-expression-matching/ | [this link](../practice/solution/0010_regular_expression_matching.py) |
-| 44 | https://leetcode.com/problems/wildcard-matching/ | [this link](../practice/solution/0044_wildcard_matching.py) |
+| 5 | https://leetcode.com/problems/longest-palindromic-substring/ | |
+| 10 | https://leetcode.com/problems/regular-expression-matching/ | |
+| 44 | https://leetcode.com/problems/wildcard-matching/ | |
 | 72 | https://leetcode.com/problems/edit-distance/ | |
 | 97 | https://leetcode.com/problems/interleaving-string/ | |
 | 887 | https://leetcode.com/problems/super-egg-drop/ | |
@@ -66,7 +67,7 @@ For this kind of question, you need to enumerate the left and right subranges an
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 139 | https://leetcode.com/problems/word-break/ | |
-| 140 | https://leetcode.com/problems/word-break-ii/ | [this link](../practice/solution/0140_word_break_ii.py)|
+| 140 | https://leetcode.com/problems/word-break-ii/ | |
 | 368 | https://leetcode.com/problems/largest-divisible-subset/ | |
 
 ## Divided DP
@@ -91,7 +92,7 @@ For this kind of quesiton, you need to know what is knapsack problem: a problem 
 | 322 | https://leetcode.com/problems/coin-change/ | |
 | 474 | https://leetcode.com/problems/ones-and-zeroes/ | |
 | 1155 | https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ | |
-| 1155* | https://www.1point3acres.com/bbs/thread-606351-1-1.html | [this link](../practice/tusimple/grouping_options.py)|
+| 1155* | https://www.1point3acres.com/bbs/thread-606351-1-1.html | |
 
 ## Comprehensive DP
 
