@@ -17,10 +17,10 @@ The time complexity of the min heap is Search-Min O(1), Insert O(log(n), and Del
 | ---- | --------------------------------- | --------------------------------- |
 | 373 | https://leetcode.com/problems/find-k-pairs-with-smallest-sums/ | |
 | 378 | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | |
-| 1167 | https://leetcode.com/problems/minimum-cost-to-connect-sticks/ | [this link](../practice/solution/1167_minimum_cost_to_connect_sticks.py)|
+| 1167 | https://leetcode.com/problems/minimum-cost-to-connect-sticks/ | [this link](../practice/solution/1167_minimum_cost_to_connect_sticks.py) |
 | 1167* | https://leetcode.com/discuss/interview-question/344677 | [this link](../practice/a/min_cost_to_connect_ropes.py) |
 | 1481 | https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/ | [this link](../practice/solution/1481_least-number-of-unique-integers-after-k-removals.py) |   
-| | https://www.1point3acres.com/bbs/thread-627760-1-1.html | [this link](../practice/others/load_balance.py)
+| | https://www.1point3acres.com/bbs/thread-627760-1-1.html | [this link](../practice/others/load_balance.py) |
 
 ## Max Heap
 

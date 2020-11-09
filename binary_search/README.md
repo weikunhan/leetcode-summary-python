@@ -36,4 +36,4 @@ The time complexity of the binary seasrch in sorted 2D array is O(log(n)
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 74 | https://leetcode.com/problems/search-a-2d-matrix/ | [this link](../practice/solution/0074_search_a_2d_matrix.py) |
-| 240 | https://leetcode.com/problems/search-a-2d-matrix-ii/ | [this link](../practice/solution/0240_search_a_2d_matrix_ii.py)|
+| 240 | https://leetcode.com/problems/search-a-2d-matrix-ii/ | [this link](../practice/solution/0240_search_a_2d_matrix_ii.py) |

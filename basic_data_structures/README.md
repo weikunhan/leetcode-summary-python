@@ -75,14 +75,18 @@ Linked List is harder to understand for people who just starting programming. Yo
 
 ## String
 
-String is not a data structure but many coding problems play with it. For some data processing related jobs, Sting is an extremely important topic. You should consider using a standard library for your daily work. However, for programming practice, you need to solve this kind of problem and familiar with: 1)sorting method/syntax, 2)split and join syntax, 3)encoding and decoding method/syntax, 4)regular expression, 5)hash mapping, 6)Unix utilities(optional)
+In computer programming, a string is traditionally a sequence of characters, either as a literal constant or as some kind of variable. The latter may allow its elements to be mutated and the length changed, or it may be fixed (after creation). A string is generally considered as a data type and is often implemented as an array data structure of bytes (or words) that stores a sequence of elements, typically characters, using some character encoding. String may also denote more general arrays or other sequence (or list) data types and structures. Depending on the programming language and precise data type used, a variable declared to be a string may either cause storage in memory to be statically allocated for a predetermined maximum length or employ dynamic allocation to allow it to hold a variable number of elements. [Wikipedia](https://en.wikipedia.org/wiki/String_(computer_science))
+
+String is not a data structure but many coding problems play with it. Python strings are "immutable" which means they cannot be changed after they are created (Java strings also use this immutable style). Since strings can't be changed, we construct *new* strings as we go to represent computed values. 
+
+This type of problem includes: 1)sort string syntax, 2)split and join string syntax, 3)encoding and decoding string syntax, 4)regular expression, 5)common string methods, 6)Unix utilities(optional)
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 6 | https://leetcode.com/problems/zigzag-conversion/ | [this link](../practice/solution/0006_zigzag_conversion.py) | 
 | 8 | https://leetcode.com/problems/string-to-integer-atoi/ | [this link](../practice/solution/0008_string_to_integer_atoi.py) | 
 | 12 | https://leetcode.com/problems/integer-to-roman/ | [this link](../practice/solution/0012_integer_to_roman.py)|
-| 93 | https://leetcode.com/problems/restore-ip-addresses/ | |
+| 93 | https://leetcode.com/problems/restore-ip-addresses/ | [this link](../prictice/solution/0093_restore_ip_addresses.py) |
 | 165 | https://leetcode.com/problems/compare-version-numbers/ | |
 | 242 | https://leetcode.com/problems/valid-anagram/ | |
 | 273 | https://leetcode.com/problems/integer-to-english-words/| [this link](../practice/solution/0273_integer_to_english_words.py)|

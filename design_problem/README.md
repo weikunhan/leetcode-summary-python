@@ -24,8 +24,8 @@ For more information, you need to check related courses and books. Here, I split
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 211 | https://leetcode.com/problems/add-and-search-word-data-structure-design/ | |
-| 208 | https://leetcode.com/problems/implement-trie-prefix-tree/ | |
-| 588 | https://leetcode.com/problems/design-in-memory-file-system/ | [this link](../practice/solution/0588_design_in_memory_file_system.py)|
+| 208 | https://leetcode.com/problems/implement-trie-prefix-tree/ | [this link](../practice/solution/0208_implement_trie_prefix_tree.py) |
+| 588 | https://leetcode.com/problems/design-in-memory-file-system/ | |
 | 642 | https://leetcode.com/problems/design-search-autocomplete-system/ | |
 | 1032 | https://leetcode.com/problems/stream-of-characters/ | |
 
@@ -38,7 +38,7 @@ For more information, you need to check related courses and books. Here, I split
 | 244 | https://leetcode.com/problems/shortest-word-distance-ii/ | |
 | 288 | https://leetcode.com/problems/unique-word-abbreviation/ | |
 | 380 | https://leetcode.com/problems/insert-delete-getrandom-o1/ | | 
-| 460 | https://leetcode.com/problems/lfu-cache/ | [this link](../practice/solution/0460_lfu_cache.py) |
+| 460 | https://leetcode.com/problems/lfu-cache/ | |
 | 535 | https://leetcode.com/problems/encode-and-decode-tinyurl/ | |
 | 705 | https://leetcode.com/problems/design-hashset/ | |
 | 706 | https://leetcode.com/problems/design-hashmap/ | |
@@ -84,7 +84,7 @@ For more information, you need to check related courses and books. Here, I split
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 295 | https://leetcode.com/problems/find-median-from-data-stream/ | [this link](../practice/solution/0295_find_median_from_data_stream.py)|
+| 295 | https://leetcode.com/problems/find-median-from-data-stream/ | |
 | 352 | https://leetcode.com/problems/data-stream-as-disjoint-intervals/ | |
 | 1172 | https://leetcode.com/problems/dinner-plate-stacks/ | |
 
