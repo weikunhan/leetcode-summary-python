@@ -35,6 +35,7 @@ Array is the most simple data structure. For some numerical data-related jobs, y
 | 277 | https://leetcode.com/problems/find-the-celebrity/ | [this link](../practice/solution/0277_find_the_celebrity.py) |
 | 605 | https://leetcode.com/problems/can-place-flowers/ | [this link](../practice/solution/0605_can_place_flowers.py) |
 | 628 | https://leetcode.com/problems/maximum-product-of-three-numbers/ | [this link](../practice/solution/0628_maximum_product_of_three_numbers.py) |
+| 759 | https://leetcode.com/problems/employee-free-time/ | [this link](../practice/solution/0759_employee_free_time.py) |
 | 766 | https://leetcode.com/problems/toeplitz-matrix/ | [this link](../practice/solution/0766_toeplitz_matrix.py) |
 | 836 | https://leetcode.com/problems/rectangle-overlap/ | [this link](../practice/solution/0836_rectangle_overlap.py) | 
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | [this link](../practice/solution/0945_minimum_increment_to_make_array_unique.py) |
