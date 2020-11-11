@@ -27,10 +27,8 @@ class Solution(object):
             
         if l1:
             temp_res.next = l1
-        elif l2:
+        
+        if l2:
             temp_res.next = l2
-        else:
-            temp_res.next = None
             
         return dummy_head.next
-                

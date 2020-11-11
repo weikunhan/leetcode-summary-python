@@ -13,6 +13,7 @@ class Solution(object):
         for char in S:
             if char == 'I': 
                 res.append(value_list.popleft())
+                
             if char == 'D': 
                 res.append(value_list.pop())                
         
