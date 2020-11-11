@@ -11,7 +11,7 @@ class Solution(object):
         :rtype: ListNode
         """
         
-        dummy_head = ListNode(None)
+        dummy_head = ListNode(-1)
         temp_res = dummy_head
         temp_res.next = head
         

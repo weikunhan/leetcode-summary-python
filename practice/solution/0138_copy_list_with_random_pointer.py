@@ -17,14 +17,15 @@ class Solution(object):
         """
         
         dummy_head = Node(-1, head)
+        temp_res = dummy_head
+        temp_res = temp_res.next
         value_dict = collections.defaultdict(lambda: Node(-1))
         value_dict[None] = None
-        current = head
-        
-        while current:
-            value_dict[current].val = current.val
-            value_dict[current].next = value_dict[current.next]
-            value_dict[current].random = value_dict[current.random]
-            current = current.next
+
+        while temp_res:
+            value_dict[temp_res].val = temp_res.val
+            value_dict[temp_res].next = value_dict[temp_res.next]
+            value_dict[temp_res].random = value_dict[temp_res.random]
+            temp_res = temp_res.next
             
         return value_dict[dummy_head.next]
