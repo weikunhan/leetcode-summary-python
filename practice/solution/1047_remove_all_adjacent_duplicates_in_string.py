@@ -9,13 +9,13 @@ class Solution(object):
         res = ''
         
         for char in S:
-            if value_stack:
+            if not value_stack:
+                value_stack.append(char)
+            else:
                 if value_stack[-1] == char:
                     value_stack.pop()
                 else:
                     value_stack.append(char)
-            else:
-                value_stack.append(char)
                 
         res = ''.join(value_stack)
                 
