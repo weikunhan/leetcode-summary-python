@@ -53,7 +53,7 @@ For more information, you need to check related courses and books. Here, I split
 | 225 | https://leetcode.com/problems/implement-stack-using-queues/ | |
 | 281 | https://leetcode.com/problems/zigzag-iterator/ | |
 | 353 | https://leetcode.com/problems/design-snake-game/ | |
-| 362 | https://leetcode.com/problems/design-hit-counter/ | |
+| 362 | https://leetcode.com/problems/design-hit-counter/ | [this link](../practice/solution/0362_design_hit_counter.py) |
 | 604 | https://leetcode.com/problems/design-compressed-string-iterator/ | |
 | 622 | https://leetcode.com/problems/design-circular-queue/ | |
 | 933 | https://leetcode.com/problems/number-of-recent-calls/ | |
