@@ -20,7 +20,7 @@ class Solution(object):
             carry, remainder = divmod(num, 1000)
             
             if remainder != 0:
-                self.res = self.helper(remainder) + self.thousands_value_list[i] + ' ' + self.res
+                self.res = self.dfs(remainder) + self.thousands_value_list[i] + ' ' + self.res
                 
             num = carry
             
@@ -28,24 +28,18 @@ class Solution(object):
             
         return self.res
             
-    def helper(self, num):
+    def dfs(self, num):
         temp_value = ''
         
-        if num == 0:
+        if not num:
             
             return temp_value
         
         if num < 20:
             temp_value = self.ones_value_list[num] + ' '
+        elif num < 100:
+            temp_value = self.tens_value_list[num / 10] + ' ' + self.dfs(num % 10)
+        else:
+            temp_value = self.ones_value_list[num / 100] + ' Hundred ' + self.dfs(num % 100)
             
-            return temp_value
-        
-        if num < 100:
-            temp_value = self.tens_value_list[num / 10] + ' ' + self.helper(num % 10)
-            
-            return temp_value
-        
-        if num < 1000:
-            temp_value = self.ones_value_list[num / 100] + ' Hundred ' + self.helper(num % 100)
-            
-            return temp_value
+        return temp_value
