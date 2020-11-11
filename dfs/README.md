@@ -77,7 +77,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | [this link](../practice/solution/0124_binary_tree_maximum_path_sum.py) |
 | 235 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | |
-| 236 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | |
+| 236 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | [this link](../practice/solution/0236_lowest_common_ancestor_of_a_binary_tree.py) |
 | 437 | https://leetcode.com/problems/path-sum-iii/ | [this link](../practice/solution/0437_path_sum_iii.py) |
 | 450 | https://leetcode.com/problems/delete-node-in-a-bst/ | |
 | 543 | https://leetcode.com/problems/diameter-of-binary-tree/ | |
