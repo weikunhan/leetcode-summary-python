@@ -22,7 +22,9 @@ For more information, you need to check related courses and books. Here, most ba
 
 ## Array
 
-Array is the most simple data structure. For some numerical data-related jobs, you should consider using some standard libraries such as NumPy. For programming practice, you need to know how to: 1)iterate through 1D array, 2)iterate through 2D array, 3)play tricks using different programming languages, 4)understand bit manipulation
+Array is the most simple data structure. For some numerical data-related jobs, you should consider using some standard libraries such as NumPy. 
+
+For programming practice, you need to know how to: 1)iterate through 1D array, 2)iterate through 2D array, 3)play tricks using different programming languages, 4)understand bit manipulation
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
