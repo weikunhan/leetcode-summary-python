@@ -34,7 +34,7 @@ The time complexity of the max heap is Search-Min O(1), Insert O(log(n), and Del
 | ---- | --------------------------------- | --------------------------------- |
 | 215 | https://leetcode.com/problems/kth-largest-element-in-an-array/ | |
 | 218 | https://leetcode.com/problems/the-skyline-problem/ | |
-| 347 | https://leetcode.com/problems/top-k-frequent-elements/ | |
+| 347 | https://leetcode.com/problems/top-k-frequent-elements/ | [this link](../practice/solution/0347_top_k_frequent_elements.py) |
 | 480 | https://leetcode.com/problems/sliding-window-median/ | |
 | 692 | https://leetcode.com/problems/top-k-frequent-words/ | [this link](../practice/solution/0692_top_k_frequent_words.py) |
 | 767 | https://leetcode.com/problems/reorganize-string/ | [this link](../practice/solution/0767_reorganize_string.py) |
