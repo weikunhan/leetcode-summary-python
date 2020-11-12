@@ -8,7 +8,7 @@ class LRUCache(object):
         """
         
         self.value_dict = collections.OrderedDict()
-        self.capacity = capacity
+        self.capacity_value = capacity
 
     def get(self, key):
         """
@@ -36,7 +36,7 @@ class LRUCache(object):
             self.value_dict.pop(key)
             self.value_dict[key] = value
         else:    
-            if len(self.value_dict) == self.capacity:
+            if len(self.value_dict) == self.capacity_value:
                 self.value_dict.popitem(last=False)
                 
             self.value_dict[key] = value

@@ -33,9 +33,9 @@ class RandomizedSet(object):
         """
         
         if val in self.value_dict:
-            remove_index = self.value_dict[val]
-            self.value_dict[self.value_list[-1]] = remove_index
-            self.value_list[remove_index] = self.value_list[-1]
+            index_value = self.value_dict[val]
+            self.value_dict[self.value_list[-1]] = index_value
+            self.value_list[index_value] = self.value_list[-1]
             self.value_list.pop()
             self.value_dict.pop(val)
             
