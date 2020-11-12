@@ -13,7 +13,7 @@ For more information, you need to check related courses and books. Here, I split
 * [Prefix Tree](##Prefix-Tree)
 * [Hash Map&Set](##Hash-Map&Set)
 * [First-In-First-Out](##First-In-First-Out)
-* [First-In-Last-Out](##First-In-Last-Out)
+* [Last-In-First-Out](##Last-In-First-Out)
 * [Depth-First search](##Depth-First-search)
 * [Heap Sort](#Heap-Sort)
 * [Binary Seasrch](##Binary-Seasrch)
@@ -50,6 +50,7 @@ For more information, you need to check related courses and books. Here, I split
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 158 | https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/ | [this link](../practice/solution/0158_read_n_characters_given_read4_ii_call_multiple_times.py) |
 | 225 | https://leetcode.com/problems/implement-stack-using-queues/ | |
 | 281 | https://leetcode.com/problems/zigzag-iterator/ | |
 | 353 | https://leetcode.com/problems/design-snake-game/ | |
@@ -59,7 +60,7 @@ For more information, you need to check related courses and books. Here, I split
 | 933 | https://leetcode.com/problems/number-of-recent-calls/ | |
 | 1188 | https://leetcode.com/problems/design-bounded-blocking-queue/ | |
 
-## First-In-Last-Out
+## Last-In-First-Out
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
