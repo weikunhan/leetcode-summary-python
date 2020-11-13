@@ -51,7 +51,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 105 | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | |
+| 105 | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | [this link](../practice/solution/0105_construct_binary_tree_from_preorder_and_inorder_traversal.py) |
 | 106 | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | |
 | 112 | https://leetcode.com/problems/path-sum/ | [this link](../practice/solution/0112_path_sum.py) |
 | 113 | https://leetcode.com/problems/path-sum-ii/ | |
