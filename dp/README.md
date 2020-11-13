@@ -31,7 +31,7 @@ For this kind of question, you need to use 1D DP array to transfer state when de
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 53 | https://leetcode.com/problems/maximum-subarray/ | |
-| 91 | https://leetcode.com/problems/decode-ways/ | |
+| 91 | https://leetcode.com/problems/decode-ways/ | [this link](../practice/solution/0091_decode_ways.py) |
 | 121 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | |
 | 123 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ | |
 | 135 | https://leetcode.com/problems/candy/ | |
