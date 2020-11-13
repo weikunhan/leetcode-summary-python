@@ -70,6 +70,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 94 | https://leetcode.com/problems/binary-tree-inorder-traversal/ | [this link](../practice/solution/0094_binary_tree_inorder_traversal.py) |
 | 98 | https://leetcode.com/problems/validate-binary-search-tree/ | [this link](../practice/solution/0098_validate_binary_search_tree.py) |
 | 99 | https://leetcode.com/problems/recover-binary-search-tree/ | [this link](../practice/solution/0099_recover_binary_search_tree.py) |
+| 230 | https://leetcode.com/problems/kth-smallest-element-in-a-bst/ | [this link](../practice/solution/0230_kth_smallest_element_in_a_bst.py) |
 | 426 | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/ | [this link](../practice/solution/0426_convert_binary_search_tree_to_sorted_doubly_linked_list.py) |
 | 1038 | https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/ | |
 | 1382 | https://leetcode.com/problems/balance-a-binary-search-tree/submissions/ | |
