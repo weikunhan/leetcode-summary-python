@@ -42,6 +42,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 101 | https://leetcode.com/problems/symmetric-tree/ | [this link](../practice/solution/0101_symmetric_tree.py) |
 | 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | [this link](../practice/solution/0104_maximum_depth_of_binary_tree.py) |
+| 450 | https://leetcode.com/problems/delete-node-in-a-bst/ | [this link](../practice/solution/0450_delete_node_in_a_bst.py) |
 | 545 | https://leetcode.com/problems/boundary-of-binary-tree/ | |
 | 572 | https://leetcode.com/problems/subtree-of-another-tree/ | [this link](../practice/solution/0572_subtree_of_another_tree.py) |
 | 617 | https://leetcode.com/problems/merge-two-binary-trees/ | |
@@ -81,7 +82,6 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 235 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | |
 | 236 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | [this link](../practice/solution/0236_lowest_common_ancestor_of_a_binary_tree.py) |
 | 437 | https://leetcode.com/problems/path-sum-iii/ | [this link](../practice/solution/0437_path_sum_iii.py) |
-| 450 | https://leetcode.com/problems/delete-node-in-a-bst/ | |
 | 543 | https://leetcode.com/problems/diameter-of-binary-tree/ | |
 | 563 | https://leetcode.com/problems/binary-tree-tilt/ | |
 | 590 | https://leetcode.com/problems/n-ary-tree-postorder-traversal/ | |
