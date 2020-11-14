@@ -59,14 +59,14 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 2 | https://leetcode.com/problems/add-two-numbers/ | [this link](../practice/solution/0002_add_two_numbers.py)|
-| 19 | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ | [this link](../practice/solution/0019_remove_nth_node_from_end_of_list.py)|
-| 21 | https://leetcode.com/problems/merge-two-sorted-lists/ | [this link](../practice/solution/0021_merge_two_sorted_lists.py)|
-| 23 | https://leetcode.com/problems/merge-k-sorted-lists/ | [this link](../practice/solution/0023_merge_k_sorted_lists.py)|
-| 24 | https://leetcode.com/problems/swap-nodes-in-pairs/ | [this link](../practice/solution/0024_swap_nodes_in_pairs.py)
+| 2 | https://leetcode.com/problems/add-two-numbers/ | [this link](../practice/solution/0002_add_two_numbers.py) |
+| 19 | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ | [this link](../practice/solution/0019_remove_nth_node_from_end_of_list.py) |
+| 21 | https://leetcode.com/problems/merge-two-sorted-lists/ | [this link](../practice/solution/0021_merge_two_sorted_lists.py) |
+| 23 | https://leetcode.com/problems/merge-k-sorted-lists/ | [this link](../practice/solution/0023_merge_k_sorted_lists.py) |
+| 24 | https://leetcode.com/problems/swap-nodes-in-pairs/ | [this link](../practice/solution/0024_swap_nodes_in_pairs.py) |
 | 25 | https://leetcode.com/problems/reverse-nodes-in-k-group/ | |
 | 82 | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/ | |
-| 83 | https://leetcode.com/problems/remove-duplicates-from-sorted-list/ | |
+| 83 | https://leetcode.com/problems/remove-duplicates-from-sorted-list/ | [this link](../practice/solution/0083_remove_duplicates_from_sorted_list.py) |
 | 86 | https://leetcode.com/problems/partition-list/ | |
 | 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | [this link](../practice/solution/0138_copy_list_with_random_pointer.py) |
 | 143 | https://leetcode.com/problems/reorder-list/ | |

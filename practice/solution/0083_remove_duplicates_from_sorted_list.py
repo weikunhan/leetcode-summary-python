@@ -5,7 +5,7 @@
 #         self.next = None
 
 class Solution(object):
-    def swapPairs(self, head):
+    def deleteDuplicates(self, head):
         """
         :type head: ListNode
         :rtype: ListNode
@@ -13,15 +13,15 @@ class Solution(object):
         
         dummy_head = ListNode(-1)
         dummy_head.next = head
-        temp_res = dummy_head
+        left = head
+        right = dummy_head
         
-        while temp_res.next and temp_res.next.next:
-            l1 = temp_res.next
-            l2 = l1.next
-            temp = l2.next
-            l1.next = temp
-            l2.next = l1
-            temp_res.next = l2
-            temp_res = l1
-        
+        while left and left.next:
+            if left.val == left.next.val:
+                left = left.next
+                right.next = left
+            else:
+                left = left.next
+                right = right.next
+
         return dummy_head.next

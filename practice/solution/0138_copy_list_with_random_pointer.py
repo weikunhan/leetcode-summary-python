@@ -17,8 +17,7 @@ class Solution(object):
         """
         
         dummy_head = Node(-1, head)
-        temp_res = dummy_head
-        temp_res = temp_res.next
+        temp_res = dummy_head.next
         value_dict = collections.defaultdict(lambda: Node(-1))
         value_dict[None] = None
 
