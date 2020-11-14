@@ -13,15 +13,16 @@ class Solution(object):
         
         dummy_head = ListNode(-1)
         dummy_head.next = head
-        temp_res = dummy_head
-        
-        while temp_res.next and temp_res.next.next:
-            l1 = temp_res.next
-            l2 = l1.next
-            temp = l2.next
-            l1.next = temp
+        left = dummy_head
+        right = dummy_head.next
+
+        while left.next and right.next:
+            l1 = left.next
+            l2 = right.next
+            l1.next = l2.next
             l2.next = l1
-            temp_res.next = l2
-            temp_res = l1
+            left.next = l2
+            left = l1
+            right = l1.next
         
         return dummy_head.next

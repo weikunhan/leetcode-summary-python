@@ -13,7 +13,7 @@ class Solution(object):
         
         dummy_head = ListNode(-1)
         dummy_head.next = head
-        left = head
+        left = dummy_head.next
         right = dummy_head
         
         while left and left.next:
