@@ -90,8 +90,6 @@ A greedy algorithm is any algorithm that follows the problem-solving heuristic o
 | 45 | https://leetcode.com/problems/jump-game-ii/ | |
 | 55 | https://leetcode.com/problems/jump-game/ | |
 | 122 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | |
-| 252 | https://leetcode.com/problems/meeting-rooms/ | |
-| 253 | https://leetcode.com/problems/meeting-rooms-ii/ | |
 | 321 | https://leetcode.com/problems/create-maximum-number/ | |
 | 759 | https://leetcode.com/problems/employee-free-time/ | |
 | 860 | https://leetcode.com/problems/lemonade-change/ | |
