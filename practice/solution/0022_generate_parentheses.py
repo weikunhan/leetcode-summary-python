@@ -19,9 +19,7 @@ class Solution(object):
         if not start and not end:
             if value_list:
                 self.res.append(''.join(value_list))
-        
-            return 
-        
+
         if start > 0:
             self.dfs(start - 1, end, value_list + ['('])
             

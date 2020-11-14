@@ -75,7 +75,7 @@ To solve this kind of problem, you need to build a trie. the core content to bui
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 212 | https://leetcode.com/problems/word-search-ii/ | |
+| 212 | https://leetcode.com/problems/word-search-ii/ | [this link](../practice/solution/212_word_search_ii.py) |
 | 425 | https://leetcode.com/problems/word-squares/ | |
 | 720 | https://leetcode.com/problems/longest-word-in-dictionary/ | |
 | 1268 | https://leetcode.com/problems/search-suggestions-system/ | [this link](../practice/solution/1268_search_suggestions_system.py)| 
