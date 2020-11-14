@@ -6,17 +6,11 @@ class Solution(object):
         """
         
         row_end = len(matrix)
+        col_end = len(matrix[0])
         row_start = 0
         col_start = 0
-        col_end = 0
         res = []
         
-        if not matrix:
-   
-            return res
-    
-        col_end = len(matrix[0])
-    
         while row_start < row_end and col_start < col_end:
             for i in range(col_start, col_end):
                 res.append(matrix[row_start][i])
@@ -33,11 +27,11 @@ class Solution(object):
                     res.append(matrix[row_end - 1][i])
                     
             row_end -= 1
-            
+                
             if col_start < col_end:
                 for i in reversed(range(row_start, row_end)):
                     res.append(matrix[i][col_start])
                     
             col_start += 1
-
+            
         return res
