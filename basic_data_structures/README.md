@@ -74,7 +74,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | [this link](../practice/solution/0138_copy_list_with_random_pointer.py) |
 | 143 | https://leetcode.com/problems/reorder-list/ | |
 | 203 | https://leetcode.com/problems/remove-linked-list-elements/ | |
-| 206 | https://leetcode.com/problems/reverse-linked-list/ | |
+| 206 | https://leetcode.com/problems/reverse-linked-list/ | [this link](../practice/solution/206_reverse_linked_list.py) |
 | 237 | https://leetcode.com/problems/delete-node-in-a-linked-list/ | |
 | 328 | https://leetcode.com/problems/odd-even-linked-list/ | |
 | 369 | https://leetcode.com/problems/plus-one-linked-list/ | |
