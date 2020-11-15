@@ -78,7 +78,7 @@ For more information, you need to check related courses and books. Here, I split
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 297 | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ | |
+| 297 | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ | [this link](../practice/solution/0297_serialize_and_deserialize_binary_tree.py) |
 | 449 | https://leetcode.com/problems/serialize-and-deserialize-bst/ | |
 
 ## Heap Sort
