@@ -76,7 +76,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | 203 | https://leetcode.com/problems/remove-linked-list-elements/ | |
 | 206 | https://leetcode.com/problems/reverse-linked-list/ | [this link](../practice/solution/206_reverse_linked_list.py) |
 | 237 | https://leetcode.com/problems/delete-node-in-a-linked-list/ | |
-| 328 | https://leetcode.com/problems/odd-even-linked-list/ | |
+| 328 | https://leetcode.com/problems/odd-even-linked-list/ | [this link](../practice/solution/0328_odd_even_linked_list.py) |
 | 369 | https://leetcode.com/problems/plus-one-linked-list/ | |
 | 445 | https://leetcode.com/problems/add-two-numbers-ii/ | |
 | 708 | https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/ | |
@@ -96,6 +96,7 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 12 | https://leetcode.com/problems/integer-to-roman/ | [this link](../practice/solution/0012_integer_to_roman.py)|
 | 65 | https://leetcode.com/problems/valid-number/ | [this link](../practice/solution/0065_valid_number.py) |
 | 93 | https://leetcode.com/problems/restore-ip-addresses/ | [this link](../practice/solution/0093_restore_ip_addresses.py) |
+| 151 | https://leetcode.com/problems/reverse-words-in-a-string/ | [this link](../practice/solution/0151_reverse_words_in_a_string.py) |
 | 165 | https://leetcode.com/problems/compare-version-numbers/ | |
 | 242 | https://leetcode.com/problems/valid-anagram/ | |
 | 387 | https://leetcode.com/problems/first-unique-character-in-a-string/ | |
