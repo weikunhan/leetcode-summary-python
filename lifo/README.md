@@ -20,7 +20,7 @@ The time complexity of the stack is Push-Top O(1) and Pop-Top O(1). The Space co
 | 84 | https://leetcode.com/problems/largest-rectangle-in-histogram/ | |
 | 85 | https://leetcode.com/problems/maximal-rectangle/ | |
 | 150 | https://leetcode.com/problems/evaluate-reverse-polish-notation/ | [this link](../practice/solution/0150_evaluate_reverse_polish_notation.py) |
-| 224 | https://leetcode.com/problems/basic-calculator/ | [this link](../practice/solution/0227_basic_calculator_ii.py) |
+| 224 | https://leetcode.com/problems/basic-calculator/ | |
 | 227 | https://leetcode.com/problems/basic-calculator-ii/ | [this link](../practice/solution/0227_basic_calculator_ii.py) |
 | 394 | https://leetcode.com/problems/decode-string/ | [this link](../practice/solution/0394_decode_string.py) |
 | 456 | https://leetcode.com/problems/132-pattern/ | |
