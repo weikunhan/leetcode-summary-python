@@ -106,7 +106,7 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 419 | https://leetcode.com/problems/battleships-in-a-board/ | |
 | 468 | https://leetcode.com/problems/validate-ip-address/ | |
 | 640 | https://leetcode.com/problems/solve-the-equation/ | |
-| 678 | https://leetcode.com/problems/valid-parenthesis-string/ | |
+| 678 | https://leetcode.com/problems/valid-parenthesis-string/ | [this link](../practice/solution/0678_valid_parenthesis_string.py) |
 | 796 | https://leetcode.com/problems/rotate-string/ | |
 | 806 | https://leetcode.com/problems/number-of-lines-to-write-string/ | |
 | 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | [this link](../practice/solution/0937_reorder_data_in_log_files.py) |
