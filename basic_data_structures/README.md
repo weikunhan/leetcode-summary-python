@@ -41,6 +41,7 @@ For programming practice, you need to know how to: 1)iterate through 1D array, 2
 | 628 | https://leetcode.com/problems/maximum-product-of-three-numbers/ | [this link](../practice/solution/0628_maximum_product_of_three_numbers.py) |
 | 759 | https://leetcode.com/problems/employee-free-time/ | [this link](../practice/solution/0759_employee_free_time.py) |
 | 766 | https://leetcode.com/problems/toeplitz-matrix/ | [this link](../practice/solution/0766_toeplitz_matrix.py) |
+| 794 | https://leetcode.com/problems/valid-tic-tac-toe-state/ | [this link](../practice/solution/0794_valid_tic_tac_toe_state.py) |
 | 836 | https://leetcode.com/problems/rectangle-overlap/ | [this link](../practice/solution/0836_rectangle_overlap.py) | 
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | [this link](../practice/solution/0945_minimum_increment_to_make_array_unique.py) |
 | 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | [this link](../practice/solution/0957_prison_cells_after_n_days.py) |
