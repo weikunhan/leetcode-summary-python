@@ -40,7 +40,7 @@ class Solution(object):
         if -3 in set(row_value_list) or -3 in set(col_value_list) or diagonal_value == -3 or anti_diagonal_value == -3:
              o_value = True   
         
-        if (x_value and o_value) or (trun_value != 1 and trun_value !=0 ) or (x_value and trun_value == 0 ) or (o_value and trun_value == 1):
+        if (x_value and o_value) or (trun_value != 1 and trun_value !=0) or (x_value and trun_value == 0) or (o_value and trun_value == 1):
             
             return res
         
