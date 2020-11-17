@@ -89,7 +89,7 @@ For this kind of quesiton, you need to know what is knapsack problem: a problem 
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 322 | https://leetcode.com/problems/coin-change/ | |
+| 322 | https://leetcode.com/problems/coin-change/ | [this link](../practice/solution/0322_coin_change.py) |
 | 474 | https://leetcode.com/problems/ones-and-zeroes/ | |
 | 1155 | https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ | |
 | 1155* | https://www.1point3acres.com/bbs/thread-606351-1-1.html | |
