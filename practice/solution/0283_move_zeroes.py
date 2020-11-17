@@ -10,8 +10,8 @@ class Solution(object):
         
         while right < len(nums):
             if nums[right]:
-                # temp =  nums[right]
-                # nums[right] =  nums[left]
+                # temp = nums[right]
+                # nums[right] = nums[left]
                 # nums[left] = temp
                 nums[right], nums[left] = nums[left], nums[right]
                 left += 1
