@@ -15,6 +15,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 17 | https://leetcode.com/problems/letter-combinations-of-a-phone-number/ | [this link](../practice/solution/0017_letter_combinations_of_a_phone_number.py) |
 | 22 | https://leetcode.com/problems/generate-parentheses/ | [this link](../practice/solution/0022_generate_parentheses.py) |
 | 46 | https://leetcode.com/problems/permutations/ | [this link](../practice/solution/0046_permutations.py) |
+| 47 | https://leetcode.com/problems/permutations-ii/ | [this link](../practice/solution/0047_permutations_ii.py) |
 | 273 | https://leetcode.com/problems/integer-to-english-words/| [this link](../practice/solution/0273_integer_to_english_words.py) |
 | 339 | https://leetcode.com/problems/nested-list-weight-sum/ | |
 | 364 | https://leetcode.com/problems/nested-list-weight-sum-ii/ | |
