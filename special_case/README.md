@@ -105,7 +105,7 @@ To solve this kind of problem, you need two steps: 1)initial graph, 2)use BFS to
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 207 | https://leetcode.com/problems/course-schedule/ | |
+| 207 | https://leetcode.com/problems/course-schedule/ | [this link](../practice/solution/0207_course_schedule.py) |
 | 210 | https://leetcode.com/problems/course-schedule-ii/ | [this link](../practice/solution/0210_course_schedule_ii.py)|
 | 269 | https://leetcode.com/problems/alien-dictionary/ | |
 | 310 | https://leetcode.com/problems/minimum-height-trees/ | |
