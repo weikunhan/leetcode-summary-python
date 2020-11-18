@@ -64,7 +64,7 @@ For more information, you need to check related courses and books. Here, I split
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 155 | https://leetcode.com/problems/min-stack/ | |
+| 155 | https://leetcode.com/problems/min-stack/ | [this link](../practice/solution/0155_min_stack.py) |
 | 173 | https://leetcode.com/problems/binary-search-tree-iterator/ | [this link](../practice/solution/0173_binary_search_tree_iterator.py) |
 | 232 | https://leetcode.com/problems/implement-queue-using-stacks/ | |
 | 251 | https://leetcode.com/problems/flatten-2d-vector/ | | 
