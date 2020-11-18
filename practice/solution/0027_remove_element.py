@@ -6,15 +6,20 @@ class Solution(object):
         :rtype: int
         """
     
-        count = 0
+        left = 0
+        right = 0
         res = 0
         
-        for i in range(len(nums)):
-            if nums[i] == val:
-                count += 1
-            else: 
-                nums[i - count] = nums[i]
+        while right < len(nums):
+            if nums[right] != val:
+                # temp = nums[right]
+                # nums[right] =  nums[left]
+                # nums[left] = temp
+                nums[right], nums[left] = nums[left], nums[right]
+                left += 1                
         
-        res = len(nums) - count
+            right += 1
+
+        res = left
         
         return res
