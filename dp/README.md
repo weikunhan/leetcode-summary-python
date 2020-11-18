@@ -90,6 +90,7 @@ For this kind of quesiton, you need to know what is knapsack problem: a problem 
 | ---- | --------------------------------- | --------------------------------- |
 | 198 | https://leetcode.com/problems/house-robber/ | [this link](../practice/solution/0198_house_robber.py) |
 | 256 | https://leetcode.com/problems/paint-house/ | [this link](../practice/solution/0256_paint_house.py) |
+| 279 | https://leetcode.com/problems/perfect-squares/ | [this link](../practice/solution/0279_perfect_squares.py) |
 | 322 | https://leetcode.com/problems/coin-change/ | [this link](../practice/solution/0322_coin_change.py) |
 | 474 | https://leetcode.com/problems/ones-and-zeroes/ | |
 | 1155 | https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ | |

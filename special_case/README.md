@@ -58,7 +58,6 @@ There are few problems that are related to mathematical. You should familiar wit
 | 633 | https://leetcode.com/problems/sum-of-square-numbers/ | |
 | 650 | https://leetcode.com/problems/2-keys-keyboard/ | |
 | 780 | https://leetcode.com/problems/reaching-points/ | |
-| 794 | https://leetcode.com/problems/valid-tic-tac-toe-state/ | |
 | 866 | https://leetcode.com/problems/prime-palindrome/ | |
 | 991 | https://leetcode.com/problems/broken-calculator/ | |
 | 1131 | https://leetcode.com/problems/maximum-of-absolute-value-expression/ | |
