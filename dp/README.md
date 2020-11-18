@@ -36,7 +36,6 @@ For this kind of question, you need to use 1D DP array to transfer state when de
 | 123 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ | |
 | 135 | https://leetcode.com/problems/candy/ | |
 | 152 | https://leetcode.com/problems/maximum-product-subarray/ | |
-| 256 | https://leetcode.com/problems/paint-house/ | [this link](../practice/solution/0256_paint_house.py) |
 | 309 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/ | |
 | 821 | https://leetcode.com/problems/shortest-distance-to-a-character/ | |
 | 978 | https://leetcode.com/problems/longest-turbulent-subarray/ | |
@@ -89,6 +88,7 @@ For this kind of quesiton, you need to know what is knapsack problem: a problem 
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 256 | https://leetcode.com/problems/paint-house/ | [this link](../practice/solution/0256_paint_house.py) |
 | 322 | https://leetcode.com/problems/coin-change/ | [this link](../practice/solution/0322_coin_change.py) |
 | 474 | https://leetcode.com/problems/ones-and-zeroes/ | |
 | 1155 | https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ | |
