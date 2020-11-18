@@ -25,16 +25,16 @@ class Solution(object):
             temp_value = len(value_list)
             
             for _ in range(temp_value):
-                b = value_list.popleft()
-                res.append(b)
+                temp_node = value_list.popleft()
+                res.append(temp_node)
                 
-                for a in value_graph[b]:
-                    degree_value_list[a] -= 1
-
-                    if not degree_value_list[a]:
-                        value_list.append(a)
-
+                for neighbor in value_graph[temp_node]:
+                    degree_value_list[neighbor] -= 1
+                    
+                    if not degree_value_list[neighbor]:
+                        value_list.append(neighbor)
+                    
         if len(res) != numCourses:
             res = []
                     
-        return res
+        return res     
