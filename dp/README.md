@@ -32,7 +32,7 @@ For this kind of question, you need to use 1D DP array to transfer state when de
 | ---- | --------------------------------- | --------------------------------- |
 | 53 | https://leetcode.com/problems/maximum-subarray/ | [this link](../practice/solution/0053_maximum_subarray.py) |
 | 91 | https://leetcode.com/problems/decode-ways/ | [this link](../practice/solution/0091_decode_ways.py) |
-| 121 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | |
+| 121 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | [this link](../practice/solution/0121_best_time_to_buy_and_sell_stock.py) |
 | 123 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ | |
 | 135 | https://leetcode.com/problems/candy/ | |
 | 152 | https://leetcode.com/problems/maximum-product-subarray/ | |
