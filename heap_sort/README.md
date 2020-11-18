@@ -11,7 +11,7 @@ In computer science, a heap is a specialized tree-based data structure which is 
 
 This type of problem includes: find the kth smallest problem, find the kth rare problem， find minimum cost problem
 
-The time complexity of the min heap is Search-Min O(1), Insert O(log(n), and Delete-Min O(log(n)). The space complexity of the min heap is O(n). 
+The time complexity of the min heap is Search-Min O(1), Insert O(log(n)), and Delete-Min O(log(n)). The space complexity of the min heap is O(n). 
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -28,7 +28,7 @@ Since Python's heapq implementation does not have built in support for max heap,
 
 This type of problem includes: find the kth largest problem, find the kth frequently problem, find maximum profit problem
 
-The time complexity of the max heap is Search-Min O(1), Insert O(log(n), and Delete-Min O(log(n)). The Space complexity of the max heap is O(n). 
+The time complexity of the max heap is Search-Min O(1), Insert O(log(n)), and Delete-Min O(log(n)). The Space complexity of the max heap is O(n). 
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |

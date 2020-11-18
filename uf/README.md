@@ -7,7 +7,11 @@ The following questions, I prefer to solve by using Union-Find. It may have the 
 
 ## Graph
 
+In computer science, a disjoint-set data structure, also called a union–find data structure or merge–find set, is a data structure that stores a collection of disjoint (non-overlapping) sets. Equivalently, it stores a partition of a set into disjoint subsets. It provides operations for adding new sets, merging sets (replacing them by their union), and finding a representative member of a set. The last operation allows to find out efficiently if any two elements are in the same or different sets. [Wikipedia](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+
 This type of problem includes: find connections problem, find minimum cost problem
+
+The time complexity of the union-find is (log*(n)).
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -19,7 +23,11 @@ This type of problem includes: find connections problem, find minimum cost probl
 
 ## 2D Array
 
+By using a hash table, some 2D array question can use union-find to solve.
+
 This type of problem includes: find share points problem
+
+The time complexity of the union-find is (log*(n)).
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |

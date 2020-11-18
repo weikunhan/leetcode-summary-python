@@ -1,6 +1,6 @@
 # Special Case
 
-The following questions, I prefer to solve by some not commonly used methods. If you interest more about those methods, please find more material about this method.
+The following questions, I prefer to solve by some not commonly used methods. If you interest in more about those methods, please find more material about this method.
 
 * [Two Sum](##Two-Sum)
 * [Sliding Window](##Sliding-Window)
@@ -41,7 +41,7 @@ Sliding Window problem is a variation of Two Pointers. The main difference betwe
 
 ## Math
 
-There are few problems are related to mathematical. You should familiar with common methods to play mathematical in computer science. For example, to identify whether a natural number is a prime number, just look at whether it is from 2 to the root N (forgive me for expressing this) whether it can be divided by N.
+There are few problems are related to mathematical. You should familiar with common methods to play mathematical in computer science. For example, to identify whether a natural number is a prime number, just look at whether it is from 2 to the root N whether it can be divided by N.
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -69,9 +69,9 @@ There are few problems are related to mathematical. You should familiar with com
 
 ## Prefix Tree
 
-In computer science, a trie, also called digital tree or prefix tree, is a kind of search tree—an ordered tree data structure used to store a dynamic set or associative array where the keys are usually strings. [Wikipedia](https://en.wikipedia.org/wiki/Trie)
+In computer science, a trie, also called digital tree or prefix tree, is a kind of search tree—an ordered tree data structure used to store a dynamic set or associative array where the keys are usually strings. Unlike a binary search tree, no node in the tree stores the key associated with that node; instead, its position in the tree defines the key with which it is associated; i.e., the value of the key is distributed across the structure. All the descendants of a node have a common prefix of the string associated with that node, and the root is associated with the empty string. Keys tend to be associated with leaves, though some inner nodes may correspond to keys of interest. Hence, keys are not necessarily associated with every node. For the space-optimized presentation of prefix tree, see compact prefix tree. [Wikipedia](https://en.wikipedia.org/wiki/Trie)
 
-To solve this kind of problem, you need to build a trie. the core content to build trie: 1) insert function, 2) search function. Please prepare the template for this kind of problem. 
+To solve this kind of problem, you need to build a trie. The core content to build trie: 1) insert function, 2) search function. Please prepare the template for this kind of problem. 
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -83,6 +83,8 @@ To solve this kind of problem, you need to build a trie. the core content to bui
 ## Greedy
 
 A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage with the intent of finding a global optimum. In many problems, a greedy strategy does not usually produce an optimal solution, but nonetheless a greedy heuristic may yield locally optimal solutions that approximate a globally optimal solution in a reasonable amount of time. [Wikipedia](https://en.wikipedia.org/wiki/Greedy_algorithm)
+
+To solve this kind of problem, you could reference example like the travelling salesman problem.
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -97,9 +99,9 @@ A greedy algorithm is any algorithm that follows the problem-solving heuristic o
 
 ## Topological Sort
 
-In computer science, a topological sort or topological ordering of a directed graph is a linear ordering of all vertices of a directed acyclic graph (its vertices such that for every directed edge uv from vertex u to vertex v, u comes before v in the ordering) [Wikipedia](https://en.wikipedia.org/wiki/Topological_sorting)
+In computer science, a topological sort or topological ordering of a directed graph is a linear ordering of its vertices such that for every directed edge uv from vertex u to vertex v, u comes before v in the ordering. For instance, the vertices of the graph may represent tasks to be performed, and the edges may represent constraints that one task must be performed before another; in this application, a topological ordering is just a valid sequence for the tasks. A topological ordering is possible if and only if the graph has no directed cycles, that is, if it is a directed acyclic graph (DAG). [Wikipedia](https://en.wikipedia.org/wiki/Topological_sorting)
 
-To solve this kind of problem, you need two steps: 1)initial graph, 2)prune graph
+To solve this kind of problem, you need two steps: 1)initial graph, 2)use BFS to prune graph.
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -110,9 +112,9 @@ To solve this kind of problem, you need two steps: 1)initial graph, 2)prune grap
 
 ## Binary Indexed Tree
 
-A Fenwick tree or binary indexed tree is a data structure that can efficiently update elements and calculate prefix sums in a table of numbers. [Wikipedia](https://en.wikipedia.org/wiki/Fenwick_tree)
+A Fenwick tree or binary indexed tree is a data structure that can efficiently update elements and calculate prefix sums in a table of numbers. This structure was proposed by Boris Ryabko in 1989 with a further modification published in 1992. It has subsequently become known under the name Fenwick tree after Peter Fenwick who described this structure in his 1994 paper. When compared with a flat array of numbers, the Fenwick tree achieves a much better balance between two operations: element update and prefix sum calculation. In a flat array of n numbers, you can either store the elements, or the prefix sums. In the first case, computing prefix sums requires linear time; in the second case, updating the array elements requires linear time (in both cases, the other operation can be performed in constant time). Fenwick trees allow both operations to be performed in O(log n) time. [Wikipedia](https://en.wikipedia.org/wiki/Fenwick_tree)
 
-For my understanding, the binary indexed tree is another evolution from divided DP. However, when you want to change the preprocessing sum in divided DP, it takes O(n) time, which is not efficient in some cases. Then you may need to choose the binary indexed tree. 
+From my understanding, the binary indexed tree is another evolution from divided DP. However, when you want to change the preprocessing sum in divided DP, it takes O(n) time, which is not efficient in some cases. Then you may need to choose the binary indexed tree. 
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
