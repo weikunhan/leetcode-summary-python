@@ -19,6 +19,6 @@ class Solution(object):
             dp_list[i] = max(dp_list[i - 1], prices[i] - temp_value)
             temp_value = min(temp_value, prices[i])
         
-        res = max(dp_list)
+        res = dp_list[-1]
 
         return res
