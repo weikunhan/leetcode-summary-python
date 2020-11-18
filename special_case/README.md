@@ -24,7 +24,7 @@ Two Sum related problems can simply solve using Two Pointers. I would like to ma
 
 ## Sliding Window
 
-Sliding Window problem is a variation of Two Pointers. The main difference between with Two Pointers is that Sliding Window usually requires a hash table to count occurrence times. Therefore, for some situations, the Sliding window is reduced complexity compared with directly using Two Pointers. 
+The sliding window algorithm can be used to solve the problem of array/string sub-elements. It can convert the nested loop problem into a single loop problem and reduce the time complexity. For the template for this kind of problem, you need a hash map or hash set and Two Pointers.
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -41,7 +41,7 @@ Sliding Window problem is a variation of Two Pointers. The main difference betwe
 
 ## Math
 
-There are few problems are related to mathematical. You should familiar with common methods to play mathematical in computer science. For example, to identify whether a natural number is a prime number, just look at whether it is from 2 to the root N whether it can be divided by N.
+There are few problems that are related to mathematical. You should familiar with common methods to play mathematical in computer science. For example, to identify whether a natural number is a prime number, just look at whether it is from 2 to the root N whether it can be divided by N.
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
