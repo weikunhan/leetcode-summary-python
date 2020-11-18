@@ -17,8 +17,8 @@ Two Sum related problems can simply solve using Two Pointers. I would like to ma
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 1 | https://leetcode.com/problems/two-sum/ | [this link](../practice/solution/0001_two_sum.py) |
-| 1* | https://leetcode.com/discuss/interview-question/356960 | [this link](../practice/amazon/find_pair_with_given_sum.py) |
-| 1* | https://leetcode.com/discuss/interview-question/372434 | [this link](../practice/amazon/two_sum_unique_pairs.py) |
+| 1* | https://leetcode.com/discuss/interview-question/356960 | [this link](../practice/a/find_pair_with_given_sum.py) |
+| 1* | https://leetcode.com/discuss/interview-question/372434 | [this link](../practice/a/two_sum_unique_pairs.py) |
 | 167 | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | [this link](../practice/solution/0167_two_sum_ii_input_array_is_sorted.py) |
 | 454 | https://leetcode.com/problems/4sum-ii/ | |
 
@@ -29,12 +29,12 @@ The sliding window algorithm can be used to solve the problem of array/string su
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 3 | https://leetcode.com/problems/longest-substring-without-repeating-characters/ | [this link](../practice/solution/0003_longest_substring_without_repeating_characters.py) |
-| 30 | https://leetcode.com/problems/substring-with-concatenation-of-all-words/ | [this link](../practice/solution/0030_substring_with_concatenation_of_all_words.py) |
+| 30 | https://leetcode.com/problems/substring-with-concatenation-of-all-words/ | |
 | 76 | https://leetcode.com/problems/minimum-window-substring/ | |
 | 438 | https://leetcode.com/problems/find-all-anagrams-in-a-string/ | |
 | 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | |
 | 992* | https://leetcode.com/discuss/interview-question/370157 | [this link](../practice/a/substrings_with_exactly_k_distinct_chars.py) |
-| 992* | https://leetcode.com/discuss/interview-question/370112 | [this link](../practice/amazon/substrings_of_size_k_with_k_distinct_chars.py) |
+| 992* | https://leetcode.com/discuss/interview-question/370112 | [this link](../practice/a/substrings_of_size_k_with_k_distinct_chars.py) |
 | 995 | https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/ | |
 | 1100 | https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/ | |
 | 1052 | https://leetcode.com/problems/grumpy-bookstore-owner/ | |
@@ -45,8 +45,8 @@ There are few problems that are related to mathematical. You should familiar wit
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 7 | https://leetcode.com/problems/reverse-integer/ | [this link](../practice/solution/0007_reverse_integer.py) |
-| 9 | https://leetcode.com/problems/palindrome-number/ | [this link](../practice/solution/0009_palindrome_number.py) |
+| 7 | https://leetcode.com/problems/reverse-integer/ | |
+| 9 | https://leetcode.com/problems/palindrome-number/ | |
 | 50 | https://leetcode.com/problems/powx-n/ | [this link](../practice/solution/0050_powx_n.py) | 
 | 69 | https://leetcode.com/problems/sqrtx/ | |
 | 289 | https://leetcode.com/problems/game-of-life/ | |
@@ -57,7 +57,7 @@ There are few problems that are related to mathematical. You should familiar wit
 | 492 | https://leetcode.com/problems/construct-the-rectangle/ | |
 | 633 | https://leetcode.com/problems/sum-of-square-numbers/ | |
 | 650 | https://leetcode.com/problems/2-keys-keyboard/ | |
-| 780 | https://leetcode.com/problems/reaching-points/ | [this link](../practice/solution/0780_reaching_points.py) |
+| 780 | https://leetcode.com/problems/reaching-points/ | |
 | 794 | https://leetcode.com/problems/valid-tic-tac-toe-state/ | |
 | 866 | https://leetcode.com/problems/prime-palindrome/ | |
 | 991 | https://leetcode.com/problems/broken-calculator/ | |
