@@ -57,8 +57,7 @@ class Solution(object):
             return res
         
         for i in range(1, max_length + 1):
-            if i in count_value_dict:
-                presum_value_list[i] = presum_value_list[i - 1] + count_value_dict[i]
+            presum_value_list[i] = presum_value_list[i - 1] + count_value_dict[i]
 
         for state, capacity in pair_value_list:
             window_value = min(state, max_length)
