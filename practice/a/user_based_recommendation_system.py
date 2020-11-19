@@ -26,7 +26,8 @@ Input:
 userVideos = {
     "David": ["Django Unchained", "Fight Club", "Inception"],
     "Emma": ["Predators", "Forrest Gump", "Alien"],
-    "Jack": ["Fight Club", "The Shawshank Redemption", "Life Is Beautiful", "Back to the Future", "Forrest Gump", "Alien"]}
+    "Jack": ["Fight Club", "The Shawshank Redemption", "Life Is Beautiful", 
+             "Back to the Future", "Forrest Gump", "Alien"]}
 userFriends = {
     "David": ["Emma", "Jack"],
     "Emma": ["David"],
