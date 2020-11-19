@@ -52,7 +52,7 @@ class Solution(object):
         
         target -= 30
         value_dict = {}
-        max_length = -1
+        max_value = -1
         res = [-1, -1]
         
         for i in range(len(nums)):
@@ -61,10 +61,10 @@ class Solution(object):
             if not nums[i] in value_dict:
                 value_dict[temp_value] = i
             else:
-                if nums[i] > max_length or temp_value > max_length:
+                if nums[i] > max_value or temp_value > max_value:
                     res[0] = value_dict[nums[i]]
                     res[1] = i
-                    max_length = temp_value
+                    max_value = temp_value
         
         return res
 
