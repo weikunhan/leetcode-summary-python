@@ -15,7 +15,8 @@ class Solution(object):
             for i in range(1, len(value_list) - 1):
                 if res[i - 1] < res[i] > res[i + 1]:
                     value_list[i] -= 1
-                elif res[i - 1] > res[i] < res[i + 1]:
+                
+                if res[i - 1] > res[i] < res[i + 1]:
                     value_list[i] += 1
                     
         return res
