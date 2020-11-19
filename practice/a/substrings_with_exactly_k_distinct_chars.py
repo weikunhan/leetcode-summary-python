@@ -49,12 +49,12 @@ class Solution(object):
 
     def helper(self, s, max_length):
         value_dict = collections.Counter()
-        right = 1
+        right = 0
         left = 0
         count = 0
 
-        while right < len(s) + 1:
-            temp_value = s[right - 1]
+        while right < len(s):
+            temp_value = s[right]
             value_dict[temp_value] += 1
 
             if value_dict[temp_value] == 1:
@@ -69,7 +69,7 @@ class Solution(object):
 
                 left += 1
             
-            count += right - left
+            count += right - left + 1
             right += 1
 
         return count
