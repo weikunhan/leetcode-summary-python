@@ -32,7 +32,7 @@ The sliding window algorithm can be used to solve the problem of array/string su
 | 30 | https://leetcode.com/problems/substring-with-concatenation-of-all-words/ | |
 | 76 | https://leetcode.com/problems/minimum-window-substring/ | |
 | 438 | https://leetcode.com/problems/find-all-anagrams-in-a-string/ | |
-| 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | |
+| 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | [this link](../practice/solution/0992_subarrays_with_k_different_integers.py) |
 | 992* | https://leetcode.com/discuss/interview-question/370157 | [this link](../practice/a/substrings_with_exactly_k_distinct_chars.py) |
 | 992* | https://leetcode.com/discuss/interview-question/370112 | [this link](../practice/a/substrings_of_size_k_with_k_distinct_chars.py) |
 | 995 | https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/ | |
