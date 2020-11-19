@@ -26,9 +26,11 @@ The time complexity of the hash map is O(1) (Search O(1), Insert O(1), Delete O(
 | 451 | https://leetcode.com/problems/sort-characters-by-frequency/ | |
 | 532 | https://leetcode.com/problems/k-diff-pairs-in-an-array/ | |
 | 554 | https://leetcode.com/problems/brick-wall/ | [this link](../practice/solution/0554_brick_wall.py) |
+| 560 | https://leetcode.com/problems/subarray-sum-equals-k/ | [this link](../practice/solution/0560_subarray_sum_equals_k.py) |
 | 697 | https://leetcode.com/problems/degree-of-an-array/ | |
 | 953 | https://leetcode.com/problems/verifying-an-alien-dictionary/ | |
 | 963 | https://leetcode.com/problems/minimum-area-rectangle-ii/ | |
+| 974 | https://leetcode.com/problems/subarray-sums-divisible-by-k/ | [this link](../practice/solution/0974_subarray_sums_divisible_by_k.py) |
 | 1138 | https://leetcode.com/problems/alphabet-board-path/ | |
 | 1207 | https://leetcode.com/problems/unique-number-of-occurrences/ | |
 | 1570 | https://leetcode.com/problems/dot-product-of-two-sparse-vectors/ | [this link](../practice/solution/1570_dot_product_of_two_sparse_vectors.py) |
