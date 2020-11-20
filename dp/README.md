@@ -93,6 +93,7 @@ For this kind of quesiton, you need to know what is knapsack problem: a problem 
 | 279 | https://leetcode.com/problems/perfect-squares/ | [this link](../practice/solution/0279_perfect_squares.py) |
 | 322 | https://leetcode.com/problems/coin-change/ | [this link](../practice/solution/0322_coin_change.py) |
 | 474 | https://leetcode.com/problems/ones-and-zeroes/ | |
+| 1049 | https://leetcode.com/problems/last-stone-weight-ii/ | [this link](../practice/solution/1049_last_stone_weight_ii.py) |
 | 1155 | https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/ | |
 | 1155* | https://www.1point3acres.com/bbs/thread-606351-1-1.html | |
 
