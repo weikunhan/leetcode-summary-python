@@ -19,7 +19,8 @@ The time complexity of this technique depends on the question.
 | 15 | https://leetcode.com/problems/3sum/ | [this link](../practice/solution/0015_3sum.py) |
 | 16 | https://leetcode.com/problems/3sum-closest/ | [this link](../practice/solution/0016_3sum_closest.py) |
 | 18 | https://leetcode.com/problems/4sum/ | [this link](../practice/solution/0018_4sum.py) |
-| 27 | https://leetcode.com/problems/remove-element/ | [this link](../practice/solution/0027_remove_element.py) | 
+| 27 | https://leetcode.com/problems/remove-element/ | [this link](../practice/solution/0027_remove_element.py) |
+| 31 | https://leetcode.com/problems/next-permutation/ | [this link](../practice/solution/0031_next_permutation.py) |  
 | 75 | https://leetcode.com/problems/sort-colors/ | [this link](../practice/solution/0075_sort_colors.py) |
 | 283 | https://leetcode.com/problems/move-zeroes/ | [this link](../practice/solution/0283_move_zeroes.py) |
 | 881 | https://leetcode.com/problems/boats-to-save-people/ | |
