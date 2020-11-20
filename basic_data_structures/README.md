@@ -102,6 +102,7 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 125 | https://leetcode.com/problems/valid-palindrome/ | [this link](../practice/solution/0125_valid_palindrome.py) |
 | 151 | https://leetcode.com/problems/reverse-words-in-a-string/ | [this link](../practice/solution/0151_reverse_words_in_a_string.py) |
 | 165 | https://leetcode.com/problems/compare-version-numbers/ | |
+| 179 | https://leetcode.com/problems/largest-number/ | [this link](../practice/solution/0179_largest_number.py) |
 | 242 | https://leetcode.com/problems/valid-anagram/ | |
 | 387 | https://leetcode.com/problems/first-unique-character-in-a-string/ | |
 | 405 | https://leetcode.com/problems/convert-a-number-to-hexadecimal/ | |
