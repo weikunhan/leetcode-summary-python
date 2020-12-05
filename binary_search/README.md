@@ -9,9 +9,9 @@ The following questions, I prefer to solve by using Binary Search. It may have t
 
 In computer science, binary search, also known as half-interval search, logarithmic search, or binary chop, is a search algorithm that finds the position of a target value within a sorted array. Binary search compares the target value to the middle element of the array. If they are not equal, the half in which the target cannot lie is eliminated and the search continues on the remaining half, again taking the middle element to compare to the target value, and repeating this until the target value is found. If the search ends with the remaining half being empty, the target is not in the array.[Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
-This type of problem includes: search target value in sorted array problem, search target value in sorted rotated array problem, find longest increasing subsequence problem (patience sorting)
+This type of problem includes: search target value in sorted array problem, insert target value into sorted array problem, search target value in sorted rotated array problem, find longest increasing subsequence problem (patience sorting)
 
-The time complexity of the binary seasrch in sorted array is O(log(n)
+The time complexity of the binary seasrch in sorted array is O(log(n)）
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
@@ -19,6 +19,7 @@ The time complexity of the binary seasrch in sorted array is O(log(n)
 | 33 | https://leetcode.com/problems/search-in-rotated-sorted-array/ | [this link](../practice/solution/0033_search_in_rotated_sorted_array.py) |
 | 81 | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ | [this link](../practice/solution/0081_search_in_rotated_sorted_array_ii.py) |
 | 153 | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ | [this link](../practice/solution/0153_find_minimum_in_rotated_sorted_array.py) |
+| 278 | https://leetcode.com/problems/first-bad-version/ | [this link](../practice/solution/0278_first_bad_version.py) | 
 | 300 | https://leetcode.com/problems/longest-increasing-subsequence/ | [this link](../practice/solution/0300_longest_increasing_subsequence.py) |
 | 410 | https://leetcode.com/problems/split-array-largest-sum/ | |
 | 540 | https://leetcode.com/problems/single-element-in-a-sorted-array/ | [this link](../practice/solution/0540_single_element_in_a_sorted_array.py) |
