@@ -51,6 +51,7 @@ For programming practice, you need to know how to: 1)iterate through 1D array, 2
 | 1031 | https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/ | [this link](../practice/solution/1031_maximum_sum_of_two_non_overlapping_subarrays.py) |
 | 1243 | https://leetcode.com/problems/array-transformation/ | [this link](../practice/solution/1243_array_transformation.py) |
 | 1356 | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ | [this link](../practice/solution/1356_sort_integers_by_the_number_of_1_bits.py) |
+| 1428 | https://leetcode.com/problems/leftmost-column-with-at-least-a-one/ | [this link](../practice/solution/1428_leftmost_column_with_at_least_a_one.py) |
 | | https://www.1point3acres.com/bbs/thread-642190-1-1.html | [this link](../practice/others/min_cost_to_racing_track_end.py) |
 | | https://www.1point3acres.com/bbs/thread-592043-1-1.html | [this link](../practice/others/subsequence_removal.py) |
 | | https://www.1point3acres.com/bbs/thread-592043-1-1.html | [this link](../practice/others/subsequence_removal_ii.py) | 
