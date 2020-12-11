@@ -5,22 +5,18 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        value_list = digits
-        res = []
+        res = digits
         
-        for i in reversed(range(len(value_list))):
-            if value_list[i] < 9:
-                value_list[i] += 1
-                res = value_list
+        for i in reversed(range(len(digits))):
+            if res[i] < 9:
+                res[i] += 1
                 
                 return res
             else:
-                value_list[i] = 0
+                res[i] = 0
                 
-        if not value_list[0]:
-            res = [1] + value_list
-        else:
-            res = value_list
+        if not res[0]:
+            res.insert(0, 1)
             
         return res
         
