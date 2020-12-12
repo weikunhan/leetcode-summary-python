@@ -89,9 +89,9 @@ To solve this kind of problem, you could reference example like the travelling s
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 41 | https://leetcode.com/problems/first-missing-positive/ | |
-| 45 | https://leetcode.com/problems/jump-game-ii/ | |
+| 45 | https://leetcode.com/problems/jump-game-ii/ | [this link](../practice/solution/0045_jump_game_ii.py) |
 | 55 | https://leetcode.com/problems/jump-game/ | [this link](../practice/solution/0055_jump_game.py) |
-| 122 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | [this link](../practice/solution/0045_jump_game_ii.py) |
+| 122 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ |  |
 | 321 | https://leetcode.com/problems/create-maximum-number/ | |
 | 759 | https://leetcode.com/problems/employee-free-time/ | |
 | 860 | https://leetcode.com/problems/lemonade-change/ | |
