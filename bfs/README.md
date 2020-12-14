@@ -19,6 +19,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 854 | https://leetcode.com/problems/k-similar-strings/ | |
 | 1236 | https://leetcode.com/problems/web-crawler/ | [this link](../practice/solution/1236_web_crawler.py) |
 | 1242 | https://leetcode.com/problems/web-crawler-multithreaded/ | [this link](../practice/solution/1242_web_crawler_multithreaded.py) | 
+| 1306 | https://leetcode.com/problems/jump-game-iii/ | [this link](../practice/solution/1306_jump_game_iii.py) |
 | 1345 | https://leetcode.com/problems/jump-game-iv/ | |
 
 ## 2D Array
