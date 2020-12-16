@@ -8,19 +8,19 @@ class Solution(object):
         
         left_value_list = []
         right_value_list = []
-        start_value = newInterval[0]
-        end_value = newInterval[1]
+        start = newInterval[0]
+        end = newInterval[1]
         res = []    
         
         for interval in intervals:
-            if interval[0] > end_value:
+            if interval[0] > end:
                 right_value_list.append(interval)
-            elif interval[1] < start_value:
+            elif interval[1] < start:
                 left_value_list.append(interval)
             else:
-                start_value = min(start_value, interval[0])
-                end_value = max(end_value, interval[1])
+                start = min(start, interval[0])
+                end = max(end, interval[1])
                 
-        res = left_value_list + [[start_value, end_value]] + right_value_list
+        res = left_value_list + [[start, end]] + right_value_list
         
         return res
