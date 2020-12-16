@@ -27,7 +27,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 490 | https://leetcode.com/problems/the-maze/ | |
+| 490 | https://leetcode.com/problems/the-maze/ | [this link](../practice/solution/0490_the_maze.py) |
 | 542 | https://leetcode.com/problems/01-matrix/ | |
 | 773 | https://leetcode.com/problems/sliding-puzzle/ | |
 | 909 | https://leetcode.com/problems/snakes-and-ladders/ | |
