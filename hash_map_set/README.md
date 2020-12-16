@@ -53,6 +53,7 @@ Same as a hash map, the time complexity of the hash set is O(1) (Search O(1), In
 | ---- | --------------------------------- | --------------------------------- |
 | 36 | https://leetcode.com/problems/valid-sudoku/ | [this link](../practice/solution/0036_valid_sudoku.py) |
 | 73 | https://leetcode.com/problems/set-matrix-zeroes/ | [this link](../practice/solution/0073_set_matrix_zeroes.py) |
+| 128 | https://leetcode.com/problems/longest-consecutive-sequence/ | [this link](../practice/solution/0128_longest_consecutive_sequence.py) |
 | 217 | https://leetcode.com/problems/contains-duplicate/ |[this link](../practice/solution/0217_contains_duplicate.py) |
 | 564 | https://leetcode.com/problems/find-the-closest-palindrome/ | |
 | 723 | https://leetcode.com/problems/candy-crush/ | |
