@@ -26,7 +26,7 @@ class Solution(object):
                 else:
                     if count < len(code) - 1 and code[count:count + 2] == '*/':
                         sign = -1
-                        count = count + 2
+                        count += 2
                         continue
         
                 count += 1
