@@ -115,6 +115,7 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 640 | https://leetcode.com/problems/solve-the-equation/ | |
 | 678 | https://leetcode.com/problems/valid-parenthesis-string/ | [this link](../practice/solution/0678_valid_parenthesis_string.py) |
 | 681 | https://leetcode.com/problems/next-closest-time/ | [this link](../practice/solution/0681_next_closest_time.py) |
+| 722 | https://leetcode.com/problems/remove-comments/ | [this link](../practice/solution/0722_remove_comments.py) |
 | 777 | https://leetcode.com/problems/swap-adjacent-in-lr-string/ | [this link](../practice/solution/0777_swap_adjacent_in_lr_string.py) |
 | 796 | https://leetcode.com/problems/rotate-string/ | |
 | 806 | https://leetcode.com/problems/number-of-lines-to-write-string/ | |
