@@ -16,6 +16,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 22 | https://leetcode.com/problems/generate-parentheses/ | [this link](../practice/solution/0022_generate_parentheses.py) |
 | 46 | https://leetcode.com/problems/permutations/ | [this link](../practice/solution/0046_permutations.py) |
 | 47 | https://leetcode.com/problems/permutations-ii/ | [this link](../practice/solution/0047_permutations_ii.py) |
+| 78 | https://leetcode.com/problems/subsets/ | [this link](../practice/solution/0078_subsets.py) |
 | 273 | https://leetcode.com/problems/integer-to-english-words/| [this link](../practice/solution/0273_integer_to_english_words.py) |
 | 339 | https://leetcode.com/problems/nested-list-weight-sum/ | |
 | 364 | https://leetcode.com/problems/nested-list-weight-sum-ii/ | |
