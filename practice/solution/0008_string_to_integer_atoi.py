@@ -19,6 +19,8 @@ class Solution(object):
             temp_value = temp_value[1:]
         elif temp_value[0] == '+':
             temp_value = temp_value[1:]
+        else:
+            pass
         
         while count < len(temp_value) and temp_value[count].isdigit():
             res = res * 10 + int(temp_value[count])
