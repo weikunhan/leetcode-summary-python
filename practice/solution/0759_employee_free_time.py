@@ -13,10 +13,15 @@ class Solution(object):
         :rtype: [Interval]
         """
         
-        value_list = [x for y in schedule for x in y]
+        value_list = []
+        res = []
+
+        for employee in schedule:
+            for time in employee:
+                value_list.append(time)
+
         value_list = sorted(value_list, key=lambda x: x.start)
         temp_value = value_list[0]
-        res = []
 
         for interval in value_list[1:]:
             if temp_value.end >= interval.start:
