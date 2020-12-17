@@ -5,8 +5,12 @@ class Solution(object):
         :rtype: bool
         """
         
-        value_list = [char.lower() for char in s if char.isalnum()]
+        value_list = []
         res = False
+        
+        for char in s:	
+            if char.isalnum(): 	
+                value_list.append(char.lower())
         
         if value_list == value_list[::-1]:
             res = True
