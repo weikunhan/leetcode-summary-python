@@ -61,3 +61,4 @@ Same as a hash map, the time complexity of the hash set is O(1) (Search O(1), In
 | 929 | https://leetcode.com/problems/unique-email-addresses/ | |
 | 970 | https://leetcode.com/problems/powerful-integers/ | |
 | 1044 | https://leetcode.com/problems/longest-duplicate-substring/ | |
+| 1380 | https://leetcode.com/problems/lucky-numbers-in-a-matrix/ | [this link](../practice/solution/1380_lucky_numbers_in_a_matrix.py) |
