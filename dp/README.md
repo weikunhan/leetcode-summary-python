@@ -17,6 +17,7 @@ This type of problem includes: find status in the checkerboard problem
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 62 | https://leetcode.com/problems/unique-paths/ | [this link](../practice/solution/0062_unique_paths.py)|
 | 64 | https://leetcode.com/problems/minimum-path-sum/ | |
 | 64* | https://www.1point3acres.com/bbs/thread-595086-1-1.html | |
 | 120 | https://leetcode.com/problems/triangle/ | |
