@@ -26,7 +26,7 @@ class Solution(object):
             
             return 
         
-        if root.left and root.right:
+        if root.left:
             root.left.next = root.right
            
         if root.right and root.next:
