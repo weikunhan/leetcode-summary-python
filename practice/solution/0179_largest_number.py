@@ -12,7 +12,6 @@ class Solution(object):
             value_list.append(str(num))
             
         value_list = sorted(value_list, cmp=lambda x, y: cmp(x + y, y + x), reverse=True)
-        
         res = ''.join(value_list)
         
         if not int(res):
