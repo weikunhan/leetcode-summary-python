@@ -5,9 +5,6 @@ class Solution(object):
         :rtype: int
         """
         
-        value_list = sorted(nums)
-        res = 0
-        
-        res = value_list[len(value_list) // 2]
+        res = sorted(nums)[len(nums) // 2]
         
         return res
