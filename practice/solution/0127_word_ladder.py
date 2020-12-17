@@ -26,10 +26,10 @@ class Solution(object):
                 
                 for i in range(len(word)):
                     for char in 'abcdefghijklmnopqrstuvwxyz':
-                        new_word = word[:i] + char + word[i + 1:]
+                        next_value = word[:i] + char + word[i + 1:]
                         
-                        if new_word in value_dict:
-                            value_list.append((new_word, cost + 1))
-                            value_dict.remove(new_word)
+                        if next_value in value_dict:
+                            value_list.append((next_value, cost + 1))
+                            value_dict.remove(next_value)
                             
         return res
