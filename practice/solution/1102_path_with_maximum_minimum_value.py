@@ -13,8 +13,8 @@ class Solution(object):
         res = A[0][0]
         
         while value_pq:
-            temp_value, i, j = heapq.heappop(value_pq)
-            res = min(res, -temp_value)
+            cost, i, j = heapq.heappop(value_pq)
+            res = min(res, -cost)
             
             for a, b in [(i + 1, j), (i, j + 1), (i - 1, j), (i, j - 1)]:
                 if not i and not j:
