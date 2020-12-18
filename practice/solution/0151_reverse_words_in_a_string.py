@@ -8,9 +8,9 @@ class Solution(object):
         value_list = s.split(' ')
         res = []
         
-        for value in reversed(value_list):
-            if value: 
-                res.append(value)
+        for word in reversed(value_list):
+            if word: 
+                res.append(word)
             
         res = ' '.join(res)
         
