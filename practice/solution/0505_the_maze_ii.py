@@ -15,10 +15,10 @@ class Solution(object):
         res = -1
         
         while value_pq:
-            temp_value, i, j = heapq.heappop(value_pq)
+            cost, i, j = heapq.heappop(value_pq)
             
             if i == destination[0] and j == destination[1]:
-                res = temp_value
+                res = cost
 
                 return res
             
@@ -35,8 +35,8 @@ class Solution(object):
                 row_end -= a
                 col_end -= b
                 
-                if not (row_end, col_end) in value_dict or temp_value + start < value_dict[(row_end, col_end)]:
-                    value_dict[(row_end, col_end)] = temp_value + start
-                    heapq.heappush(value_pq, (temp_value + start, row_end, col_end))
+                if not (row_end, col_end) in value_dict or cost + start < value_dict[(row_end, col_end)]:
+                    value_dict[(row_end, col_end)] = cost + start
+                    heapq.heappush(value_pq, (cost + start, row_end, col_end))
                                    
         return res
