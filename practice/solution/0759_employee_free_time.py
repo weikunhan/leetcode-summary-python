@@ -17,8 +17,8 @@ class Solution(object):
         res = []
 
         for employee in schedule:
-            for time in employee:
-                value_list.append(time)
+            for interval in employee:
+                value_list.append(interval)
 
         value_list = sorted(value_list, key=lambda x: x.start)
         temp_value = value_list[0]
