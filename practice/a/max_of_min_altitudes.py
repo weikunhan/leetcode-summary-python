@@ -57,8 +57,8 @@ class Solution(object):
         res = sys.maxsize
         
         while value_pq:
-            temp_value, i, j = heapq.heappop(value_pq)
-            res = min(-temp_value, res)
+            cost, i, j = heapq.heappop(value_pq)
+            res = min(-cost, res)
             
             for a, b in [(i - 1, j), (i, j - 1)]:
                 if not a and not b:
