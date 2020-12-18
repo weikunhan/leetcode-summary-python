@@ -15,8 +15,8 @@ class Solution(object):
         for col in zip(*matrix):
             col_value_set.add(max(col))
             
-        for value in row_value_set:
-            if value in col_value_set:
-                res.append(value)
+        for key in row_value_set:
+            if key in col_value_set:
+                res.append(key)
                 
         return res
