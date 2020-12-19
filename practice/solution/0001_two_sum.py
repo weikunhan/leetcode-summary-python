@@ -12,12 +12,11 @@ class Solution(object):
         for i in range(len(nums)):
             temp_value = target - nums[i]
             
-            if not nums[i] in value_dict:
-                value_dict[temp_value] = i
-            else:
-                res.append(value_dict[nums[i]])
-                res.append(i)
+            if nums[i] in value_dict:
+                res = [value_dict[nums[i]], i]
                 
                 return res
-        
+            else:
+                value_dict[temp_value] = i
+                
         return res
