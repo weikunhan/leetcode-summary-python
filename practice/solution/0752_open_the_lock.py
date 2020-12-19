@@ -8,17 +8,17 @@ class Solution(object):
         :rtype: int
         """
         
-        value_dict = set(deadends)
+        visit_value_dict = set(deadends)
         value_list = collections.deque([('0000', 0)])
-        visit_value_dict = {}
+        target_value_dict = {}
         res = -1
         
-        if '0000' in value_dict:
+        if '0000' in visit_value_dict:
             
             return res
         
         for i in range(10):
-            visit_value_dict[str(i)] = [str((i + 1) % 10), str((i - 1) % 10)]
+            target_value_dict[str(i)] = [str((i + 1) % 10), str((i - 1) % 10)]
             
         while value_list:
             temp_value = len(value_list)
@@ -32,12 +32,12 @@ class Solution(object):
                     return res
                 
                 for i in range(4):
-                    first_value = state[:i] + visit_value_dict[state[i]][0] + state[i + 1:]
-                    second_value = state[:i] + visit_value_dict[state[i]][1] + state[i + 1:]
+                    first_value = state[:i] + target_value_dict[state[i]][0] + state[i + 1:]
+                    second_value = state[:i] + target_value_dict[state[i]][1] + state[i + 1:]
                     
                     for move in [first_value, second_value]:
-                        if not move in value_dict:
+                        if not move in visit_value_dict:
                             value_list.append((move, cost + 1))
-                            value_dict.add(move)
+                            visit_value_dict.add(move)
                             
         return res
