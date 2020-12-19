@@ -9,7 +9,7 @@ class Solution(object):
         
         count = 0
         value_list = collections.deque()
-        res = 0
+        res = -1
         
         for i in range(len(grid)):
             for j in range(len(grid[0])):
@@ -18,6 +18,11 @@ class Solution(object):
                     
                 if grid[i][j] == 2:
                     value_list.append((i, j))
+                    
+        if not count:
+            res = 0
+            
+            return res
                     
         while value_list:
             temp_value = len(value_list)
@@ -32,9 +37,7 @@ class Solution(object):
                         count -= 1
                         value_list.append((a, b))
             
-        if not count:
-            res = max(0, res - 1)
-        else:
+        if count:
             res = -1
             
         return res
