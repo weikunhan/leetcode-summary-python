@@ -53,7 +53,7 @@ class Solution(object):
 
         value_list = collections.deque([(0, 0, 0)])
         grid[0][0] = 'D'
-        res = 0
+        res = -1
 
         while value_list:
             temp_value = len(value_list)
