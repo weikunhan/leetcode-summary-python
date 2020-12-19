@@ -59,7 +59,10 @@ class Solution(object):
         for i in range(len(grid)):
             for j in range(len(grid[0])):
                 if grid[i][j] == 'S':
-                    res = min(res, self.helper(i, j, grid))
+                    temp_value = self.helper(i, j, grid)
+
+                    if temp_value:
+                        res = min(res, temp_value)
 
         return res
 
@@ -82,11 +85,9 @@ class Solution(object):
                         visit_dict.add((a, b))
                         value_list.append((a, b, cost + 1))
 
-        return 0
-
 def main():
     gird = [['S', 'O', 'O', 'S', 'S'],
-            ['D', 'O', 'D', 'O', 'D'],
+            ['D', 'O', 'D', 'O', 'O'],
             ['O', 'O', 'O', 'O', 'X'],
             ['X', 'D', 'D', 'O', 'O'],
             ['X', 'D', 'D', 'D', 'O']]
