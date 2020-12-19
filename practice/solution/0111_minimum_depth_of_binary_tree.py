@@ -25,17 +25,17 @@ class Solution(object):
             temp_value = len(value_list)
             
             for _ in range(temp_value):
-                temp_root, count = value_list.popleft()
+                temp_root, cost = value_list.popleft()
                 
                 if not temp_root.left and not temp_root.right:
-                    res = count
+                    res = cost
                     
                     return res
                 
                 if temp_root.left:
-                    value_list.append((temp_root.left, count + 1))
+                    value_list.append((temp_root.left, cost + 1))
                     
                 if temp_root.right:
-                    value_list.append((temp_root.right, count + 1))
+                    value_list.append((temp_root.right, cost + 1))
                     
         return res
