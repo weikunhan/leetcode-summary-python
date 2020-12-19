@@ -24,20 +24,20 @@ class Solution(object):
             temp_value = len(value_list)
             
             for _ in range(temp_value):
-                move, cost = value_list.popleft()
+                state, cost = value_list.popleft()
                 
-                if move == target:
+                if state == target:
                     res = cost
                     
                     return res
                 
                 for i in range(4):
-                    a = move[:i] + visit_value_dict[move[i]][0] + move[i + 1:]
-                    b = move[:i] + visit_value_dict[move[i]][1] + move[i + 1:]
+                    first_value = state[:i] + visit_value_dict[state[i]][0] + state[i + 1:]
+                    second_value = state[:i] + visit_value_dict[state[i]][1] + state[i + 1:]
                     
-                    for new_move in [a, b]:
-                        if not new_move in value_dict:
-                            value_list.append((new_move, cost + 1))
-                            value_dict.add(new_move)
+                    for move in [first_value, second_value]:
+                        if not move in value_dict:
+                            value_list.append((move, cost + 1))
+                            value_dict.add(move)
                             
         return res
