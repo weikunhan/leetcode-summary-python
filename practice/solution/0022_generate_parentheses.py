@@ -14,12 +14,11 @@ class Solution(object):
     def dfs(self, start, end, value_list):
         if start > end:
             
-            return
+            return 
         
         if not start and not end:
-            if value_list:
-                self.res.append(''.join(value_list))
-
+            self.res.append(''.join(value_list))
+            
         if start > 0:
             self.dfs(start - 1, end, value_list + ['('])
             
