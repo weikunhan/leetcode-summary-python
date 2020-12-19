@@ -34,7 +34,7 @@ The following questions, I prefer to solve by using BFS. It may have the optimal
 | 934 | https://leetcode.com/problems/shortest-bridge/ | | 
 | 994 | https://leetcode.com/problems/rotting-oranges/ | [this link](../practice/solution/0994_rotting_oranges.py) |
 | 994* | https://leetcode.com/discuss/interview-question/411357/ | [this link](../practice/a/min_hour.py) |
-| 1091 | https://leetcode.com/problems/shortest-path-in-binary-matrix/ | |
+| 1091 | https://leetcode.com/problems/shortest-path-in-binary-matrix/ | [this link](../practice/solution/1091_shortest_path_in_binary_matrix.py) |
 | 1091* | https://leetcode.com/discuss/interview-question/347457 | [this link](../practice/a/treasure_island.py) |
 | 1091* | https://leetcode.com/discuss/interview-question/356150 | [this link](../practice/a/treasure_island_ii.py) |
 | 1162 | https://leetcode.com/problems/as-far-from-land-as-possible/ | |
