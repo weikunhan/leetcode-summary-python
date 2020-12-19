@@ -26,16 +26,16 @@ class Solution(object):
             temp_value = len(value_list)
             
             for _ in range(temp_value):
-                temp_root, count = value_list.popleft()
-                value_dict[count].append(temp_root.val)
+                temp_root, cost = value_list.popleft()
+                value_dict[cost].append(temp_root.val)
 
                 if temp_root.left:
-                    value_list.append((temp_root.left, count - 1))
+                    value_list.append((temp_root.left, cost - 1))
 
                 if temp_root.right:
-                    value_list.append((temp_root.right, count + 1))
+                    value_list.append((temp_root.right, cost + 1))
 
-        for key in sorted(value_dict.keys()):
+        for key in sorted(value_dict):
             res.append(value_dict[key])
             
         return res
