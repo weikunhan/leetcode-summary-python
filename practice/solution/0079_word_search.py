@@ -14,18 +14,18 @@ class Solution(object):
 
         return self.res
     
-    def dfs(self, row, col, board, count, word):
-        if count == len(word):
+    def dfs(self, row, col, board, start, word):
+        if start == len(word):
             self.res = True
         
-        if row < 0 or col < 0 or row >= len(board) or col >= len(board[0]) or self.res or board[row][col] != word[count]:
+        if row < 0 or col < 0 or row >= len(board) or col >= len(board[0]) or self.res or board[row][col] != word[start]:
             
             return
         
         temp_value = board[row][col]
         board[row][col] = '#'
-        self.dfs(row + 1, col, board, count + 1, word)
-        self.dfs(row, col + 1, board, count + 1, word)
-        self.dfs(row - 1, col, board, count + 1, word)
-        self.dfs(row, col - 1, board, count + 1, word)
+        self.dfs(row + 1, col, board, start + 1, word)
+        self.dfs(row, col + 1, board, start + 1, word)
+        self.dfs(row - 1, col, board, start + 1, word)
+        self.dfs(row, col - 1, board, start + 1, word)
         board[row][col] = temp_value
