@@ -15,8 +15,6 @@ class Solution(object):
         if not nums:
             self.res.append(value_list)
             
-            return
-        
         for i in range(len(nums)):
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
