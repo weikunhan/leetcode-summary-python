@@ -36,8 +36,6 @@ class Solution(object):
                     
                 root.val = temp_root.val
                 root.left = self.dfs(root.left, temp_root.val)
-                
-                return root
         elif root.val > key:
             root.left = self.dfs(root.left, key)
         else:
