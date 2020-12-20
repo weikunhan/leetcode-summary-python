@@ -45,7 +45,7 @@ There are few problems that are related to mathematical. You should familiar wit
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 7 | https://leetcode.com/problems/reverse-integer/ | |
+| 7 | https://leetcode.com/problems/reverse-integer/ | [this link](../practice/solution/0007_reverse_integer.py) |
 | 9 | https://leetcode.com/problems/palindrome-number/ | |
 | 50 | https://leetcode.com/problems/powx-n/ | [this link](../practice/solution/0050_powx_n.py) | 
 | 69 | https://leetcode.com/problems/sqrtx/ | |

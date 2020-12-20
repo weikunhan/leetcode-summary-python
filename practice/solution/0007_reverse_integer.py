@@ -13,14 +13,13 @@ class Solution(object):
             x = -x
             
         while x:
-            carry, remainder = divmod(x, 10)
-            res = res * 10 + remainder
+            carry, reminder = divmod(x, 10)
+            res = res * 10 + reminder
             x = carry
             
-        res = res * sign
-        
-        if res > 2**31 or res < -2**31:
+        res *= sign    
+            
+        if res > 2**31 - 1 or res < -2**31:
             res = 0
             
         return res
-        
