@@ -4,11 +4,10 @@ class Solution(object):
         :type num: int
         :rtype: str
         """
-        
-        self.ones_value_list = ["","One","Two","Three","Four","Five","Six","Seven","Eight","Nine",
-                                "Ten","Eleven","Twelve","Thirteen","Fourteen","Fifteen","Sixteen","Seventeen","Eighteen","Nineteen"]
-        self.tens_value_list = ["","Ten","Twenty","Thirty","Forty","Fifty","Sixty","Seventy","Eighty","Ninety"]
-        self.thousands_value_list = ["","Thousand","Million","Billion"]
+
+        self.ones_value_list = ['','One','Two','Three','Four','Five','Six','Seven','Eight','Nine', 'Ten','Eleven','Twelve','Thirteen','Fourteen','Fifteen','Sixteen','Seventeen','Eighteen','Nineteen']
+        self.tens_value_list = ['','Ten','Twenty','Thirty','Forty','Fifty','Sixty','Seventy','Eighty','Ninety']
+        self.thousands_value_list = ['','Thousand','Million','Billion']
         self.res = ''
         
         if num == 0:
@@ -19,15 +18,15 @@ class Solution(object):
         for i in range(len(self.thousands_value_list)):
             carry, remainder = divmod(num, 1000)
             
-            if remainder != 0:
+            if remainder:
                 self.res = self.dfs(remainder) + self.thousands_value_list[i] + ' ' + self.res
                 
             num = carry
             
-        self.res = self.res.strip(' ')
-            
+        self.res = self.res.strip()
+        
         return self.res
-            
+    
     def dfs(self, num):
         temp_value = ''
         
