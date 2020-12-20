@@ -23,22 +23,24 @@ class Solution(object):
         if not root:
             
             return 
-
+        
         if root.val == key:
             if not root.left:
                 
                 return root.right
             else:
-                root_temp = root.left
+                temp_root = root.left
                 
-                while root_temp.right:
-                    root_temp = root_temp.right
-    
-                root.val = root_temp.val
-                root.left = self.dfs(root.left, root_temp.val)
+                while temp_root.right:
+                    temp_root = temp_root.right
+                    
+                root.val = temp_root.val
+                root.left = self.dfs(root.left, temp_root.val)
+                
+                return root
         elif root.val > key:
-            root.left =  self.dfs(root.left, key)           
+            root.left = self.dfs(root.left, key)
         else:
-            root.right =  self.dfs(root.right, key)
-        
+            root.right = self.dfs(root.right, key)
+            
         return root
