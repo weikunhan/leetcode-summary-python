@@ -15,7 +15,5 @@ class Solution(object):
         if not nums:
             self.res.append(value_list)
             
-            return
-            
         for i in range(len(nums)):
             self.dfs(nums[:i] + nums[i + 1:], value_list + [nums[i]])
