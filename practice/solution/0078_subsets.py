@@ -7,12 +7,12 @@ class Solution(object):
         
         self.res = []
         
-        self.dfs(nums, 0, [])
+        self.dfs(0, nums, [])
         
         return self.res
     
-    def dfs(self, nums, start, value_list):
+    def dfs(self, start, nums, value_list):
         self.res.append(value_list)
         
         for i in range(start, len(nums)):
-            self.dfs(nums, i + 1, value_list + [nums[i]])
+            self.dfs(i + 1, nums, value_list + [nums[i]])
