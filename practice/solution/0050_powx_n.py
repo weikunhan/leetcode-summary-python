@@ -9,7 +9,7 @@ class Solution(object):
         count = abs(n)
         res = 1.0
         
-        while count > 0:
+        while count:
             if count % 2:
                 res *= x
                 
