@@ -28,6 +28,6 @@ class Solution(object):
         left_value = self.postorder(root.left)
         right_value = self.postorder(root.right)
         self.res = max(self.res, left_value + root.val + right_value)
-        temp_value = max(root.val + max(left_value, right_value), 0)
+        temp_value = max(0, max(left_value + root.val, right_value + root.val))
         
         return temp_value
