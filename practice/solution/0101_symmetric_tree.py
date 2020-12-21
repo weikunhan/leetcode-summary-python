@@ -29,6 +29,7 @@ class Solution(object):
                 
                 return True
             else:
+                
                 return False
             
         if root_left.val == root_right.val and self.dfs(root_left.left, root_right.right) and self.dfs(root_left.right, root_right.left):
