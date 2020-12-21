@@ -14,19 +14,19 @@ class Solution(object):
         :rtype: Node
         """
         
-        self.dumy_head = Node(-1)
-        self.temp_res = self.dumy_head
+        self.dummy_head = Node(-1)
+        self.temp_res = self.dummy_head
         
         if not root:
             
-            return self.dumy_head.right
+            return self.dummy_head.right
         
         self.inorder(root)
-        #self.temp_res.right = self.dumy_head.right
-        #self.dumy_head.right.left = self.temp_res
-        self.temp_res.right, self.dumy_head.right.left = self.dumy_head.right, self.temp_res
+        #self.temp_res.right = self.dummy_head.right
+        #self.dummy_head.right.left = self.temp_res
+        self.temp_res.right, self.dummy_head.right.left = self.dummy_head.right, self.temp_res
 
-        return self.dumy_head.right
+        return self.dummy_head.right
     
     def inorder(self, root):
         if not root:
