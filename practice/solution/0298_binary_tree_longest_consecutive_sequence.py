@@ -18,16 +18,16 @@ class Solution(object):
         
         return self.res
     
-    def preorder(self, root, count, target):
+    def preorder(self, root, start, target):
         if not root:
             
             return 
         
         if root.val == target:
-            count += 1
+            start += 1
         else:
-            count = 1
+            start = 1
             
-        self.res = max(self.res, count)
-        self.preorder(root.left, count, root.val + 1)
-        self.preorder(root.right, count, root.val + 1)
+        self.res = max(self.res, start)
+        self.preorder(root.left, start, root.val + 1)
+        self.preorder(root.right, start, root.val + 1)
