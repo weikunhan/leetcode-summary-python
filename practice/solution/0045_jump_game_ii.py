@@ -5,25 +5,22 @@ class Solution(object):
         :rtype: int
         """
         
-        start_value = 0
-        end_value = 0
+        start = nums[0]
+        end = nums[0]
+        temp_value = 1
         res = 0
         
         if len(nums) < 2:
             
             return res
         
-        end_value = nums[0]
-        res = 1
+        for i in range(1, len(nums)):
+            if start < i:
+                temp_value += 1
+                start = end
+                
+            end = max(end, nums[i] + i)
         
-        while end_value < len(nums) - 1:
-            temp_value = end_value
-            res += 1
+        res = temp_value
             
-            for i in range(start_value, end_value + 1):
-                temp_value = max(temp_value, i + nums[i])
-            
-            start_value = end_value
-            end_value = temp_value
-            
-        return res
+        return res      
