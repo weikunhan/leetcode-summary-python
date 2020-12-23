@@ -14,14 +14,14 @@ class Solution(object):
         res = 0
         
         for key, value in value_dict.items():
-            heapq.heappush(value_pq, (value, key))
-        
+            heapq.heappush(value_pq, value)
+            
         while k > 0:
-            k -= heapq.heappop(value_pq)[0]
-        
+            k -= heapq.heappop(value_pq)
+            
         if k < 0:
             res = len(value_pq) + 1
         else:
             res = len(value_pq)
-
+            
         return res
