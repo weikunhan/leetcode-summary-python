@@ -35,7 +35,7 @@ class Solution(object):
                 if temp_root.right:
                     value_list.append((temp_root.right, cost + 1))
 
-        for key in sorted(value_dict):
-            res.append(value_dict[key])
+        for key, value in sorted(value_dict.items()):
+            res.append(value)
             
         return res
