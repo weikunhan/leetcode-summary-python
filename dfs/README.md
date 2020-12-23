@@ -62,6 +62,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 109 | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/ | |
 | 116 | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ | [this link](../practice/solution/0116_populating_next_right_pointers_in_each_node.py) |
 | 117 | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/ | [this link](../practice/solution/0117_populating_next_right_pointers_in_each_node_ii.py) |
+| 144 | https://leetcode.com/problems/binary-tree-preorder-traversal/ | [this link](../practice/solution/0144_binary_tree_preorder_traversal.py) |
 | 199 | https://leetcode.com/problems/binary-tree-right-side-view/ | [this link](../practice/solution/0199_binary_tree_right_side_view.py) |
 | 298 | https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/ | [this link](../practice/solution/0298_binary_tree_longest_consecutive_sequence.py) |
 | 437 | https://leetcode.com/problems/path-sum-iii/ | [this link](../practice/solution/0437_path_sum_iii.py) |
@@ -86,7 +87,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 144 | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ | [this link](../practice/solution/0144_flatten_binary_tree_to_linked_list.py) | 
+| 114 | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ | [this link](../practice/solution/0114_flatten_binary_tree_to_linked_list.py) | 
 | 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | [this link](../practice/solution/0124_binary_tree_maximum_path_sum.py) |
 | 235 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | [this link](../practice/solution/0235_lowest_common_ancestor_of_a_binary_search_tree.py) |
 | 236 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | [this link](../practice/solution/0236_lowest_common_ancestor_of_a_binary_tree.py) |
