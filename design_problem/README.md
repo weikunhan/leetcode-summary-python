@@ -23,7 +23,7 @@ For more information, you need to check related courses and books. Here, I split
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 211 | https://leetcode.com/problems/add-and-search-word-data-structure-design/ | |
+| 211 | https://leetcode.com/problems/add-and-search-word-data-structure-design/ | [this link](../practice/solution/0211_design_add_and_search_words_data_structure.py) |
 | 208 | https://leetcode.com/problems/implement-trie-prefix-tree/ | [this link](../practice/solution/0208_implement_trie_prefix_tree.py) |
 | 588 | https://leetcode.com/problems/design-in-memory-file-system/ | |
 | 642 | https://leetcode.com/problems/design-search-autocomplete-system/ | |
