@@ -19,32 +19,32 @@ class Solution(object):
         while low <= high:
             a_mid = (low + high) // 2
             b_mid = (len(nums1) + len(nums2)) // 2 - a_mid
-            a_low = -sys.maxsize - 1
-            b_low = -sys.maxsize - 1
-            a_high = sys.maxsize
-            b_high = sys.maxsize
+            a_mid_left_value = -sys.maxsize - 1
+            b_mid_left_value = -sys.maxsize - 1
+            a_mid_right_value = sys.maxsize
+            b_mid_right_value = sys.maxsize
             
             if a_mid:
-                a_low = nums1[a_mid - 1]
+                a_mid_left_value = nums1[a_mid - 1]
                 
             if b_mid:
-                b_low = nums2[b_mid - 1]
+                b_mid_left_value = nums2[b_mid - 1]
             
             if a_mid != len(nums1):
-                a_high = nums1[a_mid]
+                a_mid_right_value = nums1[a_mid]
                 
             if b_mid != len(nums2):
-                b_high = nums2[b_mid]
+                b_mid_right_value = nums2[b_mid]
             
-            if a_low > b_high:
+            if a_mid_left_value > b_mid_right_value:
                 high = a_mid - 1
-            elif b_low > a_high:
+            elif b_mid_left_value > a_mid_right_value:
                 low = a_mid + 1
             else:
                 if (len(nums1) + len(nums2)) % 2:
-                    res = min(a_high, b_high) / 1.0
+                    res = min(a_mid_right_value, b_mid_right_value) / 1.0
                 else:
-                    res = (max(a_low, b_low) + min(a_high, b_high)) / 2.0
+                    res = (max(a_mid_left_value, b_mid_left_value) + min(a_mid_right_value, b_mid_right_value)) / 2.0
                 
                 return res
             
