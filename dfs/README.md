@@ -49,7 +49,6 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 450 | https://leetcode.com/problems/delete-node-in-a-bst/ | [this link](../practice/solution/0450_delete_node_in_a_bst.py) |
 | 545 | https://leetcode.com/problems/boundary-of-binary-tree/ | |
 | 572 | https://leetcode.com/problems/subtree-of-another-tree/ | [this link](../practice/solution/0572_subtree_of_another_tree.py) |
-| 617 | https://leetcode.com/problems/merge-two-binary-trees/ | |
 
 ### Preorder
 
@@ -69,6 +68,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 298 | https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/ | [this link](../practice/solution/0298_binary_tree_longest_consecutive_sequence.py) |
 | 437 | https://leetcode.com/problems/path-sum-iii/ | [this link](../practice/solution/0437_path_sum_iii.py) |
 | 589 | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | |
+| 617 | https://leetcode.com/problems/merge-two-binary-trees/ | [this link](../practice/solution/0617_merge_two_binary_trees.py) |
 | 700 | https://leetcode.com/problems/search-in-a-binary-search-tree/ | |
 | 701 | https://leetcode.com/problems/insert-into-a-binary-search-tree/ | |
 | 863 | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/ | |
