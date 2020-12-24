@@ -45,7 +45,6 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 101 | https://leetcode.com/problems/symmetric-tree/ | [this link](../practice/solution/0101_symmetric_tree.py) |
-| 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | [this link](../practice/solution/0104_maximum_depth_of_binary_tree.py) |
 | 450 | https://leetcode.com/problems/delete-node-in-a-bst/ | [this link](../practice/solution/0450_delete_node_in_a_bst.py) |
 | 545 | https://leetcode.com/problems/boundary-of-binary-tree/ | |
 | 572 | https://leetcode.com/problems/subtree-of-another-tree/ | [this link](../practice/solution/0572_subtree_of_another_tree.py) |
@@ -89,6 +88,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | [this link](../practice/solution/0104_maximum_depth_of_binary_tree.py) |
 | 114 | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ | [this link](../practice/solution/0114_flatten_binary_tree_to_linked_list.py) | 
 | 124 | https://leetcode.com/problems/binary-tree-maximum-path-sum/ | [this link](../practice/solution/0124_binary_tree_maximum_path_sum.py) |
 | 226 | https://leetcode.com/problems/invert-binary-tree/ | [this link](../practice/solution/0226_invert_binary_tree.py) |
