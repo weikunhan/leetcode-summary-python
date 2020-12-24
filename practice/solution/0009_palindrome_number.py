@@ -5,20 +5,20 @@ class Solution(object):
         :rtype: bool
         """
         
+        target_value = x
         temp_value = 0
-        count = x
         res = False
         
         if x < 0:
             
             return res
         
-        while count:
-            carry, remainder = divmod(count, 10)
+        while x:
+            carry, remainder = divmod(x, 10)
             temp_value = temp_value * 10 + remainder
-            count = carry
+            x = carry
             
-        if x == temp_value:
+        if target_value == temp_value:
             res = True
             
         return res
