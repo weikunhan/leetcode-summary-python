@@ -11,11 +11,12 @@ class Solution(object):
         :rtype: List[str]
         """
         
-        value_trie = TrieNode()
-        self.res = set()
+        self.value_trie = TrieNode()
+        self.value_dict = set()
+        self.res = []
         
         for word in words:
-            temp_root = value_trie
+            temp_root = self.value_trie
             
             for char in word:
                 if not char in temp_root.next:
@@ -27,21 +28,22 @@ class Solution(object):
             
         for i in range(len(board)):
             for j in range(len(board[0])):
-                self.dfs(i, j, board, value_trie, [])
+                temp_root = self.value_trie
+                self.dfs(i, j, board, temp_root, [])
                 
-        self.res = list(self.res)
+        self.res = list(self.value_dict)
         
         return self.res
     
     def dfs(self, row, col, board, value_trie, value_list):
         if value_trie.word:
-            self.res.add(''.join(value_list))
+            self.value_dict.add(''.join(value_list))
             value_trie.word = False
             
         if row < 0 or row >= len(board) or col < 0 or col >= len(board[0]) or not board[row][col] in value_trie.next:
             
             return 
-        
+            
         temp_value = board[row][col]
         board[row][col] = '#'
         self.dfs(row + 1, col, board, value_trie.next[temp_value], value_list + [temp_value])
