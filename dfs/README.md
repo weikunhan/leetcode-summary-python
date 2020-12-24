@@ -94,7 +94,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 226 | https://leetcode.com/problems/invert-binary-tree/ | [this link](../practice/solution/0226_invert_binary_tree.py) |
 | 235 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | [this link](../practice/solution/0235_lowest_common_ancestor_of_a_binary_search_tree.py) |
 | 236 | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | [this link](../practice/solution/0236_lowest_common_ancestor_of_a_binary_tree.py) |
-| 543 | https://leetcode.com/problems/diameter-of-binary-tree/ | |
+| 543 | https://leetcode.com/problems/diameter-of-binary-tree/ | [this link](../practice/solution/0543_diameter_of_binary_tree.py) |
 | 563 | https://leetcode.com/problems/binary-tree-tilt/ | |
 | 590 | https://leetcode.com/problems/n-ary-tree-postorder-traversal/ | |
 | 1120 | https://leetcode.com/problems/maximum-average-subtree | [this link](../practice/solution/1120_maximum_average_subtree.py) |
