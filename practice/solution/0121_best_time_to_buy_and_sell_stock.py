@@ -14,11 +14,11 @@ class Solution(object):
             return res
         
         temp_value = prices[0]
-            
-        for i in range(1, len(dp_list)):
-            dp_list[i] = max(dp_list[i - 1], prices[i] - temp_value)
-            temp_value = min(temp_value, prices[i])
         
-        res = dp_list[-1]
-
+        for i in range(1, len(prices)):
+            dp_list[i] = max(dp_list[i - 1], prices[i] - temp_value)
+            temp_value = min(prices[i], temp_value)
+            
+        res = dp_list[-1]    
+            
         return res
