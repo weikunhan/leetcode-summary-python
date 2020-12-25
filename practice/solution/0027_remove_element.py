@@ -5,7 +5,7 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
-    
+
         left = 0
         right = 0
         res = 0
