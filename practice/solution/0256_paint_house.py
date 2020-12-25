@@ -8,7 +8,7 @@ class Solution(object):
         dp_list = costs
         res = 0
         
-        if not dp_list:
+        if not costs:
             
             return res
         
