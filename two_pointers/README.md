@@ -24,6 +24,7 @@ The time complexity of this technique depends on the question.
 | 31 | https://leetcode.com/problems/next-permutation/ | [this link](../practice/solution/0031_next_permutation.py) |
 | 67 | https://leetcode.com/problems/add-binary/ | [this link](../practice/solution/0067_add_binary.py) |
 | 75 | https://leetcode.com/problems/sort-colors/ | [this link](../practice/solution/0075_sort_colors.py) |
+| 88 | https://leetcode.com/problems/merge-sorted-array/ | [this link](../practice/solution/0088_merge_sorted_array.py) |
 | 283 | https://leetcode.com/problems/move-zeroes/ | [this link](../practice/solution/0283_move_zeroes.py) |
 | 881 | https://leetcode.com/problems/boats-to-save-people/ | |
 | 1099 | https://leetcode.com/problems/two-sum-less-than-k/ | [this link](../practice/solution/1099_two_sum_less_than_k.py) |
