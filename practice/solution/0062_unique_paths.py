@@ -11,8 +11,8 @@ class Solution(object):
         dp_list = [[1] * col_end for _ in range(row_end)]
         res = 0
         
-        for i in range(1, len(dp_list)):
-            for j in range(1, len(dp_list[0])):
+        for i in range(1, m):
+            for j in range(1, n):
                 dp_list[i][j] = dp_list[i - 1][j] + dp_list[i][j - 1]
                 
         res = dp_list[-1][-1]
