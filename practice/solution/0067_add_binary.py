@@ -12,16 +12,20 @@ class Solution(object):
         res = ''
         
         while left >= 0 or right >= 0 or carry: 
-            if left >= 0 and a[left] == '1':
-                carry += 1
+            if left >= 0:
+                if a[left] == '1':
+                    carry += 1
+                    
+                left -= 1
                 
                 
-            if right >= 0 and b[right] == '1':
-                carry += 1
+            if right >= 0:
+                if b[right] == '1':
+                    carry += 1
+                
+                right -= 1
                 
             carry, remainder = divmod(carry, 2)
             res = str(remainder) + res
-            left -= 1
-            right -= 1
             
         return res
