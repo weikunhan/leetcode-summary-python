@@ -7,6 +7,7 @@ class Solution(object):
     
         end = len(prices)
         dp_list = [0] * end
+        temp_value = 0
         res = 0
         
         if not prices:
