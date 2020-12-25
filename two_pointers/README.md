@@ -21,7 +21,8 @@ The time complexity of this technique depends on the question.
 | 18 | https://leetcode.com/problems/4sum/ | [this link](../practice/solution/0018_4sum.py) |
 | 26 | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ | [this link](../practice/solution/0026_remove_duplicates_from_sorted_array.py) |
 | 27 | https://leetcode.com/problems/remove-element/ | [this link](../practice/solution/0027_remove_element.py) |
-| 31 | https://leetcode.com/problems/next-permutation/ | [this link](../practice/solution/0031_next_permutation.py) |  
+| 31 | https://leetcode.com/problems/next-permutation/ | [this link](../practice/solution/0031_next_permutation.py) |
+| 67 | https://leetcode.com/problems/add-binary/ | [this link](../practice/solution/0067_add_binary.py) |
 | 75 | https://leetcode.com/problems/sort-colors/ | [this link](../practice/solution/0075_sort_colors.py) |
 | 283 | https://leetcode.com/problems/move-zeroes/ | [this link](../practice/solution/0283_move_zeroes.py) |
 | 881 | https://leetcode.com/problems/boats-to-save-people/ | |
