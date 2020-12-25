@@ -10,7 +10,7 @@ class Solution(object):
         dp_list[0] = 0
         res = 0
         
-        for i in range(1, len(dp_list)):
+        for i in range(1, n + 1):
             for j in range(1, int(i ** 0.5) + 1):
                 dp_list[i] = min(dp_list[i], dp_list[i - j * j] + 1)
                 
