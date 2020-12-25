@@ -11,7 +11,7 @@ class Solution(object):
         res = 0
         
         for stone in stones:
-            for i in reversed(range(stone, len(dp_list))):
+            for i in reversed(range(stone, sum_value // 2 + 1)):
                 dp_list[i] = max(dp_list[i], dp_list[i - stone] + stone)
                 
         res = sum_value - 2 * dp_list[-1]
