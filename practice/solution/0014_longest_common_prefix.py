@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: str
         """
         
-        count = 0
         value_list = sorted(strs)
         res = ''
         
@@ -13,9 +12,12 @@ class Solution(object):
             
             return res
         
-        while count < len(value_list[0]) and value_list[0][count] == value_list[-1][count]:
-            count += 1
+        for i in range(len(value_list[0])):
+            if value_list[0][i] != value_list[-1][i]:
+                res = value_list[0][:i]
+                
+                return res
             
-        res = value_list[0][:count]
+        res = value_list[0]
         
         return res
