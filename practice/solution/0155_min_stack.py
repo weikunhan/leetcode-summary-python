@@ -13,11 +13,11 @@ class MinStack(object):
         :rtype: None
         """
         
-        temp_value = self.getMin()
+        temp_value = x
         
-        if not self.value_stack or x < temp_value:
-            temp_value = x
-            
+        if self.value_stack and x > self.value_stack[-1][1]:
+            temp_value = self.value_stack[-1][1]
+       
         self.value_stack.append((x, temp_value))
 
     def pop(self):
@@ -26,17 +26,14 @@ class MinStack(object):
         """
         
         self.value_stack.pop()
-    
+            
     def top(self):
         """
         :rtype: int
         """
         
-        temp_value = None
+        temp_value = self.value_stack[-1][0] 
         
-        if self.value_stack:
-            temp_value = self.value_stack[-1][0] 
-            
         return temp_value
 
     def getMin(self):
@@ -44,13 +41,10 @@ class MinStack(object):
         :rtype: int
         """
         
-        temp_value = None
+        temp_value = self.value_stack[-1][1] 
         
-        if self.value_stack:
-            temp_value = self.value_stack[-1][1] 
-            
         return temp_value
-
+        
 
 # Your MinStack object will be instantiated and called as such:
 # obj = MinStack()
