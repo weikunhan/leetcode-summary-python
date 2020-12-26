@@ -14,10 +14,10 @@ class Solution(object):
                     row_value_dict.add(i)
                     col_value_dict.add(j)
                     
-        for i in row_value_dict:
-            for j in range(len(matrix[0])):
-                matrix[i][j] = 0
+        for key in row_value_dict:
+            for i in range(len(matrix[0])):
+                matrix[key][i] = 0 
                 
-        for i in range(len(matrix)):
-            for j in col_value_dict:
-                matrix[i][j] = 0
+        for key in col_value_dict:
+            for i in range(len(matrix)):
+                matrix[i][key] = 0 
