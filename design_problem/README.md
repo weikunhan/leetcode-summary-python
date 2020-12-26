@@ -45,6 +45,7 @@ For more information, you need to check related courses and books. Here, I split
 | 985 | https://leetcode.com/problems/maximum-frequency-stack/ | |
 | 1396 | https://leetcode.com/problems/design-underground-system/ | |
 | 1146 | https://leetcode.com/problems/snapshot-array/ | |
+| 1570 | https://leetcode.com/problems/dot-product-of-two-sparse-vectors/ | [this link](../practice/solution/1570_dot_product_of_two_sparse_vectors.py) |
 
 ## First-In-First-Out
 
