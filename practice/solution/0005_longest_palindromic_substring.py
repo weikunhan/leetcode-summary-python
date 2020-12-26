@@ -8,26 +8,24 @@ class Solution(object):
         row_end = len(s)
         col_end = len(s)
         dp_list = [[False] * col_end for _ in range(row_end)]
-        max_length = 0
+        temp_value = 0
         res = ''
         
-        for i in range(row_end):
+        for i in range(len(s)):
             dp_list[i][i] = True
             
-            if i < len(s) - 1 and s[i] == s[i + 1]:
+            if i + 1 < len(s) and s[i] == s[i + 1]:
                 dp_list[i][i + 1] = True
                 
-        for i in reversed(range(row_end - 2)):
-            for j in range(i + 2, col_end):
+        for i in reversed(range(len(s) - 2)):
+            for j in range(i + 2, len(s)):
                 if dp_list[i + 1][j - 1] and s[j] == s[i]:
                     dp_list[i][j] = True
                     
-        for i in range(row_end):
-            for j in range(i, col_end):
-                temp_value = j - i + 1
-                
-                if dp_list[i][j] and temp_value > max_length:
-                    max_length = temp_value
-                    res = s[i:i + max_length]
+        for i in range(len(s)):
+            for j in range(i, len(s)):
+                if dp_list[i][j] and j - i + 1 > temp_value:
+                    temp_value = j - i + 1
+                    res = s[i:i + temp_value]
                     
         return res

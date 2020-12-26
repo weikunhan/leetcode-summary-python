@@ -49,7 +49,7 @@ For this kind of question, you need to use 2D DP array to transfer state when de
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 5 | https://leetcode.com/problems/longest-palindromic-substring/ | |
+| 5 | https://leetcode.com/problems/longest-palindromic-substring/ | [this link](../practice/solution/0005_longest_palindromic_substring.py) |
 | 10 | https://leetcode.com/problems/regular-expression-matching/ | |
 | 44 | https://leetcode.com/problems/wildcard-matching/ | |
 | 72 | https://leetcode.com/problems/edit-distance/ | |
