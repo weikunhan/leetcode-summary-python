@@ -5,16 +5,16 @@ class Solution(object):
         :rtype: int
         """
         
-        value_dict = set(nums)
+        value_set = set(nums)
         res = 0
         
-        for value in value_dict:
-            if not value - 1 in value_dict:
-                temp_value = value + 1
+        for key in value_set:
+            if not key - 1 in value_set:
+                temp_value = key + 1
                 
-                while temp_value in value_dict:
+                while temp_value in value_set:
                     temp_value += 1
                     
-                res = max(res, temp_value - value)
+                res = max(res, temp_value - key)
                 
         return res
