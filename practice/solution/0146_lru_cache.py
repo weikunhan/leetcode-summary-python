@@ -6,10 +6,10 @@ class LRUCache(object):
         """
         :type capacity: int
         """
-        
+       
         self.value_dict = collections.OrderedDict()
         self.capacity_value = capacity
-
+        
     def get(self, key):
         """
         :type key: int
@@ -22,9 +22,9 @@ class LRUCache(object):
             temp_value = self.value_dict[key]
             self.value_dict.pop(key)
             self.value_dict[key] = temp_value
-        
+                
         return temp_value
-        
+
     def put(self, key, value):
         """
         :type key: int
@@ -35,13 +35,13 @@ class LRUCache(object):
         if key in self.value_dict:
             self.value_dict.pop(key)
             self.value_dict[key] = value
-        else:    
+        else:
             if len(self.value_dict) == self.capacity_value:
                 self.value_dict.popitem(last=False)
-                
+            
             self.value_dict[key] = value
-                
-        
+            
+
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
 # param_1 = obj.get(key)
