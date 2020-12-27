@@ -13,9 +13,8 @@ class Solution(object):
         for i in range(len(value_list) - 1):
             if value_list[i + 1] - value_list[i] == 2:
                 res.append(str(value_list[i] + 1))
-            elif value_list[i + 1] - value_list[i] > 2:
+            
+            if value_list[i + 1] - value_list[i] > 2:
                 res.append(str(value_list[i] + 1) + '->' + str(value_list[i + 1] - 1))
-            else:
-                pass
             
         return res
