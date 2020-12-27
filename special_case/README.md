@@ -63,7 +63,6 @@ There are few problems that are related to mathematical. You should familiar wit
 | 1131 | https://leetcode.com/problems/maximum-of-absolute-value-expression/ | |
 | 1175 | https://leetcode.com/problems/prime-arrangements/ | |
 | 1185 | https://leetcode.com/problems/day-of-the-week/ | |
-| 1275 |https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/ | |
 | 1344 | https://leetcode.com/problems/angle-between-hands-of-a-clock/ | |
 | 1360 | https://leetcode.com/problems/number-of-days-between-two-dates/ | |
 

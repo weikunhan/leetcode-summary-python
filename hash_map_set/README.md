@@ -57,7 +57,9 @@ Same as a hash map, the time complexity of the hash set is O(1) (Search O(1), In
 | 564 | https://leetcode.com/problems/find-the-closest-palindrome/ | |
 | 723 | https://leetcode.com/problems/candy-crush/ | |
 | 734 | https://leetcode.com/problems/sentence-similarity/ | |
+| 794 | https://leetcode.com/problems/valid-tic-tac-toe-state/ | [this link](../practice/solution/0794_valid_tic_tac_toe_state.py) |
 | 929 | https://leetcode.com/problems/unique-email-addresses/ | |
 | 970 | https://leetcode.com/problems/powerful-integers/ | |
 | 1044 | https://leetcode.com/problems/longest-duplicate-substring/ | |
+| 1275 |https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/ | |
 | 1380 | https://leetcode.com/problems/lucky-numbers-in-a-matrix/ | [this link](../practice/solution/1380_lucky_numbers_in_a_matrix.py) |
