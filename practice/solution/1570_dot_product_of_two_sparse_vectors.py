@@ -16,21 +16,23 @@ class SparseVector:
         :type vec: 'SparseVector'
         :rtype: int
         """
-        nums1 = self.value_dict
-        nums2 = vec.value_dict
-        res = 0
+
+        a_value_dict = self.value_dict
+        b_value_dict = vec.value_dict
+        temp_value = 0
         
-        if len(nums1) > len(nums2):
-            #temp = nums1
-            #nums1 = nums2
-            #nums2 = temp
-            nums1, nums2 = nums2,  nums1
+        if len(a_value_dict) > len(b_value_dict):
+            #temp = a_value_dict
+            #a_value_dict = b_value_dict
+            #b_value_dict = temp
+            b_value_dict, a_value_dict = a_value_dict,  b_value_dict
             
-        for key, value in nums1.items():
-            if key in nums2:
-                res += value * nums2[key]
+        for key, value in a_value_dict.items():
+            if key in b_value_dict:
+                temp_value += value * b_value_dict[key]
                 
-        return res
+        return temp_value
+            
             
 # Your SparseVector object will be instantiated and called as such:
 # v1 = SparseVector(nums1)
