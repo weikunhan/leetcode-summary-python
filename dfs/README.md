@@ -66,6 +66,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 199 | https://leetcode.com/problems/binary-tree-right-side-view/ | [this link](../practice/solution/0199_binary_tree_right_side_view.py) |
 | 298 | https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/ | [this link](../practice/solution/0298_binary_tree_longest_consecutive_sequence.py) |
 | 437 | https://leetcode.com/problems/path-sum-iii/ | [this link](../practice/solution/0437_path_sum_iii.py) |
+| 536 | https://leetcode.com/problems/construct-binary-tree-from-string/ | [this link](../practice/solution/0536_construct_binary_tree_from_string.py) |
 | 589 | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | |
 | 617 | https://leetcode.com/problems/merge-two-binary-trees/ | [this link](../practice/solution/0617_merge_two_binary_trees.py) |
 | 700 | https://leetcode.com/problems/search-in-a-binary-search-tree/ | |
