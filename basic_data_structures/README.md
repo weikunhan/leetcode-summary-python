@@ -106,6 +106,7 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 93 | https://leetcode.com/problems/restore-ip-addresses/ | [this link](../practice/solution/0093_restore_ip_addresses.py) |
 | 125 | https://leetcode.com/problems/valid-palindrome/ | [this link](../practice/solution/0125_valid_palindrome.py) |
 | 151 | https://leetcode.com/problems/reverse-words-in-a-string/ | [this link](../practice/solution/0151_reverse_words_in_a_string.py) |
+| 163 | https://leetcode.com/problems/missing-ranges/ | [this link](../practice/solution/0163_missing_ranges.py) |
 | 165 | https://leetcode.com/problems/compare-version-numbers/ | |
 | 179 | https://leetcode.com/problems/largest-number/ | [this link](../practice/solution/0179_largest_number.py) |
 | 242 | https://leetcode.com/problems/valid-anagram/ | [this link](../practice/solution/0240_valid_anagram.py) |
