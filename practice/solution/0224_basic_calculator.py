@@ -25,7 +25,7 @@ class Solution(object):
                     value_stack.append((res, sign))
                     sign = 1
                     res = 0
-                elif char == ')':
+                else:
                     res += sign * sum_value
                     temp_value, exp_value = value_stack.pop()
                     res *= exp_value
