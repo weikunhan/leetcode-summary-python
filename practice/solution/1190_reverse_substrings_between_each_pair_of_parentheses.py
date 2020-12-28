@@ -12,11 +12,11 @@ class Solution(object):
             if char == '(':
                 value_stack.append('')
             elif char == ')':
-                temp_value = value_stack.pop()[::-1]
-                value_stack[-1] += temp_value
+                temp_value = value_stack.pop()
+                value_stack[-1] += temp_value[::-1]
             else:
                 value_stack[-1] += char
                 
-        res = ''.join(value_stack.pop())
-            
+        res = ''.join(value_stack[-1])
+        
         return res
