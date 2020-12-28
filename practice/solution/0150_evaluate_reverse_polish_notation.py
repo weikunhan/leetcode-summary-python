@@ -12,18 +12,22 @@ class Solution(object):
             if not token in '+-*/':
                 value_stack.append(int(token))
             else:
-                right_value = value_stack.pop()
-                left_value = value_stack.pop()
+                first_value = value_stack.pop()
+                second_value = value_stack.pop()
                 
                 if token == '+':
-                    value_stack.append(int(right_value + left_value))
+                    value_stack.append(second_value + first_value)
                 elif token == '-':
-                    value_stack.append(int(left_value - right_value))
+                    value_stack.append(second_value - first_value)
                 elif token == '*':
-                    value_stack.append(int(right_value * left_value))
+                    value_stack.append(second_value * first_value)
                 else:
-                    value_stack.append(int(left_value / float(right_value)))
-                    
+                    #carry, remainder = divmod(second_value, first_value)
+                    #if carry < 0 and remainder:
+                    #    carry += 1
+                    #value_stack.append(carry)
+                    value_stack.append(int(second_value / float(first_value)))
+        
         res = value_stack.pop()
         
-        return res
+        return res 
