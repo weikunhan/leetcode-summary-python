@@ -4,11 +4,11 @@ class Solution(object):
         :type path: str
         :rtype: str
         """
-
+        
         value_list = path.split('/')
         value_stack = []
         res = '/'
-
+        
         for path in value_list:
             if path and path != '.':
                 if path == '..':
@@ -16,8 +16,8 @@ class Solution(object):
                         value_stack.pop()
                 else:
                     value_stack.append(path)
-
+                    
         res += '/'.join(value_stack)
-
+        
         return res
                     
