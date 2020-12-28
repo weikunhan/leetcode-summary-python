@@ -6,43 +6,38 @@ class Solution(object):
         """
         
         value_stack = []
-        sum_value = 0
         sign = '+'
+        sum_value = 0
         res = 0
         
-        for i in range(len(s)):
-            if s[i].isdigit():
-                sum_value = sum_value * 10 + int(s[i])
+        for char in s + '+':
+            if char.isdigit():
+                sum_value = sum_value * 10 + int(char)
             
-            if s[i] in '+-*/' or i == len(s) - 1:
+            if char in '+-*/':
                 if sign == '+':
                     value_stack.append(sum_value)
-                    sign = s[i]
-                    sum_value = 0
+                    sign = char
                 elif sign == '-':
-                    value_stack.append(-sum_value) 
-                    sign = s[i]
-                    sum_value = 0
+                    value_stack.append(-sum_value)
+                    sign = char
                 elif sign == '*':
                     temp_value = value_stack.pop()
                     value_stack.append(temp_value * sum_value)  
-                    sign = s[i]
-                    sum_value = 0
-                elif sign == '/':
-                    temp_value = value_stack.pop()
-                    carry, remainder = divmod(temp_value, sum_value)
-
-                    if carry < 0 and remainder:
-                        carry += 1
-  
-                    value_stack.append(carry)
-                    sign = s[i] 
-                    sum_value = 0
+                    sign = char
                 else:
-                    pass
-                        
+                    temp_value = value_stack.pop()
+                    #carry, remainder = divmod(temp_value, sum_value)
+                    #if carry < 0 and remainder:
+                    #    carry += 1
+                    #value_stack.append(carry)
+                    value_stack.append(int(temp_value / float(sum_value)))
+                    sign = char
+                
+                sum_value = 0
+      
         res = sum(value_stack)
         
-        return res
+        return res         
 
 
