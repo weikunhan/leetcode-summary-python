@@ -112,7 +112,7 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 163 | https://leetcode.com/problems/missing-ranges/ | [this link](../practice/solution/0163_missing_ranges.py) |
 | 165 | https://leetcode.com/problems/compare-version-numbers/ | |
 | 179 | https://leetcode.com/problems/largest-number/ | [this link](../practice/solution/0179_largest_number.py) |
-| 242 | https://leetcode.com/problems/valid-anagram/ | [this link](../practice/solution/0240_valid_anagram.py) |
+| 242 | https://leetcode.com/problems/valid-anagram/ | [this link](../practice/solution/0242_valid_anagram.py) |
 | 387 | https://leetcode.com/problems/first-unique-character-in-a-string/ | |
 | 405 | https://leetcode.com/problems/convert-a-number-to-hexadecimal/ | |
 | 419 | https://leetcode.com/problems/battleships-in-a-board/ | |
