@@ -30,6 +30,7 @@ For programming practice, you need to know how to: 1)iterate through 1D array, 2
 | ---- | --------------------------------- | --------------------------------- |
 | 14 | https://leetcode.com/problems/longest-common-prefix/ | [this link](../practice/solution/0014_longest_common_prefix.py) |
 | 28 | https://leetcode.com/problems/implement-strstr/ | [this link](../practice/solution/0028_implement_strstr.py) |
+| 41 | https://leetcode.com/problems/first-missing-positive/ | [this link](../practice/solution/0041_first_missing_positive.py) |
 | 54 | https://leetcode.com/problems/spiral-matrix/ | [this link](../practice/solution/0054_spiral_matrix.py) |
 | 56 | https://leetcode.com/problems/merge-intervals/ | [this link](../practice/solution/0056_merge_intervals.py) |
 | 57 | https://leetcode.com/problems/insert-interval/ | [this link](../practice/solution/0057_insert_interval.py) |
