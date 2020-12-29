@@ -39,6 +39,7 @@ For programming practice, you need to know how to: 1)iterate through 1D array, 2
 | 238 | https://leetcode.com/problems/product-of-array-except-self/ | [this link](../practice/solution/0238_product_of_array_except_self.py) |
 | 252 | https://leetcode.com/problems/meeting-rooms/ | [this link](../practice/solution/0252_meeting_rooms.py) |
 | 253 | https://leetcode.com/problems/meeting-rooms-ii/ | [this link](../practice/solution/0253_meeting_rooms_ii.py) |
+| 268 | https://leetcode.com/problems/missing-number/ | [this link](../practice/solution/0268_missing_number.py) | 
 | 277 | https://leetcode.com/problems/find-the-celebrity/ | [this link](../practice/solution/0277_find_the_celebrity.py) |
 | 386 | https://leetcode.com/problems/lexicographical-numbers/ | [this link](../practice/solution/0386_lexicographical_numbers.py) | 
 | 605 | https://leetcode.com/problems/can-place-flowers/ | [this link](../practice/solution/0605_can_place_flowers.py) |
