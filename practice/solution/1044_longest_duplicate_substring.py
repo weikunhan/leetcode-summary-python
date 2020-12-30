@@ -10,7 +10,7 @@ class Solution(object):
         low = 0
         high = len(S)
         count = 0
-        res = ''
+        self.res = ''
         
         while low < high:
             mid = (low + high) // 2
@@ -21,28 +21,30 @@ class Solution(object):
                 count = temp_value
             else:
                 high = mid
-                
-        res = S[count:count + low - 1]
             
-        return res
+        self.res = S[count:count + low - 1]
         
-    def helper(self, length):
+        return self.res
+    
+    def helper(self, start):
         value_dict = set()
-        base_value = 26 ** length % self.max_value
+        base_value = 26 ** start % self.max_value
         temp_value = 0
+        sum_value = 0
         
-        sum_value = reduce(lambda x, y:(x * 26 + y) % self.max_value, self.value_list[:length], 0)
+        #for i in range(start):
+        #    sum_value = (sum_value * 26 + self.value_list[i]) % self.max_value
+        sum_value = reduce(lambda x, y:(x * 26 + y) % self.max_value, self.value_list[:start], 0)
         value_dict.add(sum_value)
         
-        for i in range(length, len(self.value_list)):
-            sum_value = (sum_value * 26 + self.value_list[i] - self.value_list[i - length] * base_value) % self.max_value
+        for i in range(start, len(self.value_list)):
+            sum_value = (sum_value * 26 + self.value_list[i] - self.value_list[i - start] * base_value) % self.max_value
             
             if sum_value in value_dict:
-                temp_value = i - length + 1
+                temp_value = i - start + 1
                 
                 return temp_value
             
             value_dict.add(sum_value)
-            
-        return temp_value
         
+        return temp_value
