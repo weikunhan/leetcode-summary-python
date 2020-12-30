@@ -26,6 +26,7 @@ The time complexity of this technique depends on the question.
 | 75 | https://leetcode.com/problems/sort-colors/ | [this link](../practice/solution/0075_sort_colors.py) |
 | 88 | https://leetcode.com/problems/merge-sorted-array/ | [this link](../practice/solution/0088_merge_sorted_array.py) |
 | 283 | https://leetcode.com/problems/move-zeroes/ | [this link](../practice/solution/0283_move_zeroes.py) |
+| 415 | https://leetcode.com/problems/add-strings/ | [this link](../practice/solution/0415_add_strings.py) |
 | 881 | https://leetcode.com/problems/boats-to-save-people/ | |
 | 1099 | https://leetcode.com/problems/two-sum-less-than-k/ | [this link](../practice/solution/1099_two_sum_less_than_k.py) |
 | 1099* | https://leetcode.com/discuss/interview-question/373202 | [this link](../practice/a/optimal_utilization.py) |
