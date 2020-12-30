@@ -25,7 +25,7 @@ class Solution(object):
         high = len(self.value_list)
         
         while low < high:
-            mid = (low + high) //2
+            mid = (low + high) // 2
             
             if self.value_list[mid] < target:
                 low = mid + 1
