@@ -7,8 +7,9 @@ class MedianFinder(object):
         initialize your data structure here.
         """
         
-        self.small_value_pq = []
-        self.large_value_pq = []
+        self.min_value_pq = []
+        self.max_value_pq = []
+        
 
     def addNum(self, num):
         """
@@ -16,27 +17,27 @@ class MedianFinder(object):
         :rtype: None
         """
         
-        temp_value = heapq.heappushpop(self.large_value_pq, num)
-        heapq.heappush(self.small_value_pq, -temp_value)
+        temp_value = heapq.heappushpop(self.min_value_pq, num)
+        heapq.heappush(self.max_value_pq, -temp_value)
         
-        if len(self.small_value_pq) > len(self.large_value_pq):
-            temp_value = heapq.heappop(self.small_value_pq)
-            heapq.heappush(self.large_value_pq, -temp_value)
-
+        if len(self.max_value_pq) > len(self.min_value_pq):
+            temp_value = heapq.heappop(self.max_value_pq)
+            heapq.heappush(self.min_value_pq, -temp_value)
+            
     def findMedian(self):
         """
         :rtype: float
         """
         
-        temp_value = 1.0
+        temp_value = 0
         
-        if len(self.small_value_pq) < len(self.large_value_pq):
-            temp_value = self.large_value_pq[0] / temp_value
+        if len(self.max_value_pq) < len(self.min_value_pq):
+            temp_value = self.min_value_pq[0] / 1.0
         else:
-            temp_value = (self.large_value_pq[0] - self.small_value_pq[0]) / 2.0
+            temp_value = (self.min_value_pq[0] - self.max_value_pq[0]) / 2.0
             
         return temp_value
-
+        
 
 # Your MedianFinder object will be instantiated and called as such:
 # obj = MedianFinder()
