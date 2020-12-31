@@ -14,22 +14,21 @@ class Codec:
         :rtype: str
         """
         
-        value_list = []
-        
-        self.preorder_serialize(root, value_list)
-        temp_value = ' '.join(value_list)
+        self.value_list = []
+        self.preorder_serialize(root)
+        temp_value = ' '.join(self.value_list)
         
         return temp_value
     
-    def preorder_serialize(self, root, value_list):
+    def preorder_serialize(self, root):
         if not root:
-            value_list.append('#')
+            self.value_list.append('#')
             
             return 
         
-        value_list.append(str(root.val))
-        self.preorder_serialize(root.left, value_list)
-        self.preorder_serialize(root.right, value_list)
+        self.value_list.append(str(root.val))
+        self.preorder_serialize(root.left)
+        self.preorder_serialize(root.right)
 
     def deserialize(self, data):
         """Decodes your encoded data to tree.
@@ -39,9 +38,7 @@ class Codec:
         """
         
         self.count = 0
-        value_list = data.split(' ')
-        
-        temp_value = self.preorder_deserialize(value_list)
+        temp_value = self.preorder_deserialize(data.split(' '))
         
         return temp_value
     
@@ -51,15 +48,16 @@ class Codec:
         
         if temp_value == '#':
             
-            return None
+            return 
         
         root = TreeNode(temp_value)
         root.left = self.preorder_deserialize(value_list)
         root.right = self.preorder_deserialize(value_list)
         
-        return root
-        
+        return root     
+    
 
 # Your Codec object will be instantiated and called as such:
-# codec = Codec()
-# codec.deserialize(codec.serialize(root))
+# ser = Codec()
+# deser = Codec()
+# ans = deser.deserialize(ser.serialize(root))

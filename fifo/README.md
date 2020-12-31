@@ -14,7 +14,9 @@ The time complexity of the queue is Push-Right O(1) and Pop-Left O(1). The Space
 
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 239 | https://leetcode.com/problems/sliding-window-maximum/ | |
+| 157 | https://leetcode.com/problems/read-n-characters-given-read4/ | [this link](../practice/solution/0157_read_n_characters_given_read4.py) |
+| 158 | https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/ | [this link](../practice/solution/0158_read_n_characters_given_read4_ii_call_multiple_times.py) |
+| 239 | https://leetcode.com/problems/sliding-window-maximum/ | [this link](../practice/solution/0239_sliding_window_maximum.py) |
 | 862 | https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/ | [this link](../practice/solution/0862_shortest_subarray_with_sum_at_least_k.py) |
 | 942 | https://leetcode.com/problems/di-string-match/ | [this link](../practice/solution/0942_di_string_match.py) |
 

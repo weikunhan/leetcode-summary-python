@@ -11,7 +11,7 @@ class TicTacToe(object):
         self.col_value_list = [0] * n
         self.diagonal_value = 0
         self.antidiagonal_value = 0
-        
+
     def move(self, row, col, player):
         """
         Player {player} makes a move at ({row}, {col}).
@@ -31,10 +31,10 @@ class TicTacToe(object):
         temp_value = 0
         sign = 0
         
-        if player == 2:
-            sign = -1
-        else:
+        if player == 1:
             sign = 1
+        else:
+            sign = -1
             
         self.row_value_list[row] += sign
         self.col_value_list[col] += sign
@@ -42,14 +42,12 @@ class TicTacToe(object):
         if row == col:
             self.diagonal_value += sign
             
-        if col == self.max_value - row - 1:
+        if row == self.max_value - col - 1:
             self.antidiagonal_value += sign
             
         if abs(self.row_value_list[row]) == self.max_value or abs(self.col_value_list[col]) == self.max_value or abs(self.diagonal_value) == self.max_value or abs(self.antidiagonal_value) == self.max_value:
             temp_value = player
             
-            return temp_value
-        
         return temp_value
 
 

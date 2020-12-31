@@ -51,7 +51,6 @@ For more information, you need to check related courses and books. Here, I split
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 158 | https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/ | [this link](../practice/solution/0158_read_n_characters_given_read4_ii_call_multiple_times.py) |
 | 225 | https://leetcode.com/problems/implement-stack-using-queues/ | |
 | 281 | https://leetcode.com/problems/zigzag-iterator/ | |
 | 353 | https://leetcode.com/problems/design-snake-game/ | |
