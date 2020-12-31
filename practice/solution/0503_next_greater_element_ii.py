@@ -15,5 +15,5 @@ class Solution(object):
                     res[temp_value] = nums[i]
 
                 value_stack.append(i)
-                
+            
         return res
