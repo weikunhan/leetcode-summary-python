@@ -117,4 +117,4 @@ From my understanding, the binary indexed tree is another evolution from divided
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 307 | https://leetcode.com/problems/range-sum-query-mutable/ | |
+| 315 | https://leetcode.com/problems/count-of-smaller-numbers-after-self/ | [this link](../practice/solution/0315_count_of_smaller_numbers_after_self.py) |

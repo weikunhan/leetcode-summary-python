@@ -8,18 +8,16 @@ class Solution(object):
         """
         
         value_dict = collections.Counter()
-        res = 0
+        res = len(wall)
         
-        for layer in wall:
+        for row in wall:
             temp_value = 0
             
-            for brick in layer[:-1]:
+            for brick in row[:-1]:
                 temp_value += brick
                 value_dict[temp_value] += 1
-                
+        
         if value_dict:
             res = len(wall) - max(value_dict.values())
-        else:
-            res = len(wall)
         
         return res

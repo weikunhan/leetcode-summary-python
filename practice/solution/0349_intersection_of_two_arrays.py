@@ -11,9 +11,10 @@ class Solution(object):
         value_dict = collections.Counter(nums1)
         res = []
         
-        for value in nums2:
-            if value_dict[value] > 0:
-                res.append(value)
-                value_dict[value] = 0
+        for num in nums2:
+            if value_dict[num] > 0:
+                res.append(num)
+                value_dict[num] = 0
         
         return res
+        
