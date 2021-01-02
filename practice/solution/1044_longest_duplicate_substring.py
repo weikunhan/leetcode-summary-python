@@ -5,12 +5,15 @@ class Solution(object):
         :rtype: str
         """
         
-        self.value_list = [ord(x) - ord('a') for x in S]
+        self.value_list = []
         self.max_value = sys.maxsize
         low = 0
         high = len(S)
         count = 0
         self.res = ''
+
+        for char in S:
+            self.value_list.append(ord(char) - ord('a'))
         
         while low < high:
             mid = (low + high) // 2
