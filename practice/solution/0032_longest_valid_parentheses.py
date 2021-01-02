@@ -18,7 +18,6 @@ class Solution(object):
                     temp_value = value_stack.pop()
                     dp_list[i + 1] = dp_list[temp_value] + i - temp_value + 1
 
-          
         res = max(dp_list)
         
         return res
