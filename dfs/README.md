@@ -14,6 +14,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 17 | https://leetcode.com/problems/letter-combinations-of-a-phone-number/ | [this link](../practice/solution/0017_letter_combinations_of_a_phone_number.py) |
 | 22 | https://leetcode.com/problems/generate-parentheses/ | [this link](../practice/solution/0022_generate_parentheses.py) |
+| 39 | https://leetcode.com/problems/combination-sum/ | [this link](../practice/solution/0039_combination_sum.py) | 
 | 46 | https://leetcode.com/problems/permutations/ | [this link](../practice/solution/0046_permutations.py) |
 | 47 | https://leetcode.com/problems/permutations-ii/ | [this link](../practice/solution/0047_permutations_ii.py) |
 | 78 | https://leetcode.com/problems/subsets/ | [this link](../practice/solution/0078_subsets.py) |
