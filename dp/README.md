@@ -113,7 +113,7 @@ For this kind of question, you need to famillar with basic math knowlegae.
 | 204 | https://leetcode.com/problems/count-primes/ | [this link](../practice/solution/0204_count_primes.py) | 
 | 264 | https://leetcode.com/problems/ugly-number-ii/ | [this link](../practice/solution/0264_ugly_number_ii.py) |
 | 311 | https://leetcode.com/problems/sparse-matrix-multiplication/ | |
-| 509 | https://leetcode.com/problems/fibonacci-number/ | |
+| 509 | https://leetcode.com/problems/fibonacci-number/ | [this link](../practice/solution/0509_fibonacci_number.py) |
 
 ## Game-type DP
 
