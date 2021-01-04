@@ -85,6 +85,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | 148 | https://leetcode.com/problems/sort-list/ | [this link](../practice/solution/0148_sort_list.py) |
 | 203 | https://leetcode.com/problems/remove-linked-list-elements/ | |
 | 206 | https://leetcode.com/problems/reverse-linked-list/ | [this link](../practice/solution/0206_reverse_linked_list.py) |
+| 234 | https://leetcode.com/problems/palindrome-linked-list/ | [this link](../practice/solution/0234_palindrome_linked_list.py) |
 | 237 | https://leetcode.com/problems/delete-node-in-a-linked-list/ | |
 | 328 | https://leetcode.com/problems/odd-even-linked-list/ | [this link](../practice/solution/0328_odd_even_linked_list.py) |
 | 369 | https://leetcode.com/problems/plus-one-linked-list/ | |
