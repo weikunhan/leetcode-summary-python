@@ -93,6 +93,7 @@ For more information, you need to check related courses and books. Here, I split
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 715 | https://leetcode.com/problems/range-module/ | [this link](../practice/solution/0715_range_module.py) | 
 | 911 | https://leetcode.com/problems/online-election/ | |
 | 981 | https://leetcode.com/problems/time-based-key-value-store/ | [this link](../practice/solution/0981_time_based_key_value_store.py) |
 
