@@ -23,7 +23,7 @@ class Solution(object):
                 
             num = carry
             
-        self.res = self.res.strip()
+        self.res = self.res.strip(' ')
         
         return self.res
     

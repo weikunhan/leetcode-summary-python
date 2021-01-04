@@ -5,6 +5,6 @@ class Solution(object):
         :rtype: int
         """
 
-        res = len(s.strip().split(' ')[-1])
+        res = len(s.strip(' ').split(' ')[-1])
 
         return res

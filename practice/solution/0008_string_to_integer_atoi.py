@@ -8,7 +8,7 @@ class Solution(object):
         sign = 1
         count = 0
         res = 0
-        temp_value = str.strip()
+        temp_value = str.strip(' ')
         
         if not temp_value:
             
