@@ -26,25 +26,24 @@ class TimeMap(object):
         :rtype: str
         """
         
-        temp_list = self.value_dict[key]
-        temp_value = ''
         low = 0
-        high = len(temp_list)
+        high = len(self.value_dict[key])
+        temp_value = ''
         
         while low < high:
             mid = (low + high) // 2
             
-            if temp_list[mid][0] <= timestamp:
+            if self.value_dict[key][mid][0] < timestamp + 1:
                 low = mid + 1
             else:
                 high = mid
-                
-        if high:
-            temp_value = temp_list[high - 1][1]
-            
-        return temp_value
-        
 
+        if high:
+            temp_value = self.value_dict[key][low - 1][1]
+        
+        return temp_value   
+
+    
 # Your TimeMap object will be instantiated and called as such:
 # obj = TimeMap()
 # obj.set(key,value,timestamp)
