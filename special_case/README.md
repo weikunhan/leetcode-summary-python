@@ -60,6 +60,7 @@ There are few problems that are related to mathematical. You should familiar wit
 | 650 | https://leetcode.com/problems/2-keys-keyboard/ | |
 | 780 | https://leetcode.com/problems/reaching-points/ | |
 | 866 | https://leetcode.com/problems/prime-palindrome/ | |
+| 905 | https://leetcode.com/problems/sort-array-by-parity/ | [this link](../practice/solution/0905_sort_array_by_parity.py) | 
 | 991 | https://leetcode.com/problems/broken-calculator/ | |
 | 1131 | https://leetcode.com/problems/maximum-of-absolute-value-expression/ | |
 | 1175 | https://leetcode.com/problems/prime-arrangements/ | |
