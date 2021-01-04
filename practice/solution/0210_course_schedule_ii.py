@@ -33,8 +33,8 @@ class Solution(object):
                     
                     if not degree_value_list[neighbor]:
                         value_list.append(neighbor)
-                    
-        if len(res) != numCourses:
+                        
+        if numCourses != len(res):
             res = []
-                    
-        return res     
+            
+        return res
