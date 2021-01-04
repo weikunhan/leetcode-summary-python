@@ -108,7 +108,7 @@ For this kind of question, you need to famillar with basic math knowlegae.
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 43 | https://leetcode.com/problems/multiply-strings/ | [this link](../practice/solution/0043_multiply_strings.py) |
-| 70 | https://leetcode.com/problems/climbing-stairs/ | |
+| 70 | https://leetcode.com/problems/climbing-stairs/ | [this link](../practice/solution/0070_climbing_stairs.py) |
 | 96 | https://leetcode.com/problems/unique-binary-search-trees/ | |
 | 204 | https://leetcode.com/problems/count-primes/ | [this link](../practice/solution/0204_count_primes.py) | 
 | 264 | https://leetcode.com/problems/ugly-number-ii/ | [this link](../practice/solution/0264_ugly_number_ii.py) |
