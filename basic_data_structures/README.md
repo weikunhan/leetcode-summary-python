@@ -119,6 +119,7 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 468 | https://leetcode.com/problems/validate-ip-address/ | |
 | 640 | https://leetcode.com/problems/solve-the-equation/ | |
 | 678 | https://leetcode.com/problems/valid-parenthesis-string/ | [this link](../practice/solution/0678_valid_parenthesis_string.py) |
+| 680 | https://leetcode.com/problems/valid-palindrome-ii/ | [this link](../practice/solution/0680_valid_palindrome_ii.py) | 
 | 681 | https://leetcode.com/problems/next-closest-time/ | [this link](../practice/solution/0681_next_closest_time.py) |
 | 722 | https://leetcode.com/problems/remove-comments/ | [this link](../practice/solution/0722_remove_comments.py) |
 | 777 | https://leetcode.com/problems/swap-adjacent-in-lr-string/ | [this link](../practice/solution/0777_swap_adjacent_in_lr_string.py) |
