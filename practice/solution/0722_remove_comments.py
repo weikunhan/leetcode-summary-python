@@ -5,34 +5,34 @@ class Solution(object):
         :rtype: List[str]
         """
         
-        sign = -1
+        sign = 1
         temp_value = ''
         res = []
         
-        for code in source:
+        for line in source:
             count = 0
             
-            while count < len(code):
-                if sign == -1:
-                    if count < len(code) - 1 and code[count:count + 2] == '//':
-                        break
+            while count < len(line):
+                if sign and count < len(line) - 1 and line[count:count + 2] == '/*':
+                    sign = 0
+                    count += 2
+                    continue
                     
-                    if count < len(code) - 1 and code[count:count + 2] == '/*':
-                        sign = 1
-                        count += 2
-                        continue
+                if not sign and count < len(line) - 1 and line[count:count + 2] == '*/':
+                    sign = 1
+                    count += 2
+                    continue
                     
-                    temp_value += code[count]
-                else:
-                    if count < len(code) - 1 and code[count:count + 2] == '*/':
-                        sign = -1
-                        count += 2
-                        continue
-        
+                if sign and line[count:count + 2] == '//':
+                    break
+                    
+                if sign:
+                    temp_value += line[count]
+                    
                 count += 1
-                       
-            if sign == -1 and temp_value:
+            
+            if temp_value and sign:
                 res.append(temp_value)
                 temp_value = ''
-                
+            
         return res
