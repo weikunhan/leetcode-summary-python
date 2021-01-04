@@ -11,22 +11,25 @@ class Solution(object):
         :rtype: ListNode
         """
         
-        a_dummy_head = ListNode(-1)
-        b_dummy_head = ListNode(-1)
-        left = a_dummy_head
-        right = b_dummy_head
+        dummy_head = ListNode(-1)
+        dummy_head.next = head
+        left = dummy_head.next
+        right = None
+        temp_res = None
         
-        while head:
-            left.next = head
-            right.next = head.next
+        if not head:
+            
+            return dummy_head.next
+        
+        right = left.next
+        temp_res = right
+        
+        while right and right.next:
+            left.next = left.next.next
+            right.next = right.next.next
             left = left.next
             right = right.next
-            
-            if head.next:
-                head = head.next.next
-            else:
-                head = head.next
         
-        left.next = b_dummy_head.next
+        left.next = temp_res
         
-        return a_dummy_head.next
+        return dummy_head.next
