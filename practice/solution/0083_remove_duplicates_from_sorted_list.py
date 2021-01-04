@@ -1,8 +1,8 @@
 # Definition for singly-linked list.
 # class ListNode(object):
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 
 class Solution(object):
     def deleteDuplicates(self, head):
@@ -13,15 +13,15 @@ class Solution(object):
         
         dummy_head = ListNode(-1)
         dummy_head.next = head
-        left = dummy_head.next
-        right = dummy_head
+        right = dummy_head.next
+        left = dummy_head
         
-        while left and left.next:
-            if left.val == left.next.val:
-                left = left.next
-                right.next = left
+        while right and right.next:
+            if right.val == right.next.val:
+                right = right.next
+                left.next = right
             else:
                 left = left.next
                 right = right.next
-
+                
         return dummy_head.next
