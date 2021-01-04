@@ -86,7 +86,7 @@ For more information, you need to check related courses and books. Here, I split
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 295 | https://leetcode.com/problems/find-median-from-data-stream/ | [this link](../practice/solution/0295_find_median_from_data_stream.py) |
-| 352 | https://leetcode.com/problems/data-stream-as-disjoint-intervals/ | |
+| 352 | https://leetcode.com/problems/data-stream-as-disjoint-intervals/ | [this link](../practice/solution/0352_data_stream_as_disjoint_intervals.py) |
 | 1172 | https://leetcode.com/problems/dinner-plate-stacks/ | |
 
 ## Binary Seasrch
