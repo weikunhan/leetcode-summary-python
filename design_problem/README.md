@@ -66,7 +66,7 @@ For more information, you need to check related courses and books. Here, I split
 | ---- | --------------------------------- | --------------------------------- |
 | 155 | https://leetcode.com/problems/min-stack/ | [this link](../practice/solution/0155_min_stack.py) |
 | 173 | https://leetcode.com/problems/binary-search-tree-iterator/ | [this link](../practice/solution/0173_binary_search_tree_iterator.py) |
-| 232 | https://leetcode.com/problems/implement-queue-using-stacks/ | |
+| 232 | https://leetcode.com/problems/implement-queue-using-stacks/ | [this link](../practice/solution/0232_implement_queue_using_stacks.py) |
 | 251 | https://leetcode.com/problems/flatten-2d-vector/ | | 
 | 284 | https://leetcode.com/problems/peeking-iterator/ | |
 | 341 | https://leetcode.com/problems/flatten-nested-list-iterator/ | [this link](../practice/solution/0341_flatten_nested_list_iterator.py) |
