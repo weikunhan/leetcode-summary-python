@@ -58,7 +58,7 @@ For more information, you need to check related courses and books. Here, I split
 | 604 | https://leetcode.com/problems/design-compressed-string-iterator/ | |
 | 622 | https://leetcode.com/problems/design-circular-queue/ | [this link](../practice/solution/0622_design_circular_queue.py) |
 | 933 | https://leetcode.com/problems/number-of-recent-calls/ | |
-| 1188 | https://leetcode.com/problems/design-bounded-blocking-queue/ | |
+| 1188 | https://leetcode.com/problems/design-bounded-blocking-queue/ | [this link](../practice/solution/1188_design_bounded_blocking_queue.py) |
 
 ## Last-In-First-Out
 
@@ -107,6 +107,5 @@ For more information, you need to check related courses and books. Here, I split
 | 384 | https://leetcode.com/problems/shuffle-an-array/ | [this link](../practice/solution/0384_shuffle_an_array.py) |
 | 729 | https://leetcode.com/problems/my-calendar-i/ | |
 | 731 | https://leetcode.com/problems/my-calendar-ii/ | |
-| 1188 | https://leetcode.com/problems/design-bounded-blocking-queue/ | [this link](../practice/solution/1188_design_bounded_blocking_queue.py) |
 | 1279 | https://leetcode.com/problems/traffic-light-controlled-intersection/ | |
 
