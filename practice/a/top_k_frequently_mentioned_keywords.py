@@ -59,16 +59,16 @@ class Solution(object):
         """
 
         count_value_dict = collections.Counter()
-        key_value_dict = set(keywords)
+        data_value_dict = set(keywords)
         res = []
 
         for review in reviews:
-            temp_list = re.split(r'[,\s]\s*', review.lower())
+            temp_list = re.split(r'[,\s]', review.lower())
 
             for word in temp_list:
                 word = re.sub(r'[^a-z0-9]', '', word)
 
-                if word in key_value_dict:
+                if word and word in data_value_dict:
                     count_value_dict[word] += 1
 
         res = heapq.nsmallest(k, count_value_dict, key=lambda x: (-count_value_dict[x], x))
