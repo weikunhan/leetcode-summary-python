@@ -104,7 +104,7 @@ For more information, you need to check related courses and books. Here, I split
 | 284 | https://leetcode.com/problems/peeking-iterator/ | [this link](../practice/solution/0284_peeking_iterator.py) | 
 | 307 | https://leetcode.com/problems/range-sum-query-mutable/ | |
 | 348 | https://leetcode.com/problems/design-tic-tac-toe/ | [this link](../practice/solution/0348_design_tic_tac_toe.py) |
-| 384 | https://leetcode.com/problems/shuffle-an-array/ | |
+| 384 | https://leetcode.com/problems/shuffle-an-array/ | [this link](../practice/solution/0384_shuffle_an_array.py) |
 | 729 | https://leetcode.com/problems/my-calendar-i/ | |
 | 731 | https://leetcode.com/problems/my-calendar-ii/ | |
 | 1279 | https://leetcode.com/problems/traffic-light-controlled-intersection/ | |
