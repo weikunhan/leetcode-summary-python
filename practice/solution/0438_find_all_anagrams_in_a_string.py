@@ -14,11 +14,11 @@ class Solution(object):
         
         for i in range(len(p) - 1, len(s)):
             count_value_dict[s[i]] += 1
-            temp_value = i - len(p) + 1
+            index_value = i - len(p) + 1
             
             if count_value_dict & target_value_dict == target_value_dict:
-                res.append(temp_value)
+                res.append(index_value)
                 
-            count_value_dict[s[temp_value]] -= 1
+            count_value_dict[s[index_value]] -= 1
   
         return res
