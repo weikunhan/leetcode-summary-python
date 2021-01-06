@@ -117,6 +117,7 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 163 | https://leetcode.com/problems/missing-ranges/ | [this link](../practice/solution/0163_missing_ranges.py) |
 | 165 | https://leetcode.com/problems/compare-version-numbers/ | |
 | 179 | https://leetcode.com/problems/largest-number/ | [this link](../practice/solution/0179_largest_number.py) |
+| 191 | https://leetcode.com/problems/number-of-1-bits/ | [this link](../practice/solution/0191_number_of_1_bits.py) |
 | 214 | https://leetcode.com/problems/shortest-palindrome/ | [this link](../practice/solution/0214_shortest_palindrome.py) | 
 | 242 | https://leetcode.com/problems/valid-anagram/ | [this link](../practice/solution/0242_valid_anagram.py) |
 | 387 | https://leetcode.com/problems/first-unique-character-in-a-string/ | |
