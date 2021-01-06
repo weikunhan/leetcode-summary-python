@@ -120,7 +120,6 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 191 | https://leetcode.com/problems/number-of-1-bits/ | [this link](../practice/solution/0191_number_of_1_bits.py) |
 | 214 | https://leetcode.com/problems/shortest-palindrome/ | [this link](../practice/solution/0214_shortest_palindrome.py) | 
 | 242 | https://leetcode.com/problems/valid-anagram/ | [this link](../practice/solution/0242_valid_anagram.py) |
-| 387 | https://leetcode.com/problems/first-unique-character-in-a-string/ | |
 | 405 | https://leetcode.com/problems/convert-a-number-to-hexadecimal/ | |
 | 419 | https://leetcode.com/problems/battleships-in-a-board/ | |
 | 468 | https://leetcode.com/problems/validate-ip-address/ | |
