@@ -6,5 +6,5 @@ INNER JOIN Department
 ON Employee.DepartmentId=Department.Id 
 WHERE (DepartmentId, Salary) 
 IN (SELECT DepartmentId, MAX(Salary)
-FROM Employee
-GROUP BY DepartmentId)
+    FROM Employee
+    GROUP BY DepartmentId)
