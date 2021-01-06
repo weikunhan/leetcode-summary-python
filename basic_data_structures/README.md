@@ -43,6 +43,7 @@ For programming practice, you need to know how to: 1)iterate through 1D array, 2
 | 268 | https://leetcode.com/problems/missing-number/ | [this link](../practice/solution/0268_missing_number.py) | 
 | 277 | https://leetcode.com/problems/find-the-celebrity/ | [this link](../practice/solution/0277_find_the_celebrity.py) |
 | 287 | https://leetcode.com/problems/find-the-duplicate-number/ | [this link](../practice/solution/0287_find_the_duplicate_number.py) |
+| 334 | https://leetcode.com/problems/increasing-triplet-subsequence/ | [this link](../practice/solution/0334_increasing_triplet_subsequence.py) |
 | 386 | https://leetcode.com/problems/lexicographical-numbers/ | [this link](../practice/solution/0386_lexicographical_numbers.py) | 
 | 442 | https://leetcode.com/problems/find-all-duplicates-in-an-array/ | [this link](../practice/solution/0442_find_all_duplicates_in_an_array.py) |
 | 605 | https://leetcode.com/problems/can-place-flowers/ | [this link](../practice/solution/0605_can_place_flowers.py) |
