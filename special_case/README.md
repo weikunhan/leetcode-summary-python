@@ -49,7 +49,7 @@ There are few problems that are related to mathematical. You should familiar wit
 | 9 | https://leetcode.com/problems/palindrome-number/ | [this link](../practice/solution/0009_palindrome_number.py) |
 | 50 | https://leetcode.com/problems/powx-n/ | [this link](../practice/solution/0050_powx_n.py) | 
 | 69 | https://leetcode.com/problems/sqrtx/ | |
-| 289 | https://leetcode.com/problems/game-of-life/ | |
+| 289 | https://leetcode.com/problems/game-of-life/ | [this link](../practice/solution/0289_game_of_life.py) |
 | 365 | https://leetcode.com/problems/water-and-jug-problem/ | |
 | 367 | https://leetcode.com/problems/valid-perfect-square/ | |
 | 412 | https://leetcode.com/problems/fizz-buzz/ | [this link](../practice/solution/0412_fizz_buzz.py) |
