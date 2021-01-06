@@ -29,7 +29,6 @@ For programming practice, you need to know how to: 1)iterate through 1D array, 2
 | *#* | *Link* |*Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 14 | https://leetcode.com/problems/longest-common-prefix/ | [this link](../practice/solution/0014_longest_common_prefix.py) |
-| 28 | https://leetcode.com/problems/implement-strstr/ | [this link](../practice/solution/0028_implement_strstr.py) |
 | 41 | https://leetcode.com/problems/first-missing-positive/ | [this link](../practice/solution/0041_first_missing_positive.py) |
 | 54 | https://leetcode.com/problems/spiral-matrix/ | [this link](../practice/solution/0054_spiral_matrix.py) |
 | 56 | https://leetcode.com/problems/merge-intervals/ | [this link](../practice/solution/0056_merge_intervals.py) |
@@ -108,6 +107,7 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 6 | https://leetcode.com/problems/zigzag-conversion/ | [this link](../practice/solution/0006_zigzag_conversion.py) | 
 | 8 | https://leetcode.com/problems/string-to-integer-atoi/ | [this link](../practice/solution/0008_string_to_integer_atoi.py) | 
 | 12 | https://leetcode.com/problems/integer-to-roman/ | [this link](../practice/solution/0012_integer_to_roman.py)|
+| 28 | https://leetcode.com/problems/implement-strstr/ | [this link](../practice/solution/0028_implement_strstr.py) |
 | 38 | https://leetcode.com/problems/count-and-say/ | [this link](../practice/solution/0038_count_and_say.py) |
 | 58 | https://leetcode.com/problems/length-of-last-word/ | [this link](../practice/solution/0058_length_of_last_word.py) | 
 | 65 | https://leetcode.com/problems/valid-number/ | [this link](../practice/solution/0065_valid_number.py) |
