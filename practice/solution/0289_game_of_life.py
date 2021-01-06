@@ -13,10 +13,12 @@ class Solution(object):
                     else:
                         board[i][j] = 0
                 else:
-                    if self.helper(i, j, board) < 2 or self.helper(i, j, board) > 3:
-                        board[i][j] = 3
-                    else:
+                    if self.helper(i, j, board) == 2:
                         board[i][j] = 1
+                    elif self.helper(i, j, board) == 3:
+                        board[i][j] = 1
+                    else:
+                        board[i][j] = 3
                         
         for i in range(len(board)):
             for j in range(len(board[0])):
