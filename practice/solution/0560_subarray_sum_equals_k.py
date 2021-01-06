@@ -7,10 +7,10 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-            
-        presum_value = 0
+        
         value_dict = collections.Counter()
         value_dict[0] = 1
+        presum_value = 0
         res = 0
         
         for num in nums:
