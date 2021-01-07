@@ -21,7 +21,6 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 273 | https://leetcode.com/problems/integer-to-english-words/| [this link](../practice/solution/0273_integer_to_english_words.py) |
 | 339 | https://leetcode.com/problems/nested-list-weight-sum/ | |
 | 364 | https://leetcode.com/problems/nested-list-weight-sum-ii/ | |
-| 403 | https://leetcode.com/problems/frog-jump/ | |
 | 472 | https://leetcode.com/problems/concatenated-words/ | [this link](../practice/solution/0472_concatenated_words.py) |
 | 473 | https://leetcode.com/problems/matchsticks-to-square/ | |
 
