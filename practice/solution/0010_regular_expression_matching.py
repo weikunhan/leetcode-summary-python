@@ -12,22 +12,25 @@ class Solution(object):
         dp_list[0][0] = True
         res = False
         
-        for i in range(1, row_end):
+        for i in range(1, len(p)):
             if p[i] == '*' and dp_list[i - 1][0]:
                 dp_list[i + 1][0] = True
                 
-        for i in range(row_end):
-            for j in range(col_end):
+        for i in range(len(p)):
+            for j in range(len(s)):
                 if p[i] != '*':
                     if dp_list[i][j] and (p[i] == s[j] or p[i] == '.'):
                         dp_list[i + 1][j + 1] = True
                 else:
-                    if dp_list[i - 1][j + 1] or dp_list[i][j + 1]:
+                    if dp_list[i][j + 1]:
+                        dp_list[i + 1][j + 1] = True
+                        
+                    if dp_list[i - 1][j + 1]:
                         dp_list[i + 1][j + 1] = True
                         
                     if dp_list[i + 1][j] and (p[i - 1] == s[j] or p[i - 1] == '.'):
-                        dp_list[i + 1][j + 1] = True 
-                            
-        res = dp_list[-1][-1]
-        
+                        dp_list[i + 1][j + 1] = True
+               
+        res = dp_list[-1][-1] 
+            
         return res
