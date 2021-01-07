@@ -81,6 +81,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | 86 | https://leetcode.com/problems/partition-list/ | |
 | 92 | https://leetcode.com/problems/reverse-linked-list-ii/ | [this link](../practice/solution/0092_reverse_linked_list_ii.py) |
 | 138 | https://leetcode.com/problems/copy-list-with-random-pointer/ | [this link](../practice/solution/0138_copy_list_with_random_pointer.py) |
+| 141 | https://leetcode.com/problems/linked-list-cycle/ | [this link](../practice/solution/0141_linked_list_cycle.py) |
 | 143 | https://leetcode.com/problems/reorder-list/ | |
 | 148 | https://leetcode.com/problems/sort-list/ | [this link](../practice/solution/0148_sort_list.py) |
 | 160 | https://leetcode.com/problems/intersection-of-two-linked-lists/ | [this link](../practice/solution/0160_intersection_of_two_linked_lists.py) |
