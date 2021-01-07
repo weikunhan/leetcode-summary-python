@@ -30,8 +30,9 @@ The sliding window algorithm can be used to solve the problem of array/string su
 | ---- | --------------------------------- | --------------------------------- |
 | 3 | https://leetcode.com/problems/longest-substring-without-repeating-characters/ | [this link](../practice/solution/0003_longest_substring_without_repeating_characters.py) |
 | 30 | https://leetcode.com/problems/substring-with-concatenation-of-all-words/ | |
-| 340 | https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/ | [this link](../practice/solution/0340_longest_substring_with_at_most_k_distinct_characters.py) |
 | 76 | https://leetcode.com/problems/minimum-window-substring/ | [this link](../practice/solution/0076_minimum_window_substring.py) |
+| 209 | https://leetcode.com/problems/minimum-size-subarray-sum/ | [this link](../practice/solution/0209_minimum_size_subarray_sum.py) |
+| 340 | https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/ | [this link](../practice/solution/0340_longest_substring_with_at_most_k_distinct_characters.py) |
 | 992 | https://leetcode.com/problems/subarrays-with-k-different-integers/ | [this link](../practice/solution/0992_subarrays_with_k_different_integers.py) |
 | 992* | https://leetcode.com/discuss/interview-question/370157 | [this link](../practice/a/substrings_with_exactly_k_distinct_chars.py) |
 | 992* | https://leetcode.com/discuss/interview-question/370112 | [this link](../practice/a/substrings_of_size_k_with_k_distinct_chars.py) |
