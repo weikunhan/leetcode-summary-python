@@ -13,9 +13,9 @@ class Solution(object):
         value_dict[0] = 1 
         res = 0
         
-        for value in A:
-            presum_value = (presum_value + value) % K
-            res += value_dict[presum_value]
-            value_dict[presum_value] += 1
+        for num in A:
+            presum_value += num
+            res += value_dict[presum_value % K]
+            value_dict[presum_value % K] += 1
         
         return res
