@@ -38,6 +38,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 407 | https://leetcode.com/problems/pacific-atlantic-water-flow/ | [this link](../practice/solution/0417_pacific_atlantic_water_flow.py) |
 | 489 | https://leetcode.com/problems/robot-room-cleaner/ | |
 | 694 | https://leetcode.com/problems/number-of-distinct-islands/ | [this link](../practice/solution/0694_number_of_distinct_islands.py) | 
+| 529 | https://leetcode.com/problems/minesweeper/ | [this link](../practice/solution/0529_minesweeper.py) |
 | 733 | https://leetcode.com/problems/flood-fill/ | |
 | 1254 | https://leetcode.com/problems/number-of-closed-islands/ | [this link](../practice/solution/1254_number_of_closed_islands.py) |
 
