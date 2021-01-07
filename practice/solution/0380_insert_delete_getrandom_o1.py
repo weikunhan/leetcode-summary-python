@@ -9,7 +9,7 @@ class RandomizedSet(object):
         
         self.value_list = []
         self.value_dict = {}
-        
+
     def insert(self, val):
         """
         Inserts a value to the set. Returns true if the set did not already contain the specified element.
@@ -34,8 +34,8 @@ class RandomizedSet(object):
         
         if val in self.value_dict:
             index_value = self.value_dict[val]
-            self.value_dict[self.value_list[-1]] = index_value
             self.value_list[index_value] = self.value_list[-1]
+            self.value_dict[self.value_list[-1]] = index_value
             self.value_list.pop()
             self.value_dict.pop(val)
             
@@ -52,7 +52,7 @@ class RandomizedSet(object):
         temp_value = self.value_list[random.randint(0, len(self.value_list) - 1)]
         
         return temp_value
-
+           
 
 # Your RandomizedSet object will be instantiated and called as such:
 # obj = RandomizedSet()
