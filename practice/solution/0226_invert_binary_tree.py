@@ -23,8 +23,10 @@ class Solution(object):
             
             return 
         
+        self.postorder(root.left)
+        self.postorder(root.right)
         temp = root.left
-        root.left = self.postorder(root.right)
-        root.right = self.postorder(temp)
+        root.left = root.right
+        root.right = temp
         
-        return root        
+        return root           
