@@ -6,15 +6,15 @@ class Solution(object):
         """
         
         value_dict = set()
-        self.value_list = []
+        self.temp_value = ''
         self.res = 0
         
         for i in range(len(grid)):
             for j in range(len(grid[0])):
                 if grid[i][j] == 1: 
                     self.dfs(i, j, grid)
-                    value_dict.add(''.join(self.value_list))
-                    self.value_list = []
+                    value_dict.add(self.temp_value)
+                    self.temp_value = ''
         
         self.res = len(value_dict)
         
@@ -25,13 +25,13 @@ class Solution(object):
             
             return 
         
-        self.value_list.append('o')
+        self.temp_value += 'o'
         grid[row][col] = 0
-        self.value_list.append('u')
+        self.temp_value += 'u'
         self.dfs(row + 1, col, grid)
-        self.value_list.append('d')
+        self.temp_value += 'd'
         self.dfs(row - 1, col, grid)
-        self.value_list.append('r')
+        self.temp_value += 'r'
         self.dfs(row, col + 1, grid)
-        self.value_list.append('l')
+        self.temp_value += 'l'
         self.dfs(row, col - 1, grid)
