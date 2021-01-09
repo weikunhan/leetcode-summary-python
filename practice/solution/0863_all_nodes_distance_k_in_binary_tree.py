@@ -27,7 +27,6 @@ class Solution(object):
             temp_value = len(value_list)
 
             if value_list[0][1] == K:
-               
                 for temp_node in value_list:
                     self.res.append(temp_node[0])
                     
