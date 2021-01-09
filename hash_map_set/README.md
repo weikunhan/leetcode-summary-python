@@ -36,6 +36,7 @@ The time complexity of the hash map is O(1) (Search O(1), Insert O(1), Delete O(
 | 974 | https://leetcode.com/problems/subarray-sums-divisible-by-k/ | [this link](../practice/solution/0974_subarray_sums_divisible_by_k.py) |
 | 1138 | https://leetcode.com/problems/alphabet-board-path/ | |
 | 1207 | https://leetcode.com/problems/unique-number-of-occurrences/ | |
+| 1410 | https://leetcode.com/problems/html-entity-parser/ | [this link](../practice/solution/1410_html_entity_parser.py) |
 | | https://leetcode.com/discuss/interview-question/373006 | [this link](../practice/a/favorite_genres.py) |
 | | https://www.1point3acres.com/bbs/thread-580122-1-1.html | [this link](../practice/a/user_based_recommendation_system.py) |
 | | https://www.1point3acres.com/bbs/thread-610975-1-1.html | [this link](../practice/others/throttling_gateway.py) |
