@@ -125,5 +125,6 @@ For this kind of question, there is a common point that the problem is talking a
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
 | 486 | https://leetcode.com/problems/predict-the-winner/ | |
+| 801 | https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/ | [this link](../practice/solution/0801_minimum_swaps_to_make_sequences_increasing.py) |
 | 1048 | https://leetcode.com/problems/longest-string-chain/ | |
 | 1153 | https://leetcode.com/problems/string-transforms-into-another-string/ | |
