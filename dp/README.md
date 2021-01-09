@@ -78,7 +78,7 @@ For this kind of question, you need to preprocess calculate the sum into 1D or 2
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 221 | https://leetcode.com/problems/maximal-square/ |
+| 221 | https://leetcode.com/problems/maximal-square/ | [this link](../practice/solution/0221_maximal_square.py) |
 | 304 | https://leetcode.com/problems/range-sum-query-2d-immutable/ |
 
 ## Knapsack DP
