@@ -29,6 +29,7 @@ The time complexity of this technique depends on the question.
 | 344 | https://leetcode.com/problems/reverse-string/ | [this link](../practice/solution/0344_reverse_string.py) |
 | 415 | https://leetcode.com/problems/add-strings/ | [this link](../practice/solution/0415_add_strings.py) |
 | 881 | https://leetcode.com/problems/boats-to-save-people/ | |
+| 986 | https://leetcode.com/problems/interval-list-intersections/ | [this link](../practice/solution/0986_interval_list_intersections.py) |
 | 1099 | https://leetcode.com/problems/two-sum-less-than-k/ | [this link](../practice/solution/1099_two_sum_less_than_k.py) |
 | 1099* | https://leetcode.com/discuss/interview-question/373202 | [this link](../practice/a/optimal_utilization.py) |
 | 1229 | https://leetcode.com/problems/meeting-scheduler/ | |
