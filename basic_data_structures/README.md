@@ -37,6 +37,7 @@ For programming practice, you need to know how to: 1)iterate through 1D array, 2
 | 66 | https://leetcode.com/problems/plus-one/ | [this link](../practice/solution/0066_plus_one.py) | 
 | 167 | https://leetcode.com/problems/majority-element/ | [this link](../practice/solution/0169_majority_element.py) |
 | 238 | https://leetcode.com/problems/product-of-array-except-self/ | [this link](../practice/solution/0238_product_of_array_except_self.py) |
+| 243 | https://leetcode.com/problems/shortest-word-distance/ | [this link](../practice/solution/0243_shortest_word_distance.py) |
 | 252 | https://leetcode.com/problems/meeting-rooms/ | [this link](../practice/solution/0252_meeting_rooms.py) |
 | 253 | https://leetcode.com/problems/meeting-rooms-ii/ | [this link](../practice/solution/0253_meeting_rooms_ii.py) |
 | 268 | https://leetcode.com/problems/missing-number/ | [this link](../practice/solution/0268_missing_number.py) | 
