@@ -52,6 +52,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 101 | https://leetcode.com/problems/symmetric-tree/ | [this link](../practice/solution/0101_symmetric_tree.py) |
 | 450 | https://leetcode.com/problems/delete-node-in-a-bst/ | [this link](../practice/solution/0450_delete_node_in_a_bst.py) |
+| 510 | https://leetcode.com/problems/inorder-successor-in-bst-ii/ | [this link](../practice/solution/0510_inorder_successor_in_bst_ii.py) |
 | 545 | https://leetcode.com/problems/boundary-of-binary-tree/ | [this link](../practice/solution/0545_boundary_of_binary_tree.py) |
 | 572 | https://leetcode.com/problems/subtree-of-another-tree/ | [this link](../practice/solution/0572_subtree_of_another_tree.py) |
 | 617 | https://leetcode.com/problems/merge-two-binary-trees/ | [this link](../practice/solution/0617_merge_two_binary_trees.py) |
