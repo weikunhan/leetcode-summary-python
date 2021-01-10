@@ -37,6 +37,7 @@ For more information, you need to check related courses and books. Here, I split
 | 170 | https://leetcode.com/problems/two-sum-iii-data-structure-design/ | |
 | 244 | https://leetcode.com/problems/shortest-word-distance-ii/ | |
 | 288 | https://leetcode.com/problems/unique-word-abbreviation/ | |
+| 359 | https://leetcode.com/problems/logger-rate-limiter/ | [this link](../practice/solution/0359_logger_rate_limiter.py) |
 | 380 | https://leetcode.com/problems/insert-delete-getrandom-o1/ | [this link](../practice/solution/0380_insert_delete_getrandom_o1.py) | 
 | 460 | https://leetcode.com/problems/lfu-cache/ | |
 | 535 | https://leetcode.com/problems/encode-and-decode-tinyurl/ | [this link](../practice/solution/0535_encode_and_decode_tinyurl.py) |
