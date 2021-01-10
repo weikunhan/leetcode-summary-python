@@ -87,6 +87,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 98 | https://leetcode.com/problems/validate-binary-search-tree/ | [this link](../practice/solution/0098_validate_binary_search_tree.py) |
 | 99 | https://leetcode.com/problems/recover-binary-search-tree/ | [this link](../practice/solution/0099_recover_binary_search_tree.py) |
 | 230 | https://leetcode.com/problems/kth-smallest-element-in-a-bst/ | [this link](../practice/solution/0230_kth_smallest_element_in_a_bst.py) |
+| 272 | https://leetcode.com/problems/closest-binary-search-tree-value-ii/ | [this link](../practice/solution/0272_closest_binary_search_tree_value_ii.py) |
 | 426 | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/ | [this link](../practice/solution/0426_convert_binary_search_tree_to_sorted_doubly_linked_list.py) |
 | 1038 | https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/ | |
 | 1305 | https://leetcode.com/problems/all-elements-in-two-binary-search-trees/ | [this link](../practice/solution/1305_all_elements_in_two_binary_search_trees.py) |
