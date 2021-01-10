@@ -31,6 +31,7 @@ The time complexity of the union-find is (log*(n)).
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 305 | https://leetcode.com/problems/number-of-islands-ii/ | [this link](../practice/solution/0305_number_of_islands_ii.py) |
 | 547 | https://leetcode.com/problems/friend-circles/ | |
 | 721 | https://leetcode.com/problems/accounts-merge/ | [this link](../practice/solution/0721_accounts_merge.py) |
 | 737 | https://leetcode.com/problems/sentence-similarity-ii/ | |
