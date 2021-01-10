@@ -8,8 +8,8 @@ class Solution(object):
         """
         
         self.parent_value_dict = {}
-        self.mapping_value_dict = {}
-        self.merging_value_dict = collections.defaultdict(list)
+        mapping_value_dict = {}
+        merging_value_dict = collections.defaultdict(list)
         self.res = []
         
         for acount in accounts:
@@ -20,14 +20,14 @@ class Solution(object):
                     self.parent_value_dict[email] = email
                     
                 self.union(email, acount[1])
-                self.mapping_value_dict[email] = name_value
+                mapping_value_dict[email] = name_value
                 
         for key, value in self.parent_value_dict.items():
             temp_value = self.find(key)
-            self.merging_value_dict[temp_value].append(key)
+            merging_value_dict[temp_value].append(key)
             
-        for key, value in self.merging_value_dict.items():
-            name_value = self.mapping_value_dict[key]
+        for key, value in merging_value_dict.items():
+            name_value = mapping_value_dict[key]
             self.res.append([name_value] + sorted(value))
             
         return self.res
