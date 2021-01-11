@@ -80,7 +80,6 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 589 | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | |
 | 700 | https://leetcode.com/problems/search-in-a-binary-search-tree/ | |
 | 701 | https://leetcode.com/problems/insert-into-a-binary-search-tree/ | |
-| 863 | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/ | |
 | 1008 | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/ | [this link](../practice/solution/1008_construct_binary_search_tree_from_preorder_traversal.py) |
 
 ### Inorder
