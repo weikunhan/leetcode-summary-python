@@ -56,6 +56,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 545 | https://leetcode.com/problems/boundary-of-binary-tree/ | [this link](../practice/solution/0545_boundary_of_binary_tree.py) |
 | 572 | https://leetcode.com/problems/subtree-of-another-tree/ | [this link](../practice/solution/0572_subtree_of_another_tree.py) |
 | 617 | https://leetcode.com/problems/merge-two-binary-trees/ | [this link](../practice/solution/0617_merge_two_binary_trees.py) |
+| 965 | https://leetcode.com/problems/univalued-binary-tree/ | [this link](../practice/solution/0965_univalued_binary_tree.py) |
 
 ### Preorder
 
