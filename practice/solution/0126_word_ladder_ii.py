@@ -9,14 +9,14 @@ class Solution(object):
         :rtype: List[List[str]]
         """
         
-        visit_value_dict = set(wordList)
-        target_value_dict = {beginWord: [[beginWord]]}
+        data_value_dict = set(wordList)
+        visit_value_dict = {beginWord: [[beginWord]]}
         res = []
         
-        while target_value_dict:
+        while visit_value_dict:
             temp_dict = collections.defaultdict(list)
             
-            for word, value_list in target_value_dict.items():
+            for word, value_list in visit_value_dict.items():
                 if word == endWord:
                     res = value_list
                     
@@ -26,13 +26,13 @@ class Solution(object):
                     for char in 'abcdefghijklmnopqrstuvwxyz':
                         next_value = word[:i] + char + word[i + 1:]
                         
-                        if next_value in visit_value_dict and not next_value in target_value_dict:
+                        if next_value in data_value_dict and not next_value in visit_value_dict:
                             for temp_list in value_list:
                                 temp_dict[next_value] += [temp_list + [next_value]]
                 
             for key in temp_dict:
-                visit_value_dict.remove(key)
+                data_value_dict.remove(key)
                     
-            target_value_dict = temp_dict
+            visit_value_dict = temp_dict
             
         return res
