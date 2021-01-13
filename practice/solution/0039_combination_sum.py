@@ -17,7 +17,7 @@ class Solution(object):
             
             return
         
-        if target == 0:
+        if not target:
             self.res.append(value_list)
             
         for i in range(start, len(candidates)):
