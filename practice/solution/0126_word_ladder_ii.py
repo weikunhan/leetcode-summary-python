@@ -30,7 +30,7 @@ class Solution(object):
                             for temp_list in value_list:
                                 temp_dict[next_value] += [temp_list + [next_value]]
                 
-            for key in temp_dict:
+            for key, value in temp_dict.items():
                 data_value_dict.remove(key)
                     
             visit_value_dict = temp_dict
