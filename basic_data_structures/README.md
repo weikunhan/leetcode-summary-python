@@ -36,7 +36,9 @@ For programming practice, you need to know how to: 1)iterate through 1D array, 2
 | 59 | https://leetcode.com/problems/spiral-matrix-ii/ | [this link](../practice/solution/0059_spiral_matrix_ii.py) |
 | 66 | https://leetcode.com/problems/plus-one/ | [this link](../practice/solution/0066_plus_one.py) | 
 | 167 | https://leetcode.com/problems/majority-element/ | [this link](../practice/solution/0169_majority_element.py) |
+| 189 | https://leetcode.com/problems/rotate-array/ | [this link](../practice/solution/0189_rotate_array.py) |
 | 238 | https://leetcode.com/problems/product-of-array-except-self/ | [this link](../practice/solution/0238_product_of_array_except_self.py) |
+| 243 | https://leetcode.com/problems/shortest-word-distance/ | [this link](../practice/solution/0243_shortest_word_distance.py) |
 | 252 | https://leetcode.com/problems/meeting-rooms/ | [this link](../practice/solution/0252_meeting_rooms.py) |
 | 253 | https://leetcode.com/problems/meeting-rooms-ii/ | [this link](../practice/solution/0253_meeting_rooms_ii.py) |
 | 268 | https://leetcode.com/problems/missing-number/ | [this link](../practice/solution/0268_missing_number.py) | 
@@ -52,6 +54,7 @@ For programming practice, you need to know how to: 1)iterate through 1D array, 2
 | 836 | https://leetcode.com/problems/rectangle-overlap/ | [this link](../practice/solution/0836_rectangle_overlap.py) | 
 | 945 | https://leetcode.com/problems/minimum-increment-to-make-array-unique/ | [this link](../practice/solution/0945_minimum_increment_to_make_array_unique.py) |
 | 957 | https://leetcode.com/problems/prison-cells-after-n-days/ | [this link](../practice/solution/0957_prison_cells_after_n_days.py) |
+| 977 | https://leetcode.com/problems/squares-of-a-sorted-array/ | [this link](../practice/solution/0977_squares_of_a_sorted_array.py) |
 | 1013 | https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ | [this link](../practice/solution/1013_partition_array_into_three_parts_with_equal_sum.py) |
 | 1031 | https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/ | [this link](../practice/solution/1031_maximum_sum_of_two_non_overlapping_subarrays.py) |
 | 1243 | https://leetcode.com/problems/array-transformation/ | [this link](../practice/solution/1243_array_transformation.py) |
@@ -130,6 +133,6 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 681 | https://leetcode.com/problems/next-closest-time/ | [this link](../practice/solution/0681_next_closest_time.py) |
 | 722 | https://leetcode.com/problems/remove-comments/ | [this link](../practice/solution/0722_remove_comments.py) |
 | 777 | https://leetcode.com/problems/swap-adjacent-in-lr-string/ | [this link](../practice/solution/0777_swap_adjacent_in_lr_string.py) |
-| 796 | https://leetcode.com/problems/rotate-string/ | |
+| 796 | https://leetcode.com/problems/rotate-string/ | [this link](../practice/solution/0796_rotate_string.py) |
 | 806 | https://leetcode.com/problems/number-of-lines-to-write-string/ | |
 | 937 | https://leetcode.com/problems/reorder-data-in-log-files/ | [this link](../practice/solution/0937_reorder_data_in_log_files.py) |

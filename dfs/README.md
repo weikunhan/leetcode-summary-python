@@ -52,9 +52,12 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | ---- | --------------------------------- | --------------------------------- |
 | 101 | https://leetcode.com/problems/symmetric-tree/ | [this link](../practice/solution/0101_symmetric_tree.py) |
 | 450 | https://leetcode.com/problems/delete-node-in-a-bst/ | [this link](../practice/solution/0450_delete_node_in_a_bst.py) |
+| 510 | https://leetcode.com/problems/inorder-successor-in-bst-ii/ | [this link](../practice/solution/0510_inorder_successor_in_bst_ii.py) |
 | 545 | https://leetcode.com/problems/boundary-of-binary-tree/ | [this link](../practice/solution/0545_boundary_of_binary_tree.py) |
 | 572 | https://leetcode.com/problems/subtree-of-another-tree/ | [this link](../practice/solution/0572_subtree_of_another_tree.py) |
 | 617 | https://leetcode.com/problems/merge-two-binary-trees/ | [this link](../practice/solution/0617_merge_two_binary_trees.py) |
+| 894 | https://leetcode.com/problems/all-possible-full-binary-trees/ | [this link](../practice/solution/0894_all_possible_full_binary_trees.py) |
+| 965 | https://leetcode.com/problems/univalued-binary-tree/ | [this link](../practice/solution/0965_univalued_binary_tree.py) |
 
 ### Preorder
 
@@ -77,7 +80,7 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 589 | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | |
 | 700 | https://leetcode.com/problems/search-in-a-binary-search-tree/ | |
 | 701 | https://leetcode.com/problems/insert-into-a-binary-search-tree/ | |
-| 863 | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/ | |
+| 1008 | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/ | [this link](../practice/solution/1008_construct_binary_search_tree_from_preorder_traversal.py) |
 
 ### Inorder
 
@@ -87,7 +90,9 @@ The following questions, I prefer to solve by using DFS. It may have the optimal
 | 98 | https://leetcode.com/problems/validate-binary-search-tree/ | [this link](../practice/solution/0098_validate_binary_search_tree.py) |
 | 99 | https://leetcode.com/problems/recover-binary-search-tree/ | [this link](../practice/solution/0099_recover_binary_search_tree.py) |
 | 230 | https://leetcode.com/problems/kth-smallest-element-in-a-bst/ | [this link](../practice/solution/0230_kth_smallest_element_in_a_bst.py) |
+| 272 | https://leetcode.com/problems/closest-binary-search-tree-value-ii/ | [this link](../practice/solution/0272_closest_binary_search_tree_value_ii.py) |
 | 426 | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/ | [this link](../practice/solution/0426_convert_binary_search_tree_to_sorted_doubly_linked_list.py) |
+| 938 | https://leetcode.com/problems/range-sum-of-bst/ | [this link](../practice/solution/0938_range_sum_of_bst.py) |
 | 1038 | https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/ | |
 | 1305 | https://leetcode.com/problems/all-elements-in-two-binary-search-trees/ | [this link](../practice/solution/1305_all_elements_in_two_binary_search_trees.py) |
 | 1382 | https://leetcode.com/problems/balance-a-binary-search-tree/submissions/ | |

@@ -20,6 +20,6 @@ class Solution(object):
             if word_value and not word_value in data_value_dict:
                 count_value_dict[word_value] += 1
                 
-        res = heapq.nlargest(1, count_value_dict, lambda x:count_value_dict[x])[0]
+        res = heapq.nlargest(1, count_value_dict, key=lambda x:count_value_dict[x])[0]
         
         return res

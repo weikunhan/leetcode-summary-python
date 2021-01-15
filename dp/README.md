@@ -78,7 +78,7 @@ For this kind of question, you need to preprocess calculate the sum into 1D or 2
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
-| 221 | https://leetcode.com/problems/maximal-square/ |
+| 221 | https://leetcode.com/problems/maximal-square/ | [this link](../practice/solution/0221_maximal_square.py) |
 | 304 | https://leetcode.com/problems/range-sum-query-2d-immutable/ |
 
 ## Knapsack DP
@@ -124,6 +124,7 @@ For this kind of question, there is a common point that the problem is talking a
 
 | *#* | *Link* | *Solution* |
 | ---- | --------------------------------- | --------------------------------- |
+| 152 | https://leetcode.com/problems/maximum-product-subarray/ | [this link](../practice/solution/0152_maximum_product_subarray.py) |
 | 486 | https://leetcode.com/problems/predict-the-winner/ | |
 | 801 | https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/ | [this link](../practice/solution/0801_minimum_swaps_to_make_sequences_increasing.py) |
 | 1048 | https://leetcode.com/problems/longest-string-chain/ | |

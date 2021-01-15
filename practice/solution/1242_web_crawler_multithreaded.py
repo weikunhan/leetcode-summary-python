@@ -21,10 +21,10 @@ class Solution(object):
         """
         
         self.value_list = collections.deque([startUrl])
-        self.work_value = 10
         self.thread_lock = threading.Lock()
         self.hostname_value = 'http://' + startUrl.split('/')[2]
         self.value_dict = set(self.value_list)
+        work_value = 10
         self.res = []
         
         while self.value_list:
@@ -38,7 +38,7 @@ class Solution(object):
                 temp_list.append(thread_value)
                 count += 1
                 
-                if count == self.work_value:
+                if count == work_value:
                     self.executor(temp_list)
                     temp_list = []
                     count = 1

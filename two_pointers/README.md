@@ -32,7 +32,7 @@ The time complexity of this technique depends on the question.
 | 986 | https://leetcode.com/problems/interval-list-intersections/ | [this link](../practice/solution/0986_interval_list_intersections.py) |
 | 1099 | https://leetcode.com/problems/two-sum-less-than-k/ | [this link](../practice/solution/1099_two_sum_less_than_k.py) |
 | 1099* | https://leetcode.com/discuss/interview-question/373202 | [this link](../practice/a/optimal_utilization.py) |
-| 1229 | https://leetcode.com/problems/meeting-scheduler/ | |
+| 1229 | https://leetcode.com/problems/meeting-scheduler/ | [this link](../practice/solution/1229_meeting_scheduler.py) |
 
 ## String
 
