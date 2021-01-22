@@ -8,6 +8,7 @@ class Solution(object):
         
         left = 0
         right = 0
+        res = 0
         
         while right < len(A):
             temp_value = A[right]
@@ -16,9 +17,9 @@ class Solution(object):
             if K < 0:
                 K += 1 - A[left]
                 left += 1
-            
-            right += 1
                 
-        res = len(A) - left
-        
+            res = max(res, right - left + 1)
+            right += 1
+            
         return res
+                
