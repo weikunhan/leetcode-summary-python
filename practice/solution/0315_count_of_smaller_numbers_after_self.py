@@ -23,13 +23,12 @@ class Solution(object):
                 sum_value += value_list[index_value]
                 index_value -= (index_value & -index_value)
                 
+            res.append(sum_value)
             index_value = value_dict[num]
             
             while index_value < max_value:
                 value_list[index_value] += 1
                 index_value += (index_value & -index_value)
-            
-            res.append(sum_value)
             
         res = res[::-1]
             
