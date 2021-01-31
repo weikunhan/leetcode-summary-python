@@ -20,8 +20,8 @@ class Solution(object):
         return res
 
 #        res = 0
-#       
-#       for num in nums:
-#           res ^= num
-#           
+#        
+#        for num in nums:
+#            res ^= num
+#            
 #        return res
