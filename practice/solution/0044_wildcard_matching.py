@@ -6,27 +6,33 @@ class Solution(object):
         :rtype: bool
         """
         
-        row_end = len(p)
-        col_end = len(s)
+        row_end = len(s)
+        col_end = len(p)
         dp_list = [[False] * (col_end + 1) for _ in range(row_end + 1)]
-        dp_list[row_end][col_end] = True
+        dp_list[0][0] = True
         res = False
         
-        for i in reversed(range(row_end)):
+        for i in range(len(p)):
             if p[i] != '*':
                 break
-
-            dp_list[i][col_end] = True
-        
-        for i in reversed(range(row_end)):
-            for j in reversed(range(col_end)):
-                if p[i] != '*':
-                    if  dp_list[i + 1][j + 1] and (p[i] == s[j] or p[i] == '?'):
-                        dp_list[i][j] = True
+                
+            dp_list[0][i + 1] = True
+                
+        for i in range(len(s)):
+            for j in range(len(p)):
+                if p[j] != '*':
+                    if dp_list[i][j] and (p[j] ==s[i] or p[j] == '?'):
+                        dp_list[i + 1][j + 1] = True
                 else:
-                    if dp_list[i + 1][j] or dp_list[i][j + 1]:
-                        dp_list[i][j] = True
-                    
-        res = dp_list[0][0]
-        
+                    if dp_list[i][j + 1]:
+                        dp_list[i + 1][j + 1] = True
+                        
+                    if dp_list[i][j]:
+                        dp_list[i + 1][j + 1] = True
+                        
+                    if dp_list[i + 1][j]:
+                        dp_list[i + 1][j + 1] = True
+
+        res = dp_list[-1][-1] 
+            
         return res

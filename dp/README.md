@@ -51,7 +51,7 @@ For this kind of question, you need to use 2D DP array to transfer state when de
 | ---- | --------------------------------- | --------------------------------- |
 | 5 | https://leetcode.com/problems/longest-palindromic-substring/ | [this link](../practice/solution/0005_longest_palindromic_substring.py) |
 | 10 | https://leetcode.com/problems/regular-expression-matching/ | [this link](../practice/solution/0010_regular_expression_matching.py) |
-| 44 | https://leetcode.com/problems/wildcard-matching/ | |
+| 44 | https://leetcode.com/problems/wildcard-matching/ | [this link](../practice/solution/0044_wildcard_matching.py) |
 | 72 | https://leetcode.com/problems/edit-distance/ | |
 | 97 | https://leetcode.com/problems/interleaving-string/ | |
 | 887 | https://leetcode.com/problems/super-egg-drop/ | |
