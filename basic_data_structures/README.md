@@ -78,7 +78,7 @@ This type of problem includes: 1)delete elements in the linked list, 2)insert el
 | 21 | https://leetcode.com/problems/merge-two-sorted-lists/ | [this link](../practice/solution/0021_merge_two_sorted_lists.py) |
 | 23 | https://leetcode.com/problems/merge-k-sorted-lists/ | [this link](../practice/solution/0023_merge_k_sorted_lists.py) |
 | 24 | https://leetcode.com/problems/swap-nodes-in-pairs/ | [this link](../practice/solution/0024_swap_nodes_in_pairs.py) |
-| 25 | https://leetcode.com/problems/reverse-nodes-in-k-group/ | |
+| 25 | https://leetcode.com/problems/reverse-nodes-in-k-group/ | [this link](../practice/solution/0025_reverse_nodes_in_k_group.py) |
 | 82 | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/ | |
 | 83 | https://leetcode.com/problems/remove-duplicates-from-sorted-list/ | [this link](../practice/solution/0083_remove_duplicates_from_sorted_list.py) |
 | 86 | https://leetcode.com/problems/partition-list/ | |
