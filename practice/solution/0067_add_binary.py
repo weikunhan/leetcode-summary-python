@@ -18,7 +18,6 @@ class Solution(object):
                     
                 left -= 1
                 
-                
             if right >= 0:
                 if b[right] == '1':
                     carry += 1
