@@ -115,6 +115,7 @@ This type of problem includes: 1)sort string syntax, 2)split and join string syn
 | 38 | https://leetcode.com/problems/count-and-say/ | [this link](../practice/solution/0038_count_and_say.py) |
 | 58 | https://leetcode.com/problems/length-of-last-word/ | [this link](../practice/solution/0058_length_of_last_word.py) | 
 | 65 | https://leetcode.com/problems/valid-number/ | [this link](../practice/solution/0065_valid_number.py) |
+| 68 | https://leetcode.com/problems/text-justification/ | [this link](../practice/solution/0068_text_justification.py) |
 | 93 | https://leetcode.com/problems/restore-ip-addresses/ | [this link](../practice/solution/0093_restore_ip_addresses.py) |
 | 125 | https://leetcode.com/problems/valid-palindrome/ | [this link](../practice/solution/0125_valid_palindrome.py) |
 | 151 | https://leetcode.com/problems/reverse-words-in-a-string/ | [this link](../practice/solution/0151_reverse_words_in_a_string.py) |
